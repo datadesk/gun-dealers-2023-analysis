@@ -1,0 +1,124 @@
+---
+title: "Dealer density effect on firearm homicides"
+author: "Gabrielle LaMarr LeMee"
+date: "2023-11-21"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fixest)
+library(dplyr)
+```
+
+The analysis uses ATF's Federal Firearms License data and Census data from 2009-2019. CDC homicide data from 2011-2021 lags two years behind to assess the effect of demographic and dealer density changes on the homicide rate. The analysis uses a fixed effects poisson regression model to compare changes by county over time to reduce differences between locations. The model included logged median household income, logged population, percent Black residents, percent Latino residents. 
+
+~~The county-level results showed an increase of less than a percent. When including neighbor counties, the increase jumps to 3.3%. Counties that have a high percentage of Black residents, the increase is 5.3%. Counties with a high homicide rate have a 7% increase, and counties with more residents in poverty see a 13.7% increase.~~
+
+These especially vulnerable characteristics do not describe Los Angeles County, though as a large region, there are, of course, parts of the County that may respond more to an increase or decrease in dealers. 
+
+Explanation on the Fixest library and the poisson distribution: <https://tilburgsciencehub.com/building-blocks/analyze-data/regressions-paneldata/fixest/>
+
+More explanation on the poisson distribution: <https://en.wikipedia.org/wiki/Poisson_distribution>
+
+```{r load_data, echo=FALSE}
+firearm_data <- read.csv("../../data/processed/county_firearm_homicides_dealers.csv")
+nonfirearm_data <- read.csv("../../data/processed/county_nonfirearm_homicides_dealers.csv")
+```
+
+## FFLs per 100sqmi effect on firearm homicides
+
+### County-level
+
+```{r echo=FALSE}
+etable(fepois(deaths ~ ffl_per_100mi + black_pct + ln_income + ln_population | fips, firearm_data, cluster = ~fips))
+```
+
+### County + neighbors
+
+```{r echo=FALSE}
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, firearm_data, cluster = ~fips))
+```
+
+### Counties with a large Black population + neighbors
+
+```{r echo=FALSE}
+quantile(firearm_data$black_pct, probs = c(0.75,0.8,0.85,0.9))
+
+black_list <- firearm_data %>%
+  filter(black_pct >= 30.05609) # Use 20% to match the poverty percent cutoff for an easy explanation in the story
+
+black_list <- unique(black_list$fips)
+
+black_data <- firearm_data %>%
+  filter(fips %in% black_list)
+
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, black_data, cluster = ~fips))
+```
+
+### Counties with a large Latino population + neighbors
+
+```{r echo=FALSE}
+quantile(firearm_data$latino_pct, probs = c(0.75,0.8,0.85,0.9))
+
+latino_list <- firearm_data %>%
+  filter(latino_pct >= 22.215224)
+
+latino_list <- unique(latino_list$fips)
+
+latino_data <- firearm_data %>%
+  filter(fips %in% latino_list)
+
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, latino_data, cluster = ~fips))
+```
+
+### Counties with a large population in poverty + neighbors
+
+```{r echo=FALSE}
+quantile(firearm_data$poverty_pct, probs = c(0.75,0.8,0.85,0.9), na.rm=TRUE)
+
+poverty_list <- firearm_data %>%
+  filter(poverty_pct >= 20.77844) # Use 20% to match the Black percent cutoff for an easy explanation in the story
+
+poverty_list <- unique(poverty_list$fips)
+
+poverty_data <- firearm_data %>%
+  filter(fips %in% poverty_list)
+
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, poverty_data, cluster = ~fips))
+```
+
+### Counties with existing high homicide rate + neighbors
+
+```{r echo=FALSE}
+quantile(firearm_data$total_rate, probs = c(0.75,0.8,0.85,0.9), na.rm=TRUE)
+
+homicide_list <- firearm_data %>%
+  filter(total_rate >= 6.578174)
+
+homicide_list <- unique(homicide_list$fips)
+
+high_homicide_data <- firearm_data %>%
+  filter(fips %in% homicide_list)
+
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, high_homicide_data, cluster = ~fips))
+```
+
+## FFLs per 100sqmi effect on non-firearm homicides
+
+### County-level
+
+```{r echo=FALSE}
+etable(fepois(deaths ~ ffl_per_100mi + black_pct + ln_income + ln_population | fips, nonfirearm_data, cluster = ~fips))
+```
+
+### County + neighbors
+
+```{r echo=FALSE}
+etable(fepois(deaths ~ neighbor_ffl_per_100mi + black_pct + ln_income + ln_population | fips, nonfirearm_data, cluster = ~fips))
+```
