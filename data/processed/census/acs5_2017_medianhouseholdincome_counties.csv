@@ -1,0 +1,3221 @@
+geoid,name,median,median_annotation,median_moe,median_moe_annotation,state,county
+30019,"Daniels County, Montana",53591.0,,3318.0,,30,019
+72073,"Jayuya Municipio, Puerto Rico",15615.0,,3424.0,,72,073
+24023,"Garrett County, Maryland",48174.0,,2234.0,,24,023
+30079,"Prairie County, Montana",50850.0,,6481.0,,30,079
+39173,"Wood County, Ohio",58033.0,,1604.0,,39,173
+08011,"Bent County, Colorado",32500.0,,3442.0,,08,011
+13081,"Crisp County, Georgia",33194.0,,3700.0,,13,081
+22019,"Calcasieu Parish, Louisiana",48219.0,,1329.0,,22,019
+04027,"Yuma County, Arizona",43253.0,,1376.0,,04,027
+49015,"Emery County, Utah",51852.0,,1883.0,,49,015
+54011,"Cabell County, West Virginia",37816.0,,1731.0,,54,011
+37011,"Avery County, North Carolina",37109.0,,3320.0,,37,011
+20157,"Republic County, Kansas",43489.0,,3326.0,,20,157
+26049,"Genesee County, Michigan",45231.0,,666.0,,26,049
+05081,"Little River County, Arkansas",36963.0,,4212.0,,05,081
+72077,"Juncos Municipio, Puerto Rico",18533.0,,1320.0,,72,077
+18153,"Sullivan County, Indiana",45031.0,,3877.0,,18,153
+31139,"Pierce County, Nebraska",55417.0,,3949.0,,31,139
+20119,"Meade County, Kansas",54167.0,,2579.0,,20,119
+27025,"Chisago County, Minnesota",76747.0,,1966.0,,27,025
+06047,"Merced County, California",46338.0,,1301.0,,06,047
+48219,"Hockley County, Texas",49184.0,,2913.0,,48,219
+50011,"Franklin County, Vermont",62214.0,,2360.0,,50,011
+51036,"Charles City County, Virginia",55069.0,,4060.0,,51,036
+21029,"Bullitt County, Kentucky",59917.0,,1921.0,,21,029
+21171,"Monroe County, Kentucky",35665.0,,4562.0,,21,171
+13057,"Cherokee County, Georgia",75477.0,,1920.0,,13,057
+47149,"Rutherford County, Tennessee",62149.0,,1156.0,,47,149
+27075,"Lake County, Minnesota",56078.0,,4936.0,,27,075
+48293,"Limestone County, Texas",40356.0,,2445.0,,48,293
+28023,"Clarke County, Mississippi",37626.0,,2904.0,,28,023
+42053,"Forest County, Pennsylvania",37106.0,,3313.0,,42,053
+51185,"Tazewell County, Virginia",40309.0,,1889.0,,51,185
+05147,"Woodruff County, Arkansas",30097.0,,3976.0,,05,147
+48129,"Donley County, Texas",44429.0,,6281.0,,48,129
+16017,"Bonner County, Idaho",45607.0,,2239.0,,16,017
+28037,"Franklin County, Mississippi",42388.0,,6189.0,,28,037
+06109,"Tuolumne County, California",54325.0,,2700.0,,06,109
+29131,"Miller County, Missouri",41461.0,,1751.0,,29,131
+05105,"Perry County, Arkansas",46168.0,,3448.0,,05,105
+31077,"Greeley County, Nebraska",47218.0,,7708.0,,31,077
+19019,"Buchanan County, Iowa",59348.0,,3103.0,,19,019
+29049,"Clinton County, Missouri",57591.0,,3851.0,,29,049
+22095,"St. John the Baptist Parish, Louisiana",53628.0,,2953.0,,22,095
+48321,"Matagorda County, Texas",44896.0,,4175.0,,48,321
+06043,"Mariposa County, California",51385.0,,3637.0,,06,043
+29139,"Montgomery County, Missouri",43094.0,,2442.0,,29,139
+28103,"Noxubee County, Mississippi",30808.0,,6604.0,,28,103
+53051,"Pend Oreille County, Washington",49184.0,,3109.0,,53,051
+36071,"Orange County, New York",75146.0,,1717.0,,36,071
+42013,"Blair County, Pennsylvania",45664.0,,1034.0,,42,013
+13103,"Effingham County, Georgia",64279.0,,3102.0,,13,103
+72089,"Luquillo Municipio, Puerto Rico",19377.0,,2199.0,,72,089
+51121,"Montgomery County, Virginia",53424.0,,1793.0,,51,121
+17089,"Kane County, Illinois",74862.0,,1202.0,,17,089
+21159,"Martin County, Kentucky",29239.0,,7144.0,,21,159
+26003,"Alger County, Michigan",42647.0,,5475.0,,26,003
+37171,"Surry County, North Carolina",39071.0,,1506.0,,37,171
+24027,"Howard County, Maryland",115576.0,,1799.0,,24,027
+53025,"Grant County, Washington",52382.0,,1805.0,,53,025
+13061,"Clay County, Georgia",23315.0,,4341.0,,13,061
+21163,"Meade County, Kentucky",53732.0,,2389.0,,21,163
+51075,"Goochland County, Virginia",86652.0,,4868.0,,51,075
+18015,"Carroll County, Indiana",56188.0,,2345.0,,18,015
+42047,"Elk County, Pennsylvania",49876.0,,2142.0,,42,047
+21149,"McLean County, Kentucky",44242.0,,7198.0,,21,149
+13141,"Hancock County, Georgia",29268.0,,2293.0,,13,141
+72047,"Corozal Municipio, Puerto Rico",14752.0,,1416.0,,72,047
+39141,"Ross County, Ohio",45792.0,,2053.0,,39,141
+48501,"Yoakum County, Texas",62500.0,,8792.0,,48,501
+31145,"Red Willow County, Nebraska",42882.0,,5099.0,,31,145
+51167,"Russell County, Virginia",40083.0,,2026.0,,51,167
+54099,"Wayne County, West Virginia",38905.0,,3519.0,,54,099
+51157,"Rappahannock County, Virginia",62541.0,,6964.0,,51,157
+27159,"Wadena County, Minnesota",45018.0,,3124.0,,27,159
+45061,"Lee County, South Carolina",31963.0,,2552.0,,45,061
+48329,"Midland County, Texas",75815.0,,3574.0,,48,329
+48025,"Bee County, Texas",45415.0,,4540.0,,48,025
+37005,"Alleghany County, North Carolina",38944.0,,2715.0,,37,005
+47051,"Franklin County, Tennessee",46882.0,,2380.0,,47,051
+27097,"Morrison County, Minnesota",52855.0,,2046.0,,27,097
+38089,"Stark County, North Dakota",77328.0,,5603.0,,38,089
+48125,"Dickens County, Texas",43088.0,,3488.0,,48,125
+35045,"San Juan County, New Mexico",49686.0,,1618.0,,35,045
+48481,"Wharton County, Texas",50145.0,,3208.0,,48,481
+20159,"Rice County, Kansas",48333.0,,5611.0,,20,159
+47139,"Polk County, Tennessee",42307.0,,2414.0,,47,139
+21167,"Mercer County, Kentucky",47574.0,,2789.0,,21,167
+27007,"Beltrami County, Minnesota",45923.0,,1753.0,,27,007
+51800,"Suffolk city, Virginia",68089.0,,1784.0,,51,800
+20161,"Riley County, Kansas",48428.0,,2099.0,,20,161
+53015,"Cowlitz County, Washington",49804.0,,1607.0,,53,015
+48383,"Reagan County, Texas",59760.0,,22731.0,,48,383
+17125,"Mason County, Illinois",44695.0,,3786.0,,17,125
+12107,"Putnam County, Florida",33619.0,,1120.0,,12,107
+17005,"Bond County, Illinois",54393.0,,4323.0,,17,005
+48269,"King County, Texas",56964.0,,20503.0,,48,269
+56021,"Laramie County, Wyoming",62879.0,,1820.0,,56,021
+17025,"Clay County, Illinois",47427.0,,3055.0,,17,025
+19125,"Marion County, Iowa",57917.0,,2942.0,,19,125
+48387,"Red River County, Texas",35356.0,,2876.0,,48,387
+09009,"New Haven County, Connecticut",64872.0,,827.0,,09,009
+36009,"Cattaraugus County, New York",45571.0,,1241.0,,36,009
+48003,"Andrews County, Texas",70753.0,,6115.0,,48,003
+18109,"Morgan County, Indiana",60317.0,,1658.0,,18,109
+05103,"Ouachita County, Arkansas",32136.0,,3003.0,,05,103
+05119,"Pulaski County, Arkansas",48850.0,,1099.0,,05,119
+37137,"Pamlico County, North Carolina",45211.0,,2806.0,,37,137
+13113,"Fayette County, Georgia",84861.0,,3591.0,,13,113
+05127,"Scott County, Arkansas",37396.0,,4756.0,,05,127
+28127,"Simpson County, Mississippi",37591.0,,2878.0,,28,127
+29199,"Scotland County, Missouri",42939.0,,4351.0,,29,199
+21011,"Bath County, Kentucky",38763.0,,3975.0,,21,011
+29057,"Dade County, Missouri",38880.0,,3357.0,,29,057
+55075,"Marinette County, Wisconsin",44958.0,,1772.0,,55,075
+29159,"Pettis County, Missouri",43097.0,,2031.0,,29,159
+29165,"Platte County, Missouri",74199.0,,2190.0,,29,165
+51111,"Lunenburg County, Virginia",39537.0,,3382.0,,51,111
+41029,"Jackson County, Oregon",48688.0,,1163.0,,41,029
+51570,"Colonial Heights city, Virginia",50952.0,,4104.0,,51,570
+17077,"Jackson County, Illinois",36008.0,,1699.0,,17,077
+45081,"Saluda County, South Carolina",41885.0,,3660.0,,45,081
+19049,"Dallas County, Iowa",82719.0,,3270.0,,19,049
+39079,"Jackson County, Ohio",43397.0,,2292.0,,39,079
+53049,"Pacific County, Washington",39895.0,,3493.0,,53,049
+31023,"Butler County, Nebraska",52448.0,,3123.0,,31,023
+45077,"Pickens County, South Carolina",45332.0,,1330.0,,45,077
+48185,"Grimes County, Texas",49745.0,,3213.0,,48,185
+31087,"Hitchcock County, Nebraska",41582.0,,2796.0,,31,087
+13069,"Coffee County, Georgia",36572.0,,1549.0,,13,069
+47179,"Washington County, Tennessee",44180.0,,1160.0,,47,179
+13179,"Liberty County, Georgia",43493.0,,1738.0,,13,179
+48043,"Brewster County, Texas",38906.0,,3618.0,,48,043
+72137,"Toa Baja Municipio, Puerto Rico",24583.0,,1174.0,,72,137
+42043,"Dauphin County, Pennsylvania",57071.0,,1116.0,,42,043
+13251,"Screven County, Georgia",36556.0,,3573.0,,13,251
+31105,"Kimball County, Nebraska",43017.0,,4597.0,,31,105
+08097,"Pitkin County, Colorado",67755.0,,7367.0,,08,097
+72087,"Loíza Municipio, Puerto Rico",17273.0,,1260.0,,72,087
+18123,"Perry County, Indiana",49689.0,,3628.0,,18,123
+51163,"Rockbridge County, Virginia",53918.0,,3825.0,,51,163
+47047,"Fayette County, Tennessee",57919.0,,2472.0,,47,047
+02198,"Prince of Wales-Hyder Census Area, Alaska",52114.0,,2833.0,,02,198
+39015,"Brown County, Ohio",49188.0,,2984.0,,39,015
+26005,"Allegan County, Michigan",58487.0,,1264.0,,26,005
+20057,"Ford County, Kansas",49890.0,,3711.0,,20,057
+48141,"El Paso County, Texas",43244.0,,675.0,,48,141
+30109,"Wibaux County, Montana",47132.0,,8601.0,,30,109
+17171,"Scott County, Illinois",48542.0,,6516.0,,17,171
+40045,"Ellis County, Oklahoma",50594.0,,3569.0,,40,045
+26121,"Muskegon County, Michigan",46077.0,,806.0,,26,121
+13039,"Camden County, Georgia",53687.0,,1418.0,,13,039
+28145,"Union County, Mississippi",40076.0,,2995.0,,28,145
+19033,"Cerro Gordo County, Iowa",50569.0,,2060.0,,19,033
+41045,"Malheur County, Oregon",37112.0,,2868.0,,41,045
+48317,"Martin County, Texas",71115.0,,10287.0,,48,317
+22065,"Madison Parish, Louisiana",29424.0,,3063.0,,22,065
+45053,"Jasper County, South Carolina",39740.0,,3014.0,,45,053
+05031,"Craighead County, Arkansas",45672.0,,1662.0,,05,031
+13259,"Stewart County, Georgia",22413.0,,3522.0,,13,259
+19117,"Lucas County, Iowa",47325.0,,3761.0,,19,117
+19041,"Clay County, Iowa",48978.0,,4257.0,,19,041
+48009,"Archer County, Texas",63192.0,,4765.0,,48,009
+28055,"Issaquena County, Mississippi",25609.0,,4095.0,,28,055
+06031,"Kings County, California",49742.0,,1744.0,,06,031
+13265,"Taliaferro County, Georgia",30500.0,,4046.0,,13,265
+38021,"Dickey County, North Dakota",58357.0,,4651.0,,38,021
+38053,"McKenzie County, North Dakota",79316.0,,9257.0,,38,053
+13255,"Spalding County, Georgia",42398.0,,2062.0,,13,255
+13083,"Dade County, Georgia",43163.0,,4466.0,,13,083
+17109,"McDonough County, Illinois",42911.0,,3068.0,,17,109
+08073,"Lincoln County, Colorado",44725.0,,3719.0,,08,073
+26113,"Missaukee County, Michigan",42370.0,,1453.0,,26,113
+26069,"Iosco County, Michigan",41414.0,,1200.0,,26,069
+01033,"Colbert County, Alabama",45477.0,,1959.0,,01,033
+16063,"Lincoln County, Idaho",46383.0,,3221.0,,16,063
+39175,"Wyandot County, Ohio",49767.0,,2147.0,,39,175
+40041,"Delaware County, Oklahoma",38234.0,,1696.0,,40,041
+39005,"Ashland County, Ohio",50893.0,,1608.0,,39,005
+29081,"Harrison County, Missouri",42889.0,,4370.0,,29,081
+36053,"Madison County, New York",58365.0,,1967.0,,36,053
+72025,"Caguas Municipio, Puerto Rico",24229.0,,893.0,,72,025
+22031,"De Soto Parish, Louisiana",41443.0,,2657.0,,22,031
+39119,"Muskingum County, Ohio",43325.0,,1836.0,,39,119
+48455,"Trinity County, Texas",37398.0,,3180.0,,48,455
+06075,"San Francisco County, California",96265.0,,1349.0,,06,075
+29101,"Johnson County, Missouri",50689.0,,2574.0,,29,101
+17019,"Champaign County, Illinois",49586.0,,1516.0,,17,019
+21153,"Magoffin County, Kentucky",29578.0,,3866.0,,21,153
+06111,"Ventura County, California",81972.0,,983.0,,06,111
+20001,"Allen County, Kansas",43031.0,,2171.0,,20,001
+05023,"Cleburne County, Arkansas",42312.0,,2518.0,,05,023
+49005,"Cache County, Utah",53812.0,,1423.0,,49,005
+17097,"Lake County, Illinois",82613.0,,942.0,,17,097
+13167,"Johnson County, Georgia",36423.0,,4737.0,,13,167
+48033,"Borden County, Texas",77708.0,,14586.0,,48,033
+05091,"Miller County, Arkansas",41862.0,,1885.0,,05,091
+31047,"Dawson County, Nebraska",51238.0,,1644.0,,31,047
+56039,"Teton County, Wyoming",80049.0,,4586.0,,56,039
+12017,"Citrus County, Florida",40574.0,,1147.0,,12,017
+17003,"Alexander County, Illinois",31014.0,,2759.0,,17,003
+20055,"Finney County, Kansas",51703.0,,1928.0,,20,055
+26135,"Oscoda County, Michigan",36833.0,,2638.0,,26,135
+13273,"Terrell County, Georgia",32219.0,,5702.0,,13,273
+19169,"Story County, Iowa",52671.0,,2162.0,,19,169
+19111,"Lee County, Iowa",48266.0,,2235.0,,19,111
+48139,"Ellis County, Texas",67371.0,,2205.0,,48,139
+17197,"Will County, Illinois",80782.0,,1137.0,,17,197
+27079,"Le Sueur County, Minnesota",65500.0,,2833.0,,27,079
+29171,"Putnam County, Missouri",37028.0,,4041.0,,29,171
+13021,"Bibb County, Georgia",38183.0,,1684.0,,13,021
+48279,"Lamb County, Texas",43712.0,,2899.0,,48,279
+31103,"Keya Paha County, Nebraska",48864.0,,8813.0,,31,103
+47085,"Humphreys County, Tennessee",40998.0,,2486.0,,47,085
+06069,"San Benito County, California",80760.0,,3889.0,,06,069
+72003,"Aguada Municipio, Puerto Rico",16199.0,,1510.0,,72,003
+28121,"Rankin County, Mississippi",61605.0,,1506.0,,28,121
+33011,"Hillsborough County, New Hampshire",75777.0,,1259.0,,33,011
+02230,"Skagway Municipality, Alaska",70673.0,,6701.0,,02,230
+13311,"White County, Georgia",43944.0,,3094.0,,13,311
+20169,"Saline County, Kansas",49728.0,,1876.0,,20,169
+16015,"Boise County, Idaho",49964.0,,9226.0,,16,015
+05063,"Independence County, Arkansas",39945.0,,2414.0,,05,063
+38033,"Golden Valley County, North Dakota",44018.0,,10579.0,,38,033
+19179,"Wapello County, Iowa",43329.0,,1725.0,,19,179
+20201,"Washington County, Kansas",47992.0,,2186.0,,20,201
+21165,"Menifee County, Kentucky",39688.0,,5955.0,,21,165
+48045,"Briscoe County, Texas",42500.0,,7062.0,,48,045
+47145,"Roane County, Tennessee",45407.0,,2707.0,,47,145
+21205,"Rowan County, Kentucky",36411.0,,3640.0,,21,205
+51177,"Spotsylvania County, Virginia",81434.0,,1924.0,,51,177
+29083,"Henry County, Missouri",41089.0,,3082.0,,29,083
+02050,"Bethel Census Area, Alaska",53853.0,,2386.0,,02,050
+17009,"Brown County, Illinois",56289.0,,3862.0,,17,009
+12079,"Madison County, Florida",31816.0,,2625.0,,12,079
+46019,"Butte County, South Dakota",44786.0,,4912.0,,46,019
+51067,"Franklin County, Virginia",51208.0,,3353.0,,51,067
+38103,"Wells County, North Dakota",54464.0,,4163.0,,38,103
+21155,"Marion County, Kentucky",40005.0,,4274.0,,21,155
+19053,"Decatur County, Iowa",41042.0,,3857.0,,19,053
+21099,"Hart County, Kentucky",37315.0,,2347.0,,21,099
+46037,"Day County, South Dakota",43902.0,,3177.0,,46,037
+29089,"Howard County, Missouri",50356.0,,4000.0,,29,089
+30101,"Toole County, Montana",46735.0,,6131.0,,30,101
+13053,"Chattahoochee County, Georgia",46096.0,,6130.0,,13,053
+37127,"Nash County, North Carolina",46187.0,,1313.0,,37,127
+37141,"Pender County, North Carolina",49357.0,,2049.0,,37,141
+46033,"Custer County, South Dakota",56449.0,,5055.0,,46,033
+72085,"Las Piedras Municipio, Puerto Rico",20587.0,,2054.0,,72,085
+26141,"Presque Isle County, Michigan",43758.0,,2051.0,,26,141
+28027,"Coahoma County, Mississippi",28728.0,,2702.0,,28,027
+13281,"Towns County, Georgia",41182.0,,2699.0,,13,281
+37029,"Camden County, North Carolina",68327.0,,5352.0,,37,029
+38037,"Grant County, North Dakota",50875.0,,6052.0,,38,037
+29109,"Lawrence County, Missouri",41673.0,,1134.0,,29,109
+37169,"Stokes County, North Carolina",44490.0,,2054.0,,37,169
+04013,"Maricopa County, Arizona",58580.0,,350.0,,04,013
+37019,"Brunswick County, North Carolina",51164.0,,1371.0,,37,019
+39071,"Highland County, Ohio",42333.0,,2216.0,,39,071
+20091,"Johnson County, Kansas",81121.0,,827.0,,20,091
+48249,"Jim Wells County, Texas",41103.0,,3613.0,,48,249
+06037,"Los Angeles County, California",61015.0,,262.0,,06,037
+31099,"Kearney County, Nebraska",53207.0,,4890.0,,31,099
+46049,"Faulk County, South Dakota",46750.0,,12352.0,,46,049
+54097,"Upshur County, West Virginia",39434.0,,3117.0,,54,097
+36115,"Washington County, New York",52527.0,,2161.0,,36,115
+47091,"Johnson County, Tennessee",32994.0,,3833.0,,47,091
+36021,"Columbia County, New York",61093.0,,1999.0,,36,021
+05035,"Crittenden County, Arkansas",38558.0,,3004.0,,05,035
+08051,"Gunnison County, Colorado",52651.0,,4811.0,,08,051
+51139,"Page County, Virginia",46140.0,,2999.0,,51,139
+27149,"Stevens County, Minnesota",57552.0,,3456.0,,27,149
+29099,"Jefferson County, Missouri",60765.0,,969.0,,29,099
+22025,"Catahoula Parish, Louisiana",34470.0,,6967.0,,22,025
+27103,"Nicollet County, Minnesota",62593.0,,3029.0,,27,103
+47119,"Maury County, Tennessee",52080.0,,1627.0,,47,119
+13127,"Glynn County, Georgia",47546.0,,2169.0,,13,127
+40053,"Grant County, Oklahoma",54460.0,,4957.0,,40,053
+19101,"Jefferson County, Iowa",44516.0,,3640.0,,19,101
+19029,"Cass County, Iowa",45637.0,,3680.0,,19,029
+08099,"Prowers County, Colorado",41740.0,,2550.0,,08,099
+24045,"Wicomico County, Maryland",54493.0,,2038.0,,24,045
+51115,"Mathews County, Virginia",63622.0,,9637.0,,51,115
+21111,"Jefferson County, Kentucky",52237.0,,561.0,,21,111
+48159,"Franklin County, Texas",43967.0,,4356.0,,48,159
+06103,"Tehama County, California",42512.0,,2803.0,,06,103
+08041,"El Paso County, Colorado",62535.0,,844.0,,08,041
+31121,"Merrick County, Nebraska",53536.0,,1715.0,,31,121
+17151,"Pope County, Illinois",41139.0,,7065.0,,17,151
+39129,"Pickaway County, Ohio",60314.0,,2665.0,,39,129
+54105,"Wirt County, West Virginia",38936.0,,3207.0,,54,105
+12091,"Okaloosa County, Florida",59955.0,,1565.0,,12,091
+21151,"Madison County, Kentucky",46674.0,,2049.0,,21,151
+01133,"Winston County, Alabama",35362.0,,2755.0,,01,133
+37115,"Madison County, North Carolina",40563.0,,2334.0,,37,115
+29187,"St. Francois County, Missouri",42873.0,,2064.0,,29,187
+54047,"McDowell County, West Virginia",25595.0,,1577.0,,54,047
+31085,"Hayes County, Nebraska",44946.0,,16021.0,,31,085
+37107,"Lenoir County, North Carolina",37515.0,,1768.0,,37,107
+31177,"Washington County, Nebraska",66485.0,,4187.0,,31,177
+01077,"Lauderdale County, Alabama",44888.0,,1370.0,,01,077
+55123,"Vernon County, Wisconsin",49996.0,,1802.0,,55,123
+19087,"Henry County, Iowa",52275.0,,2217.0,,19,087
+40025,"Cimarron County, Oklahoma",44667.0,,6752.0,,40,025
+13159,"Jasper County, Georgia",42067.0,,3363.0,,13,159
+50013,"Grand Isle County, Vermont",66111.0,,3036.0,,50,013
+51131,"Northampton County, Virginia",41468.0,,4548.0,,51,131
+47167,"Tipton County, Tennessee",57212.0,,3134.0,,47,167
+26057,"Gratiot County, Michigan",42256.0,,1399.0,,26,057
+28013,"Calhoun County, Mississippi",33370.0,,2074.0,,28,013
+47073,"Hawkins County, Tennessee",38728.0,,1425.0,,47,073
+48441,"Taylor County, Texas",49161.0,,2217.0,,48,441
+20167,"Russell County, Kansas",48427.0,,3823.0,,20,167
+19015,"Boone County, Iowa",57906.0,,3321.0,,19,015
+20125,"Montgomery County, Kansas",43977.0,,2660.0,,20,125
+01083,"Limestone County, Alabama",52831.0,,2263.0,,01,083
+54075,"Pocahontas County, West Virginia",37111.0,,4463.0,,54,075
+27073,"Lac qui Parle County, Minnesota",50195.0,,2240.0,,27,073
+49049,"Utah County, Utah",67042.0,,820.0,,49,049
+35027,"Lincoln County, New Mexico",42145.0,,4891.0,,35,027
+27101,"Murray County, Minnesota",54211.0,,2565.0,,27,101
+02275,"Wrangell City and Borough, Alaska",56094.0,,5257.0,,02,275
+01107,"Pickens County, Alabama",36220.0,,2410.0,,01,107
+17165,"Saline County, Illinois",40722.0,,2498.0,,17,165
+48117,"Deaf Smith County, Texas",51543.0,,3468.0,,48,117
+39121,"Noble County, Ohio",42171.0,,5489.0,,39,121
+38007,"Billings County, North Dakota",91518.0,,28856.0,,38,007
+54063,"Monroe County, West Virginia",36684.0,,3303.0,,54,063
+35047,"San Miguel County, New Mexico",29168.0,,2833.0,,35,047
+22115,"Vernon Parish, Louisiana",46620.0,,1257.0,,22,115
+26011,"Arenac County, Michigan",39947.0,,1456.0,,26,011
+27139,"Scott County, Minnesota",93151.0,,3176.0,,27,139
+31185,"York County, Nebraska",59966.0,,6942.0,,31,185
+18021,"Clay County, Indiana",50924.0,,2157.0,,18,021
+48437,"Swisher County, Texas",37883.0,,4612.0,,48,437
+02100,"Haines Borough, Alaska",70640.0,,21959.0,,02,100
+13139,"Hall County, Georgia",55622.0,,1940.0,,13,139
+29031,"Cape Girardeau County, Missouri",49554.0,,2174.0,,29,031
+05099,"Nevada County, Arkansas",36995.0,,5674.0,,05,099
+54045,"Logan County, West Virginia",37859.0,,3152.0,,54,045
+40149,"Washita County, Oklahoma",51909.0,,3536.0,,40,149
+72039,"Ciales Municipio, Puerto Rico",14432.0,,1483.0,,72,039
+53065,"Stevens County, Washington",47272.0,,2627.0,,53,065
+21033,"Caldwell County, Kentucky",46182.0,,8251.0,,21,033
+46045,"Edmunds County, South Dakota",65380.0,,7943.0,,46,045
+49029,"Morgan County, Utah",86071.0,,3961.0,,49,029
+18011,"Boone County, Indiana",75591.0,,2282.0,,18,011
+31163,"Sherman County, Nebraska",48704.0,,4197.0,,31,163
+16057,"Latah County, Idaho",43310.0,,2143.0,,16,057
+48153,"Floyd County, Texas",48767.0,,4541.0,,48,153
+16051,"Jefferson County, Idaho",58055.0,,2987.0,,16,051
+37123,"Montgomery County, North Carolina",38254.0,,3424.0,,37,123
+48099,"Coryell County, Texas",50865.0,,1533.0,,48,099
+20067,"Grant County, Kansas",57474.0,,8639.0,,20,067
+20021,"Cherokee County, Kansas",41101.0,,2051.0,,20,021
+47061,"Grundy County, Tennessee",31919.0,,3484.0,,47,061
+47079,"Henry County, Tennessee",40415.0,,1748.0,,47,079
+53043,"Lincoln County, Washington",49460.0,,2270.0,,53,043
+30013,"Cascade County, Montana",46827.0,,1361.0,,30,013
+13075,"Cook County, Georgia",35539.0,,3615.0,,13,075
+41015,"Curry County, Oregon",42519.0,,6221.0,,41,015
+13051,"Chatham County, Georgia",52215.0,,1310.0,,13,051
+34003,"Bergen County, New Jersey",91572.0,,1122.0,,34,003
+21173,"Montgomery County, Kentucky",42172.0,,2729.0,,21,173
+28091,"Marion County, Mississippi",30998.0,,2383.0,,28,091
+51580,"Covington city, Virginia",35546.0,,3357.0,,51,580
+13309,"Wheeler County, Georgia",28490.0,,3962.0,,13,309
+51087,"Henrico County, Virginia",66447.0,,1191.0,,51,087
+18075,"Jay County, Indiana",42878.0,,2330.0,,18,075
+48027,"Bell County, Texas",52583.0,,994.0,,48,027
+51059,"Fairfax County, Virginia",117515.0,,1314.0,,51,059
+13029,"Bryan County, Georgia",68589.0,,5815.0,,13,029
+37145,"Person County, North Carolina",44921.0,,2487.0,,37,145
+37099,"Jackson County, North Carolina",45078.0,,4356.0,,37,099
+28157,"Wilkinson County, Mississippi",23340.0,,3447.0,,28,157
+06045,"Mendocino County, California",46528.0,,1787.0,,06,045
+53021,"Franklin County, Washington",60275.0,,1817.0,,53,021
+29003,"Andrew County, Missouri",56658.0,,5755.0,,29,003
+51720,"Norton city, Virginia",26971.0,,8010.0,,51,720
+48179,"Gray County, Texas",48314.0,,5246.0,,48,179
+48095,"Concho County, Texas",46696.0,,9020.0,,48,095
+21071,"Floyd County, Kentucky",31196.0,,1812.0,,21,071
+25011,"Franklin County, Massachusetts",57307.0,,2221.0,,25,011
+01045,"Dale County, Alabama",44711.0,,2010.0,,01,045
+06025,"Imperial County, California",44779.0,,1850.0,,06,025
+13033,"Burke County, Georgia",38707.0,,5008.0,,13,033
+22071,"Orleans Parish, Louisiana",38721.0,,991.0,,22,071
+06021,"Glenn County, California",46260.0,,3402.0,,06,021
+48037,"Bowie County, Texas",46283.0,,2652.0,,48,037
+02158,"Kusilvak Census Area, Alaska",36468.0,,2049.0,,02,158
+30055,"McCone County, Montana",46193.0,,3425.0,,30,055
+01079,"Lawrence County, Alabama",43779.0,,3181.0,,01,079
+01061,"Geneva County, Alabama",39293.0,,2810.0,,01,061
+29189,"St. Louis County, Missouri",62931.0,,854.0,,29,189
+54013,"Calhoun County, West Virginia",36279.0,,5907.0,,54,013
+21141,"Logan County, Kentucky",40982.0,,2624.0,,21,141
+22043,"Grant Parish, Louisiana",40577.0,,2656.0,,22,043
+27017,"Carlton County, Minnesota",58874.0,,2894.0,,27,017
+38081,"Sargent County, North Dakota",60824.0,,3964.0,,38,081
+41005,"Clackamas County, Oregon",72408.0,,1110.0,,41,005
+05015,"Carroll County, Arkansas",39686.0,,2195.0,,05,015
+12105,"Polk County, Florida",45988.0,,753.0,,12,105
+22005,"Ascension Parish, Louisiana",74748.0,,2416.0,,22,005
+16049,"Idaho County, Idaho",40299.0,,2941.0,,16,049
+22069,"Natchitoches Parish, Louisiana",29001.0,,1903.0,,22,069
+08003,"Alamosa County, Colorado",36315.0,,4688.0,,08,003
+46085,"Lyman County, South Dakota",47113.0,,4914.0,,46,085
+51550,"Chesapeake city, Virginia",72214.0,,1485.0,,51,550
+45017,"Calhoun County, South Carolina",44010.0,,4891.0,,45,017
+27001,"Aitkin County, Minnesota",45860.0,,1405.0,,27,001
+51810,"Virginia Beach city, Virginia",70500.0,,1124.0,,51,810
+53009,"Clallam County, Washington",48002.0,,1653.0,,53,009
+55073,"Marathon County, Wisconsin",56509.0,,1350.0,,55,073
+72035,"Cayey Municipio, Puerto Rico",20442.0,,1398.0,,72,035
+21197,"Powell County, Kentucky",34647.0,,3402.0,,21,197
+55065,"Lafayette County, Wisconsin",55859.0,,1467.0,,55,065
+13237,"Putnam County, Georgia",48340.0,,3802.0,,13,237
+20023,"Cheyenne County, Kansas",47167.0,,5000.0,,20,023
+45027,"Clarendon County, South Carolina",35838.0,,1351.0,,45,027
+19195,"Worth County, Iowa",50880.0,,2756.0,,19,195
+51013,"Arlington County, Virginia",112138.0,,2139.0,,51,013
+55127,"Walworth County, Wisconsin",58401.0,,1447.0,,55,127
+18067,"Howard County, Indiana",47958.0,,1663.0,,18,067
+45029,"Colleton County, South Carolina",34996.0,,1363.0,,45,029
+22127,"Winn Parish, Louisiana",29472.0,,4343.0,,22,127
+27013,"Blue Earth County, Minnesota",53752.0,,1543.0,,27,013
+72075,"Juana Díaz Municipio, Puerto Rico",20228.0,,1264.0,,72,075
+54019,"Fayette County, West Virginia",39297.0,,2432.0,,54,019
+47053,"Gibson County, Tennessee",41315.0,,2309.0,,47,053
+08015,"Chaffee County, Colorado",53762.0,,2655.0,,08,015
+13201,"Miller County, Georgia",37255.0,,4203.0,,13,201
+05059,"Hot Spring County, Arkansas",40626.0,,1975.0,,05,059
+42111,"Somerset County, Pennsylvania",46132.0,,1176.0,,42,111
+39099,"Mahoning County, Ohio",43251.0,,939.0,,39,099
+20177,"Shawnee County, Kansas",54667.0,,1174.0,,20,177
+45041,"Florence County, South Carolina",43310.0,,1958.0,,45,041
+01027,"Clay County, Alabama",37287.0,,6507.0,,01,027
+48405,"San Augustine County, Texas",32394.0,,6068.0,,48,405
+16055,"Kootenai County, Idaho",53189.0,,1643.0,,16,055
+17111,"McHenry County, Illinois",82230.0,,1657.0,,17,111
+05049,"Fulton County, Arkansas",36051.0,,3683.0,,05,049
+19113,"Linn County, Iowa",62702.0,,1489.0,,19,113
+36121,"Wyoming County, New York",55459.0,,2144.0,,36,121
+05027,"Columbia County, Arkansas",37072.0,,3441.0,,05,027
+30077,"Powell County, Montana",44352.0,,4574.0,,30,077
+22101,"St. Mary Parish, Louisiana",41345.0,,1496.0,,22,101
+48487,"Wilbarger County, Texas",43913.0,,4945.0,,48,487
+37023,"Burke County, North Carolina",40854.0,,1572.0,,37,023
+27135,"Roseau County, Minnesota",56273.0,,2017.0,,27,135
+56019,"Johnson County, Wyoming",52415.0,,5267.0,,56,019
+17119,"Madison County, Illinois",56536.0,,1150.0,,17,119
+48169,"Garza County, Texas",53832.0,,4373.0,,48,169
+53047,"Okanogan County, Washington",42598.0,,2416.0,,53,047
+21209,"Scott County, Kentucky",65598.0,,1993.0,,21,209
+27081,"Lincoln County, Minnesota",51102.0,,2841.0,,27,081
+48453,"Travis County, Texas",68350.0,,751.0,,48,453
+34019,"Hunterdon County, New Jersey",110969.0,,2182.0,,34,019
+29009,"Barry County, Missouri",40638.0,,2557.0,,29,009
+51183,"Sussex County, Virginia",44608.0,,3842.0,,51,183
+20181,"Sherman County, Kansas",52030.0,,3602.0,,20,181
+21113,"Jessamine County, Kentucky",55450.0,,4301.0,,21,113
+42033,"Clearfield County, Pennsylvania",45188.0,,1457.0,,42,033
+72055,"Guánica Municipio, Puerto Rico",12653.0,,933.0,,72,055
+20015,"Butler County, Kansas",62324.0,,2317.0,,20,015
+01085,"Lowndes County, Alabama",29785.0,,4076.0,,01,085
+48235,"Irion County, Texas",63021.0,,10537.0,,48,235
+13269,"Taylor County, Georgia",29875.0,,4380.0,,13,269
+19135,"Monroe County, Iowa",50179.0,,6593.0,,19,135
+48113,"Dallas County, Texas",53626.0,,437.0,,48,113
+51029,"Buckingham County, Virginia",46610.0,,5105.0,,51,029
+31157,"Scotts Bluff County, Nebraska",47975.0,,2266.0,,31,157
+55017,"Chippewa County, Wisconsin",55240.0,,2037.0,,55,017
+35043,"Sandoval County, New Mexico",60345.0,,1942.0,,35,043
+17117,"Macoupin County, Illinois",53890.0,,2348.0,,17,117
+20007,"Barber County, Kansas",52075.0,,4504.0,,20,007
+28113,"Pike County, Mississippi",30949.0,,1440.0,,28,113
+47137,"Pickett County, Tennessee",39313.0,,2983.0,,47,137
+49027,"Millard County, Utah",59312.0,,4036.0,,49,027
+49007,"Carbon County, Utah",46994.0,,2951.0,,49,007
+36123,"Yates County, New York",51758.0,,3135.0,,36,123
+28111,"Perry County, Mississippi",35374.0,,5679.0,,28,111
+21043,"Carter County, Kentucky",35095.0,,2851.0,,21,043
+17007,"Boone County, Illinois",62701.0,,3159.0,,17,007
+41053,"Polk County, Oregon",56032.0,,2412.0,,41,053
+48389,"Reeves County, Texas",49390.0,,6945.0,,48,389
+48241,"Jasper County, Texas",41960.0,,4187.0,,48,241
+54005,"Boone County, West Virginia",37955.0,,2690.0,,54,005
+26051,"Gladwin County, Michigan",40871.0,,1350.0,,26,051
+26017,"Bay County, Michigan",45983.0,,1430.0,,26,017
+37151,"Randolph County, North Carolina",43598.0,,978.0,,37,151
+39055,"Geauga County, Ohio",77104.0,,2375.0,,39,055
+13267,"Tattnall County, Georgia",36355.0,,2539.0,,13,267
+55077,"Marquette County, Wisconsin",49052.0,,1428.0,,55,077
+16011,"Bingham County, Idaho",51307.0,,2748.0,,16,011
+21067,"Fayette County, Kentucky",53013.0,,1131.0,,21,067
+55039,"Fond du Lac County, Wisconsin",57798.0,,1461.0,,55,039
+24035,"Queen Anne's County, Maryland",89241.0,,3843.0,,24,035
+12023,"Columbia County, Florida",43504.0,,2151.0,,12,023
+40151,"Woods County, Oklahoma",57097.0,,5211.0,,40,151
+72011,"Añasco Municipio, Puerto Rico",18765.0,,1292.0,,72,011
+25005,"Bristol County, Massachusetts",62514.0,,883.0,,25,005
+72101,"Morovis Municipio, Puerto Rico",18739.0,,1590.0,,72,101
+34029,"Ocean County, New Jersey",65771.0,,928.0,,34,029
+26153,"Schoolcraft County, Michigan",37428.0,,3866.0,,26,153
+36065,"Oneida County, New York",51316.0,,933.0,,36,065
+32005,"Douglas County, Nevada",61176.0,,1683.0,,32,005
+27019,"Carver County, Minnesota",93095.0,,2193.0,,27,019
+18063,"Hendricks County, Indiana",74245.0,,1577.0,,18,063
+22119,"Webster Parish, Louisiana",30891.0,,1632.0,,22,119
+39153,"Summit County, Ohio",53291.0,,806.0,,39,153
+39027,"Clinton County, Ohio",49997.0,,2050.0,,39,027
+30065,"Musselshell County, Montana",38156.0,,6209.0,,30,065
+37087,"Haywood County, North Carolina",45538.0,,2404.0,,37,087
+38067,"Pembina County, North Dakota",61393.0,,3909.0,,38,067
+49023,"Juab County, Utah",57590.0,,2343.0,,49,023
+51197,"Wythe County, Virginia",46119.0,,2969.0,,51,197
+45025,"Chesterfield County, South Carolina",38469.0,,2713.0,,45,025
+08117,"Summit County, Colorado",73538.0,,3671.0,,08,117
+29197,"Schuyler County, Missouri",38848.0,,2968.0,,29,197
+17067,"Hancock County, Illinois",51460.0,,1581.0,,17,067
+47069,"Hardeman County, Tennessee",36686.0,,2852.0,,47,069
+54093,"Tucker County, West Virginia",43294.0,,4259.0,,54,093
+31101,"Keith County, Nebraska",45078.0,,4391.0,,31,101
+20013,"Brown County, Kansas",46964.0,,2694.0,,20,013
+24037,"St. Mary's County, Maryland",86508.0,,3942.0,,24,037
+01055,"Etowah County, Alabama",42064.0,,1487.0,,01,055
+48423,"Smith County, Texas",50742.0,,1276.0,,48,423
+28045,"Hancock County, Mississippi",47518.0,,4235.0,,28,045
+51590,"Danville city, Virginia",34951.0,,1744.0,,51,590
+30071,"Phillips County, Montana",42101.0,,6369.0,,30,071
+72021,"Bayamón Municipio, Puerto Rico",25528.0,,752.0,,72,021
+48251,"Johnson County, Texas",60458.0,,1793.0,,48,251
+51155,"Pulaski County, Virginia",49691.0,,2407.0,,51,155
+17161,"Rock Island County, Illinois",51426.0,,957.0,,17,161
+48379,"Rains County, Texas",48308.0,,4901.0,,48,379
+51685,"Manassas Park city, Virginia",79131.0,,7001.0,,51,685
+12009,"Brevard County, Florida",51536.0,,616.0,,12,009
+72131,"San Sebastián Municipio, Puerto Rico",14275.0,,1197.0,,72,131
+20121,"Miami County, Kansas",63501.0,,3546.0,,20,121
+48261,"Kenedy County, Texas",24800.0,,15011.0,,48,261
+31009,"Blaine County, Nebraska",52000.0,,2382.0,,31,009
+19025,"Calhoun County, Iowa",46302.0,,3680.0,,19,025
+26039,"Crawford County, Michigan",42666.0,,2857.0,,26,039
+48167,"Galveston County, Texas",65702.0,,1802.0,,48,167
+51595,"Emporia city, Virginia",27426.0,,7596.0,,51,595
+55105,"Rock County, Wisconsin",53410.0,,1255.0,,55,105
+19003,"Adams County, Iowa",49745.0,,3996.0,,19,003
+48255,"Karnes County, Texas",53051.0,,5261.0,,48,255
+26137,"Otsego County, Michigan",50823.0,,2412.0,,26,137
+04011,"Greenlee County, Arizona",56298.0,,8257.0,,04,011
+29135,"Moniteau County, Missouri",50897.0,,2130.0,,29,135
+08093,"Park County, Colorado",61644.0,,5623.0,,08,093
+26079,"Kalkaska County, Michigan",43431.0,,2069.0,,26,079
+27067,"Kandiyohi County, Minnesota",56604.0,,1610.0,,27,067
+20051,"Ellis County, Kansas",49562.0,,3498.0,,20,051
+36001,"Albany County, New York",62293.0,,1234.0,,36,001
+51175,"Southampton County, Virginia",53681.0,,4028.0,,51,175
+39101,"Marion County, Ohio",44708.0,,1991.0,,39,101
+13013,"Barrow County, Georgia",56119.0,,2078.0,,13,013
+13239,"Quitman County, Georgia",26750.0,,7840.0,,13,239
+31181,"Webster County, Nebraska",43831.0,,3883.0,,31,181
+29085,"Hickory County, Missouri",34746.0,,2613.0,,29,085
+16083,"Twin Falls County, Idaho",49118.0,,2416.0,,16,083
+26035,"Clare County, Michigan",35913.0,,1933.0,,26,035
+42059,"Greene County, Pennsylvania",50972.0,,2967.0,,42,059
+27083,"Lyon County, Minnesota",54181.0,,2200.0,,27,083
+16073,"Owyhee County, Idaho",36092.0,,2078.0,,16,073
+16031,"Cassia County, Idaho",48162.0,,2603.0,,16,031
+35055,"Taos County, New Mexico",35314.0,,2651.0,,35,055
+20097,"Kiowa County, Kansas",48226.0,,3193.0,,20,097
+47107,"McMinn County, Tennessee",39990.0,,2047.0,,47,107
+29227,"Worth County, Missouri",48214.0,,3659.0,,29,227
+56037,"Sweetwater County, Wyoming",71083.0,,4336.0,,56,037
+49001,"Beaver County, Utah",47878.0,,4577.0,,49,001
+39065,"Hardin County, Ohio",46404.0,,2271.0,,39,065
+40013,"Bryan County, Oklahoma",41197.0,,1668.0,,40,013
+48295,"Lipscomb County, Texas",59583.0,,7827.0,,48,295
+08065,"Lake County, Colorado",46176.0,,6432.0,,08,065
+29119,"McDonald County, Missouri",41207.0,,2694.0,,29,119
+26159,"Van Buren County, Michigan",49119.0,,1931.0,,26,159
+27087,"Mahnomen County, Minnesota",42439.0,,2382.0,,27,087
+48047,"Brooks County, Texas",24794.0,,3253.0,,48,047
+47027,"Clay County, Tennessee",30801.0,,3356.0,,47,027
+72009,"Aibonito Municipio, Puerto Rico",18387.0,,1257.0,,72,009
+17101,"Lawrence County, Illinois",44504.0,,3076.0,,17,101
+19055,"Delaware County, Iowa",60534.0,,3595.0,,19,055
+48275,"Knox County, Texas",46319.0,,5444.0,,48,275
+12109,"St. Johns County, Florida",73640.0,,2446.0,,12,109
+21079,"Garrard County, Kentucky",47906.0,,3898.0,,21,079
+38099,"Walsh County, North Dakota",50781.0,,3287.0,,38,099
+48131,"Duval County, Texas",35443.0,,5975.0,,48,131
+13291,"Union County, Georgia",42767.0,,6036.0,,13,291
+36043,"Herkimer County, New York",49077.0,,2029.0,,36,043
+21061,"Edmonson County, Kentucky",41114.0,,4167.0,,21,061
+21065,"Estill County, Kentucky",30692.0,,2809.0,,21,065
+28163,"Yazoo County, Mississippi",28330.0,,2558.0,,28,163
+13275,"Thomas County, Georgia",41336.0,,2327.0,,13,275
+37057,"Davidson County, North Carolina",45806.0,,1650.0,,37,057
+48001,"Anderson County, Texas",42313.0,,2337.0,,48,001
+24047,"Worcester County, Maryland",59458.0,,2463.0,,24,047
+13207,"Monroe County, Georgia",50666.0,,4524.0,,13,207
+01097,"Mobile County, Alabama",45802.0,,1034.0,,01,097
+40061,"Haskell County, Oklahoma",38017.0,,2581.0,,40,061
+48305,"Lynn County, Texas",44922.0,,3955.0,,48,305
+19175,"Union County, Iowa",47597.0,,2912.0,,19,175
+26081,"Kent County, Michigan",57302.0,,806.0,,26,081
+18047,"Franklin County, Indiana",55588.0,,2557.0,,18,047
+21035,"Calloway County, Kentucky",39269.0,,2306.0,,21,035
+27015,"Brown County, Minnesota",55764.0,,1955.0,,27,015
+37093,"Hoke County, North Carolina",45713.0,,2023.0,,37,093
+40079,"Le Flore County, Oklahoma",39253.0,,1159.0,,40,079
+55035,"Eau Claire County, Wisconsin",52178.0,,1737.0,,55,035
+17055,"Franklin County, Illinois",39454.0,,1722.0,,17,055
+21121,"Knox County, Kentucky",26061.0,,2043.0,,21,121
+47089,"Jefferson County, Tennessee",45641.0,,2312.0,,47,089
+26067,"Ionia County, Michigan",51980.0,,1721.0,,26,067
+41027,"Hood River County, Oregon",57269.0,,3838.0,,41,027
+19099,"Jasper County, Iowa",56363.0,,2388.0,,19,099
+51041,"Chesterfield County, Virginia",76969.0,,1205.0,,51,041
+01123,"Tallapoosa County, Alabama",42181.0,,2590.0,,01,123
+55117,"Sheboygan County, Wisconsin",56114.0,,1555.0,,55,117
+21097,"Harrison County, Kentucky",44620.0,,3114.0,,21,097
+56035,"Sublette County, Wyoming",84911.0,,12431.0,,56,035
+20165,"Rush County, Kansas",43594.0,,6991.0,,20,165
+01005,"Barbour County, Alabama",33368.0,,2551.0,,01,005
+02130,"Ketchikan Gateway Borough, Alaska",67321.0,,2867.0,,02,130
+26127,"Oceana County, Michigan",44382.0,,1592.0,,26,127
+40017,"Canadian County, Oklahoma",69220.0,,1481.0,,40,017
+49019,"Grand County, Utah",46658.0,,5393.0,,49,019
+06105,"Trinity County, California",36563.0,,5946.0,,06,105
+29201,"Scott County, Missouri",41628.0,,1816.0,,29,201
+45007,"Anderson County, South Carolina",45551.0,,877.0,,45,007
+53073,"Whatcom County, Washington",56419.0,,1506.0,,53,073
+39001,"Adams County, Ohio",36320.0,,2651.0,,39,001
+20171,"Scott County, Kansas",62198.0,,14430.0,,20,171
+05095,"Monroe County, Arkansas",31584.0,,3667.0,,05,095
+12007,"Bradford County, Florida",46106.0,,5357.0,,12,007
+48457,"Tyler County, Texas",44396.0,,4682.0,,48,457
+46071,"Jackson County, South Dakota",38041.0,,4780.0,,46,071
+26083,"Keweenaw County, Michigan",41118.0,,2163.0,,26,083
+51081,"Greensville County, Virginia",42121.0,,5250.0,,51,081
+38035,"Grand Forks County, North Dakota",51410.0,,1526.0,,38,035
+02016,"Aleutians West Census Area, Alaska",85192.0,,5274.0,,02,016
+02068,"Denali Borough, Alaska",83295.0,,6362.0,,02,068
+39087,"Lawrence County, Ohio",45466.0,,2272.0,,39,087
+49045,"Tooele County, Utah",66542.0,,2759.0,,49,045
+13197,"Marion County, Georgia",39015.0,,5043.0,,13,197
+20047,"Edwards County, Kansas",50229.0,,2624.0,,20,047
+32031,"Washoe County, Nevada",58595.0,,1146.0,,32,031
+37085,"Harnett County, North Carolina",50323.0,,1222.0,,37,085
+55045,"Green County, Wisconsin",60609.0,,2211.0,,55,045
+42051,"Fayette County, Pennsylvania",41632.0,,1212.0,,42,051
+04023,"Santa Cruz County, Arizona",39630.0,,2778.0,,04,023
+51710,"Norfolk city, Virginia",47137.0,,930.0,,51,710
+39169,"Wayne County, Ohio",54037.0,,1104.0,,39,169
+08039,"Elbert County, Colorado",92849.0,,4456.0,,08,039
+30025,"Fallon County, Montana",56806.0,,11052.0,,30,025
+13257,"Stephens County, Georgia",39756.0,,3790.0,,13,257
+39167,"Washington County, Ohio",46021.0,,1778.0,,39,167
+36105,"Sullivan County, New York",53877.0,,2786.0,,36,105
+21239,"Woodford County, Kentucky",60604.0,,2510.0,,21,239
+53011,"Clark County, Washington",67832.0,,868.0,,53,011
+21117,"Kenton County, Kentucky",58674.0,,1228.0,,21,117
+28029,"Copiah County, Mississippi",38046.0,,2544.0,,28,029
+27147,"Steele County, Minnesota",58882.0,,2980.0,,27,147
+01047,"Dallas County, Alabama",30065.0,,1775.0,,01,047
+17181,"Union County, Illinois",46716.0,,3562.0,,17,181
+47161,"Stewart County, Tennessee",44090.0,,5348.0,,47,161
+30063,"Missoula County, Montana",49412.0,,1947.0,,30,063
+24510,"Baltimore city, Maryland",46641.0,,774.0,,24,510
+06091,"Sierra County, California",44190.0,,9650.0,,06,091
+31051,"Dixon County, Nebraska",57036.0,,3616.0,,31,051
+36109,"Tompkins County, New York",56200.0,,1682.0,,36,109
+17015,"Carroll County, Illinois",50555.0,,3103.0,,17,015
+41001,"Baker County, Oregon",43765.0,,3354.0,,41,001
+48479,"Webb County, Texas",40442.0,,1234.0,,48,479
+49055,"Wayne County, Utah",42444.0,,3902.0,,49,055
+53067,"Thurston County, Washington",66113.0,,1328.0,,53,067
+36059,"Nassau County, New York",105744.0,,781.0,,36,059
+39151,"Stark County, Ohio",50117.0,,834.0,,39,151
+02188,"Northwest Arctic Borough, Alaska",61533.0,,2830.0,,02,188
+49009,"Daggett County, Utah",85000.0,,41001.0,,49,009
+51079,"Greene County, Virginia",62952.0,,3813.0,,51,079
+12073,"Leon County, Florida",49941.0,,922.0,,12,073
+46027,"Clay County, South Dakota",41773.0,,2505.0,,46,027
+37079,"Greene County, North Carolina",36989.0,,2776.0,,37,079
+21129,"Lee County, Kentucky",23297.0,,2291.0,,21,129
+45091,"York County, South Carolina",59394.0,,1406.0,,45,091
+47163,"Sullivan County, Tennessee",42251.0,,1121.0,,47,163
+55109,"St. Croix County, Wisconsin",77768.0,,2715.0,,55,109
+72119,"Río Grande Municipio, Puerto Rico",22584.0,,1457.0,,72,119
+18045,"Fountain County, Indiana",46669.0,,2741.0,,18,045
+20113,"McPherson County, Kansas",56946.0,,3025.0,,20,113
+51065,"Fluvanna County, Virginia",67964.0,,4057.0,,51,065
+72015,"Arroyo Municipio, Puerto Rico",15689.0,,2329.0,,72,015
+19189,"Winnebago County, Iowa",50072.0,,3013.0,,19,189
+02195,"Petersburg Borough, Alaska",63490.0,,2295.0,,02,195
+72045,"Comerío Municipio, Puerto Rico",13523.0,,1369.0,,72,045
+20005,"Atchison County, Kansas",46640.0,,4084.0,,20,005
+17121,"Marion County, Illinois",44679.0,,2207.0,,17,121
+48015,"Austin County, Texas",62614.0,,6451.0,,48,015
+48017,"Bailey County, Texas",43523.0,,7943.0,,48,017
+02261,"Valdez-Cordova Census Area, Alaska",86019.0,,5533.0,,02,261
+32011,"Eureka County, Nevada",67159.0,,29806.0,,32,011
+26105,"Mason County, Michigan",45524.0,,1693.0,,26,105
+27143,"Sibley County, Minnesota",60848.0,,1397.0,,27,143
+23007,"Franklin County, Maine",45541.0,,2739.0,,23,007
+18169,"Wabash County, Indiana",49052.0,,1738.0,,18,169
+51103,"Lancaster County, Virginia",51495.0,,7163.0,,51,103
+29041,"Chariton County, Missouri",43186.0,,2008.0,,29,041
+39037,"Darke County, Ohio",50064.0,,1661.0,,39,037
+48353,"Nolan County, Texas",42019.0,,2694.0,,48,353
+13105,"Elbert County, Georgia",35207.0,,3455.0,,13,105
+21203,"Rockcastle County, Kentucky",35888.0,,2619.0,,21,203
+04009,"Graham County, Arizona",48173.0,,2637.0,,04,009
+47007,"Bledsoe County, Tennessee",40450.0,,2756.0,,47,007
+48063,"Camp County, Texas",41811.0,,3097.0,,48,063
+06029,"Kern County, California",50826.0,,771.0,,06,029
+53035,"Kitsap County, Washington",68336.0,,1336.0,,53,035
+39111,"Monroe County, Ohio",43299.0,,1915.0,,39,111
+48469,"Victoria County, Texas",55740.0,,2218.0,,48,469
+36003,"Allegany County, New York",45359.0,,1489.0,,36,003
+19193,"Woodbury County, Iowa",51350.0,,1565.0,,19,193
+21037,"Campbell County, Kentucky",57208.0,,2586.0,,21,037
+51127,"New Kent County, Virginia",78429.0,,5091.0,,51,127
+19057,"Des Moines County, Iowa",47524.0,,1795.0,,19,057
+19027,"Carroll County, Iowa",54563.0,,2886.0,,19,027
+12021,"Collier County, Florida",62407.0,,1257.0,,12,021
+47131,"Obion County, Tennessee",38063.0,,2758.0,,47,131
+01087,"Macon County, Alabama",32308.0,,2946.0,,01,087
+55069,"Lincoln County, Wisconsin",54203.0,,2674.0,,55,069
+56045,"Weston County, Wyoming",59605.0,,7853.0,,56,045
+21027,"Breckinridge County, Kentucky",44057.0,,4356.0,,21,027
+29161,"Phelps County, Missouri",41681.0,,1892.0,,29,161
+31115,"Loup County, Nebraska",58625.0,,6306.0,,31,115
+32029,"Storey County, Nevada",63607.0,,7565.0,,32,029
+40011,"Blaine County, Oklahoma",46362.0,,5512.0,,40,011
+21193,"Perry County, Kentucky",31820.0,,3677.0,,21,193
+21195,"Pike County, Kentucky",32972.0,,1465.0,,21,195
+26025,"Calhoun County, Michigan",46213.0,,1008.0,,26,025
+13229,"Pierce County, Georgia",39863.0,,6160.0,,13,229
+38063,"Nelson County, North Dakota",52417.0,,5195.0,,38,063
+08047,"Gilpin County, Colorado",72544.0,,5648.0,,08,047
+13307,"Webster County, Georgia",36658.0,,8113.0,,13,307
+47023,"Chester County, Tennessee",43740.0,,6015.0,,47,023
+27111,"Otter Tail County, Minnesota",55181.0,,1509.0,,27,111
+39163,"Vinton County, Ohio",41541.0,,3335.0,,39,163
+06071,"San Bernardino County, California",57156.0,,594.0,,06,071
+31019,"Buffalo County, Nebraska",55053.0,,2413.0,,31,019
+40083,"Logan County, Oklahoma",59133.0,,4642.0,,40,083
+17179,"Tazewell County, Illinois",60874.0,,1682.0,,17,179
+18057,"Hamilton County, Indiana",90582.0,,1988.0,,18,057
+19115,"Louisa County, Iowa",54393.0,,4017.0,,19,115
+27157,"Wabasha County, Minnesota",61973.0,,2672.0,,27,157
+39171,"Williams County, Ohio",47593.0,,1733.0,,39,171
+01073,"Jefferson County, Alabama",49321.0,,913.0,,01,073
+22051,"Jefferson Parish, Louisiana",50868.0,,652.0,,22,051
+06095,"Solano County, California",72950.0,,1244.0,,06,095
+40087,"McClain County, Oklahoma",62081.0,,2502.0,,40,087
+13003,"Atkinson County, Georgia",33063.0,,1483.0,,13,003
+13055,"Chattooga County, Georgia",35718.0,,2489.0,,13,055
+16087,"Washington County, Idaho",37521.0,,4782.0,,16,087
+17095,"Knox County, Illinois",41972.0,,1269.0,,17,095
+17051,"Fayette County, Illinois",44541.0,,2599.0,,17,051
+21115,"Johnson County, Kentucky",35629.0,,2488.0,,21,115
+26077,"Kalamazoo County, Michigan",51945.0,,978.0,,26,077
+53059,"Skamania County, Washington",53606.0,,3175.0,,53,059
+54001,"Barbour County, West Virginia",37516.0,,2726.0,,54,001
+15003,"Honolulu County, Hawaii",80078.0,,978.0,,15,003
+19031,"Cedar County, Iowa",62555.0,,1614.0,,19,031
+48303,"Lubbock County, Texas",49078.0,,1138.0,,48,303
+05085,"Lonoke County, Arkansas",57290.0,,2075.0,,05,085
+13093,"Dooly County, Georgia",33389.0,,5181.0,,13,093
+47083,"Houston County, Tennessee",41820.0,,2677.0,,47,083
+21083,"Graves County, Kentucky",40369.0,,1825.0,,21,083
+28115,"Pontotoc County, Mississippi",41865.0,,1825.0,,28,115
+30029,"Flathead County, Montana",51410.0,,1582.0,,30,029
+35041,"Roosevelt County, New Mexico",35928.0,,3076.0,,35,041
+26155,"Shiawassee County, Michigan",50967.0,,1316.0,,26,155
+13293,"Upson County, Georgia",35375.0,,2480.0,,13,293
+34015,"Gloucester County, New Jersey",81489.0,,1248.0,,34,015
+54061,"Monongalia County, West Virginia",49624.0,,2134.0,,54,061
+17039,"De Witt County, Illinois",55411.0,,3084.0,,17,039
+39059,"Guernsey County, Ohio",42744.0,,2537.0,,39,059
+46125,"Turner County, South Dakota",54294.0,,3638.0,,46,125
+13287,"Turner County, Georgia",42622.0,,2798.0,,13,287
+55013,"Burnett County, Wisconsin",45891.0,,1629.0,,55,013
+13077,"Coweta County, Georgia",67570.0,,1607.0,,13,077
+45085,"Sumter County, South Carolina",41946.0,,1164.0,,45,085
+31167,"Stanton County, Nebraska",57534.0,,5844.0,,31,167
+28039,"George County, Mississippi",47640.0,,5397.0,,28,039
+13221,"Oglethorpe County, Georgia",43938.0,,1739.0,,13,221
+31017,"Brown County, Nebraska",42773.0,,6964.0,,31,017
+28117,"Prentiss County, Mississippi",32854.0,,4000.0,,28,117
+51021,"Bland County, Virginia",46927.0,,6003.0,,51,021
+21017,"Bourbon County, Kentucky",47886.0,,5525.0,,21,017
+26013,"Baraga County, Michigan",42757.0,,2418.0,,26,013
+29127,"Marion County, Missouri",44098.0,,2536.0,,29,127
+08121,"Washington County, Colorado",51458.0,,5812.0,,08,121
+37053,"Currituck County, North Carolina",65758.0,,5882.0,,37,053
+30043,"Jefferson County, Montana",64911.0,,3742.0,,30,043
+36005,"Bronx County, New York",36593.0,,389.0,,36,005
+22099,"St. Martin Parish, Louisiana",47279.0,,3779.0,,22,099
+16021,"Boundary County, Idaho",39512.0,,4414.0,,16,021
+20137,"Norton County, Kansas",50673.0,,6181.0,,20,137
+47159,"Smith County, Tennessee",44275.0,,3817.0,,47,159
+01119,"Sumter County, Alabama",21663.0,,1677.0,,01,119
+13135,"Gwinnett County, Georgia",64496.0,,804.0,,13,135
+24041,"Talbot County, Maryland",65595.0,,5078.0,,24,041
+34035,"Somerset County, New Jersey",106046.0,,1955.0,,34,035
+29051,"Cole County, Missouri",54216.0,,1664.0,,29,051
+21213,"Simpson County, Kentucky",44989.0,,4615.0,,21,213
+72054,"Florida Municipio, Puerto Rico",16919.0,,3808.0,,72,054
+37165,"Scotland County, North Carolina",32739.0,,2150.0,,37,165
+37183,"Wake County, North Carolina",73577.0,,687.0,,37,183
+24039,"Somerset County, Maryland",39239.0,,4330.0,,24,039
+53063,"Spokane County, Washington",52159.0,,791.0,,53,063
+37043,"Clay County, North Carolina",37070.0,,5113.0,,37,043
+29129,"Mercer County, Missouri",43314.0,,3418.0,,29,129
+27047,"Freeborn County, Minnesota",51174.0,,1600.0,,27,047
+30047,"Lake County, Montana",42582.0,,2370.0,,30,047
+40111,"Okmulgee County, Oklahoma",39567.0,,2363.0,,40,111
+46135,"Yankton County, South Dakota",50029.0,,4014.0,,46,135
+42061,"Huntingdon County, Pennsylvania",46765.0,,1246.0,,42,061
+72069,"Humacao Municipio, Puerto Rico",18735.0,,1143.0,,72,069
+46107,"Potter County, South Dakota",51597.0,,4265.0,,46,107
+23025,"Somerset County, Maine",41549.0,,1522.0,,23,025
+51019,"Bedford County, Virginia",59405.0,,1577.0,,51,019
+37041,"Chowan County, North Carolina",41979.0,,3658.0,,37,041
+51141,"Patrick County, Virginia",37757.0,,4017.0,,51,141
+31055,"Douglas County, Nebraska",58640.0,,1065.0,,31,055
+26131,"Ontonagon County, Michigan",36073.0,,2473.0,,26,131
+13107,"Emanuel County, Georgia",33089.0,,3041.0,,13,107
+38013,"Burke County, North Dakota",71667.0,,4852.0,,38,013
+29001,"Adair County, Missouri",38750.0,,2130.0,,29,001
+13111,"Fannin County, Georgia",43344.0,,5020.0,,13,111
+45035,"Dorchester County, South Carolina",58685.0,,1583.0,,45,035
+13313,"Whitfield County, Georgia",43871.0,,2436.0,,13,313
+40059,"Harper County, Oklahoma",46915.0,,5261.0,,40,059
+29019,"Boone County, Missouri",52005.0,,1208.0,,29,019
+40073,"Kingfisher County, Oklahoma",62829.0,,4672.0,,40,073
+48091,"Comal County, Texas",73655.0,,1751.0,,48,091
+30001,"Beaverhead County, Montana",43880.0,,5838.0,,30,001
+32009,"Esmeralda County, Nevada",39405.0,,8125.0,,32,009
+29209,"Stone County, Missouri",43292.0,,1667.0,,29,209
+08053,"Hinsdale County, Colorado",53056.0,,13171.0,,08,053
+05053,"Grant County, Arkansas",49968.0,,3977.0,,05,053
+49021,"Iron County, Utah",45422.0,,3795.0,,49,021
+48163,"Frio County, Texas",37382.0,,4996.0,,48,163
+20175,"Seward County, Kansas",47535.0,,3069.0,,20,175
+39157,"Tuscarawas County, Ohio",49460.0,,2069.0,,39,157
+48051,"Burleson County, Texas",52510.0,,4429.0,,48,051
+17133,"Monroe County, Illinois",74410.0,,4039.0,,17,133
+40143,"Tulsa County, Oklahoma",52017.0,,462.0,,40,143
+27167,"Wilkin County, Minnesota",52917.0,,3391.0,,27,167
+05083,"Logan County, Arkansas",37982.0,,2324.0,,05,083
+31053,"Dodge County, Nebraska",51748.0,,1807.0,,31,053
+01003,"Baldwin County, Alabama",52562.0,,1348.0,,01,003
+08085,"Montrose County, Colorado",44865.0,,2428.0,,08,085
+09007,"Middlesex County, Connecticut",81673.0,,1923.0,,09,007
+45079,"Richland County, South Carolina",52082.0,,875.0,,45,079
+04017,"Navajo County, Arizona",38798.0,,1774.0,,04,017
+51187,"Warren County, Virginia",65353.0,,3936.0,,51,187
+34011,"Cumberland County, New Jersey",50000.0,,1518.0,,34,011
+25017,"Middlesex County, Massachusetts",92878.0,,735.0,,25,017
+48059,"Callahan County, Texas",40945.0,,2635.0,,48,059
+08045,"Garfield County, Colorado",66503.0,,2244.0,,08,045
+28075,"Lauderdale County, Mississippi",41340.0,,2452.0,,28,075
+01037,"Coosa County, Alabama",34792.0,,3587.0,,01,037
+49047,"Uintah County, Utah",67012.0,,3914.0,,49,047
+20109,"Logan County, Kansas",49926.0,,4604.0,,20,109
+41043,"Linn County, Oregon",49515.0,,1904.0,,41,043
+55139,"Winnebago County, Wisconsin",55128.0,,996.0,,55,139
+05079,"Lincoln County, Arkansas",38873.0,,8291.0,,05,079
+55057,"Juneau County, Wisconsin",48817.0,,1770.0,,55,057
+20017,"Chase County, Kansas",42772.0,,4209.0,,20,017
+02090,"Fairbanks North Star Borough, Alaska",76250.0,,2761.0,,02,090
+72105,"Naranjito Municipio, Puerto Rico",18069.0,,1725.0,,72,105
+01063,"Greene County, Alabama",20954.0,,3315.0,,01,063
+19173,"Taylor County, Iowa",46825.0,,2160.0,,19,173
+40015,"Caddo County, Oklahoma",41626.0,,1473.0,,40,015
+48289,"Leon County, Texas",44875.0,,4612.0,,48,289
+13241,"Rabun County, Georgia",39297.0,,3217.0,,13,241
+51159,"Richmond County, Virginia",47341.0,,4376.0,,51,159
+55055,"Jefferson County, Wisconsin",59215.0,,2680.0,,55,055
+20107,"Linn County, Kansas",46576.0,,5145.0,,20,107
+48449,"Titus County, Texas",46980.0,,2674.0,,48,449
+30097,"Sweet Grass County, Montana",49761.0,,4844.0,,30,097
+37163,"Sampson County, North Carolina",37765.0,,2224.0,,37,163
+36011,"Cayuga County, New York",54664.0,,1603.0,,36,011
+26033,"Chippewa County, Michigan",44030.0,,1729.0,,26,033
+48065,"Carson County, Texas",67010.0,,6981.0,,48,065
+30039,"Granite County, Montana",49063.0,,6908.0,,30,039
+48385,"Real County, Texas",36493.0,,6844.0,,48,385
+55141,"Wood County, Wisconsin",51603.0,,1624.0,,55,141
+72109,"Patillas Municipio, Puerto Rico",14512.0,,1317.0,,72,109
+22091,"St. Helena Parish, Louisiana",35254.0,,5942.0,,22,091
+51089,"Henry County, Virginia",36779.0,,1679.0,,51,089
+42005,"Armstrong County, Pennsylvania",47527.0,,1677.0,,42,005
+26111,"Midland County, Michigan",57117.0,,1948.0,,26,111
+20111,"Lyon County, Kansas",42992.0,,2717.0,,20,111
+13219,"Oconee County, Georgia",77388.0,,4806.0,,13,219
+35023,"Hidalgo County, New Mexico",31829.0,,8065.0,,35,023
+28063,"Jefferson County, Mississippi",21779.0,,6779.0,,28,063
+22061,"Lincoln Parish, Louisiana",34424.0,,2465.0,,22,061
+55125,"Vilas County, Wisconsin",42720.0,,1563.0,,55,125
+02013,"Aleutians East Borough, Alaska",66607.0,,2827.0,,02,013
+54085,"Ritchie County, West Virginia",41497.0,,4226.0,,54,085
+38101,"Ward County, North Dakota",64159.0,,2483.0,,38,101
+31025,"Cass County, Nebraska",68284.0,,2743.0,,31,025
+72141,"Utuado Municipio, Puerto Rico",15931.0,,1104.0,,72,141
+37177,"Tyrrell County, North Carolina",32411.0,,8183.0,,37,177
+40043,"Dewey County, Oklahoma",52930.0,,3469.0,,40,043
+12097,"Osceola County, Florida",47343.0,,1259.0,,12,097
+26133,"Osceola County, Michigan",41099.0,,1042.0,,26,133
+02122,"Kenai Peninsula Borough, Alaska",65279.0,,2335.0,,02,122
+37055,"Dare County, North Carolina",55640.0,,2805.0,,37,055
+72103,"Naguabo Municipio, Puerto Rico",18976.0,,1454.0,,72,103
+42023,"Cameron County, Pennsylvania",40402.0,,3317.0,,42,023
+48023,"Baylor County, Texas",36157.0,,3798.0,,48,023
+55081,"Monroe County, Wisconsin",56479.0,,1752.0,,55,081
+18163,"Vanderburgh County, Indiana",44815.0,,1408.0,,18,163
+47115,"Marion County, Tennessee",45366.0,,3152.0,,47,115
+13247,"Rockdale County, Georgia",54175.0,,1805.0,,13,247
+37039,"Cherokee County, North Carolina",38115.0,,2031.0,,37,039
+42079,"Luzerne County, Pennsylvania",49290.0,,817.0,,42,079
+05087,"Madison County, Arkansas",42894.0,,3325.0,,05,087
+42089,"Monroe County, Pennsylvania",61430.0,,1956.0,,42,089
+19071,"Fremont County, Iowa",54430.0,,3310.0,,19,071
+45015,"Berkeley County, South Carolina",56697.0,,1142.0,,45,015
+08057,"Jackson County, Colorado",45994.0,,4071.0,,08,057
+49033,"Rich County, Utah",52917.0,,11088.0,,49,033
+29023,"Butler County, Missouri",37878.0,,2668.0,,29,023
+42025,"Carbon County, Pennsylvania",51236.0,,1791.0,,42,025
+29169,"Pulaski County, Missouri",51137.0,,2137.0,,29,169
+72063,"Gurabo Municipio, Puerto Rico",32625.0,,2633.0,,72,063
+37105,"Lee County, North Carolina",49272.0,,2653.0,,37,105
+23009,"Hancock County, Maine",51438.0,,1931.0,,23,009
+48147,"Fannin County, Texas",47875.0,,2798.0,,48,147
+42105,"Potter County, Pennsylvania",41406.0,,1472.0,,42,105
+47129,"Morgan County, Tennessee",40707.0,,3025.0,,47,129
+50019,"Orleans County, Vermont",45664.0,,1944.0,,50,019
+39077,"Huron County, Ohio",49710.0,,1428.0,,39,077
+01121,"Talladega County, Alabama",39219.0,,2277.0,,01,121
+47121,"Meigs County, Tennessee",39786.0,,3531.0,,47,121
+51750,"Radford city, Virginia",36082.0,,5918.0,,51,750
+13035,"Butts County, Georgia",39655.0,,2735.0,,13,035
+21233,"Webster County, Kentucky",39273.0,,3211.0,,21,233
+21125,"Laurel County, Kentucky",37235.0,,1596.0,,21,125
+15001,"Hawaii County, Hawaii",56395.0,,1657.0,,15,001
+56027,"Niobrara County, Wyoming",36793.0,,5518.0,,56,027
+42007,"Beaver County, Pennsylvania",53981.0,,1083.0,,42,007
+33005,"Cheshire County, New Hampshire",60148.0,,1832.0,,33,005
+28015,"Carroll County, Mississippi",43068.0,,5973.0,,28,015
+39025,"Clermont County, Ohio",64183.0,,1592.0,,39,025
+20139,"Osage County, Kansas",54186.0,,2532.0,,20,139
+46011,"Brookings County, South Dakota",53473.0,,2404.0,,46,011
+51137,"Orange County, Virginia",67196.0,,3748.0,,51,137
+39159,"Union County, Ohio",78848.0,,3468.0,,39,159
+54087,"Roane County, West Virginia",37931.0,,3412.0,,54,087
+21093,"Hardin County, Kentucky",51923.0,,1694.0,,21,093
+47105,"Loudon County, Tennessee",55431.0,,1837.0,,47,105
+51027,"Buchanan County, Virginia",30828.0,,1316.0,,51,027
+38047,"Logan County, North Dakota",57379.0,,4488.0,,38,047
+21237,"Wolfe County, Kentucky",21999.0,,3937.0,,21,237
+24033,"Prince George's County, Maryland",78607.0,,1010.0,,24,033
+05039,"Dallas County, Arkansas",35794.0,,4141.0,,05,039
+18041,"Fayette County, Indiana",41476.0,,2097.0,,18,041
+72067,"Hormigueros Municipio, Puerto Rico",19674.0,,1596.0,,72,067
+48061,"Cameron County, Texas",36095.0,,962.0,,48,061
+36015,"Chemung County, New York",51251.0,,1531.0,,36,015
+26101,"Manistee County, Michigan",44882.0,,2234.0,,26,101
+13279,"Toombs County, Georgia",35750.0,,3133.0,,13,279
+55007,"Bayfield County, Wisconsin",50110.0,,1435.0,,55,007
+37103,"Jones County, North Carolina",37256.0,,5190.0,,37,103
+31067,"Gage County, Nebraska",52223.0,,2284.0,,31,067
+36047,"Kings County, New York",52782.0,,467.0,,36,047
+13277,"Tift County, Georgia",38728.0,,3078.0,,13,277
+34041,"Warren County, New Jersey",75500.0,,2277.0,,34,041
+48135,"Ector County, Texas",59528.0,,2471.0,,48,135
+08014,"Broomfield County, Colorado",85639.0,,2394.0,,08,014
+30073,"Pondera County, Montana",44597.0,,3730.0,,30,073
+19165,"Shelby County, Iowa",55638.0,,4343.0,,19,165
+40007,"Beaver County, Oklahoma",52571.0,,2659.0,,40,007
+48407,"San Jacinto County, Texas",43421.0,,5938.0,,48,407
+45055,"Kershaw County, South Carolina",46565.0,,2217.0,,45,055
+48343,"Morris County, Texas",40227.0,,4275.0,,48,343
+48171,"Gillespie County, Texas",56267.0,,3468.0,,48,171
+18053,"Grant County, Indiana",42046.0,,1728.0,,18,053
+47165,"Sumner County, Tennessee",61584.0,,1513.0,,47,165
+28083,"Leflore County, Mississippi",25210.0,,1912.0,,28,083
+05077,"Lee County, Arkansas",27901.0,,4074.0,,05,077
+51770,"Roanoke city, Virginia",41483.0,,1343.0,,51,770
+13301,"Warren County, Georgia",32860.0,,4524.0,,13,301
+42115,"Susquehanna County, Pennsylvania",52014.0,,1763.0,,42,115
+16053,"Jerome County, Idaho",46421.0,,3057.0,,16,053
+18001,"Adams County, Indiana",48290.0,,2581.0,,18,001
+19059,"Dickinson County, Iowa",59889.0,,2921.0,,19,059
+13175,"Laurens County, Georgia",35202.0,,1689.0,,13,175
+72033,"Cataño Municipio, Puerto Rico",18663.0,,1413.0,,72,033
+48195,"Hansford County, Texas",40678.0,,3734.0,,48,195
+05021,"Clay County, Arkansas",32219.0,,2195.0,,05,021
+20135,"Ness County, Kansas",48412.0,,4284.0,,20,135
+32019,"Lyon County, Nevada",50920.0,,1612.0,,32,019
+42039,"Crawford County, Pennsylvania",47179.0,,1277.0,,42,039
+35031,"McKinley County, New Mexico",30336.0,,1354.0,,35,031
+36077,"Otsego County, New York",51254.0,,1528.0,,36,077
+13155,"Irwin County, Georgia",34677.0,,6022.0,,13,155
+46003,"Aurora County, South Dakota",57257.0,,3400.0,,46,003
+28059,"Jackson County, Mississippi",50274.0,,1619.0,,28,059
+49051,"Wasatch County, Utah",74552.0,,4096.0,,49,051
+41003,"Benton County, Oregon",54682.0,,2361.0,,41,003
+28001,"Adams County, Mississippi",30359.0,,1438.0,,28,001
+35051,"Sierra County, New Mexico",29690.0,,1938.0,,35,051
+51195,"Wise County, Virginia",38255.0,,3086.0,,51,195
+46103,"Pennington County, South Dakota",52245.0,,1085.0,,46,103
+29017,"Bollinger County, Missouri",40791.0,,3471.0,,29,017
+51520,"Bristol city, Virginia",37844.0,,4812.0,,51,520
+54101,"Webster County, West Virginia",33390.0,,5886.0,,54,101
+35006,"Cibola County, New Mexico",36089.0,,1706.0,,35,006
+28019,"Choctaw County, Mississippi",34542.0,,2680.0,,28,019
+46041,"Dewey County, South Dakota",41190.0,,3055.0,,46,041
+28155,"Webster County, Mississippi",35634.0,,7532.0,,28,155
+42101,"Philadelphia County, Pennsylvania",40649.0,,466.0,,42,101
+13099,"Early County, Georgia",29493.0,,5666.0,,13,099
+16071,"Oneida County, Idaho",43491.0,,8254.0,,16,071
+21179,"Nelson County, Kentucky",55182.0,,2157.0,,21,179
+54003,"Berkeley County, West Virginia",59480.0,,2334.0,,54,003
+16019,"Bonneville County, Idaho",54150.0,,1580.0,,16,019
+36083,"Rensselaer County, New York",63166.0,,1695.0,,36,083
+49057,"Weber County, Utah",62036.0,,966.0,,49,057
+56031,"Platte County, Wyoming",47380.0,,4737.0,,56,031
+06059,"Orange County, California",81851.0,,570.0,,06,059
+13085,"Dawson County, Georgia",62284.0,,5862.0,,13,085
+19171,"Tama County, Iowa",56110.0,,2522.0,,19,171
+48085,"Collin County, Texas",90124.0,,995.0,,48,085
+25001,"Barnstable County, Massachusetts",68048.0,,1279.0,,25,001
+55041,"Forest County, Wisconsin",43356.0,,2127.0,,55,041
+20191,"Sumner County, Kansas",52695.0,,2960.0,,20,191
+31119,"Madison County, Nebraska",49865.0,,1887.0,,31,119
+21073,"Franklin County, Kentucky",53539.0,,1867.0,,21,073
+48361,"Orange County, Texas",53667.0,,2201.0,,48,361
+46077,"Kingsbury County, South Dakota",58794.0,,3490.0,,46,077
+20037,"Crawford County, Kansas",38017.0,,1911.0,,20,037
+01023,"Choctaw County, Alabama",32122.0,,2797.0,,01,023
+08019,"Clear Creek County, Colorado",68534.0,,4776.0,,08,019
+13101,"Echols County, Georgia",34315.0,,3790.0,,13,101
+08119,"Teller County, Colorado",66809.0,,3624.0,,08,119
+16013,"Blaine County, Idaho",58835.0,,5130.0,,16,013
+42123,"Warren County, Pennsylvania",45781.0,,1519.0,,42,123
+01089,"Madison County, Alabama",61318.0,,1430.0,,01,089
+30009,"Carbon County, Montana",56988.0,,4501.0,,30,009
+19159,"Ringgold County, Iowa",50642.0,,2948.0,,19,159
+20089,"Jewell County, Kansas",43125.0,,4266.0,,20,089
+11001,"District of Columbia, District of Columbia",77649.0,,1075.0,,11,001
+21009,"Barren County, Kentucky",39658.0,,1505.0,,21,009
+27035,"Crow Wing County, Minnesota",53121.0,,1367.0,,27,035
+12095,"Orange County, Florida",51586.0,,483.0,,12,095
+37063,"Durham County, North Carolina",56393.0,,1261.0,,37,063
+17069,"Hardin County, Illinois",39524.0,,6819.0,,17,069
+30059,"Meagher County, Montana",41343.0,,4810.0,,30,059
+55025,"Dane County, Wisconsin",67631.0,,931.0,,55,025
+48077,"Clay County, Texas",46863.0,,4871.0,,48,077
+26139,"Ottawa County, Michigan",63962.0,,920.0,,26,139
+48281,"Lampasas County, Texas",54467.0,,3818.0,,48,281
+51740,"Portsmouth city, Virginia",48727.0,,1587.0,,51,740
+53031,"Jefferson County, Washington",51842.0,,3291.0,,53,031
+26041,"Delta County, Michigan",44639.0,,2018.0,,26,041
+32027,"Pershing County, Nevada",52308.0,,8717.0,,32,027
+10003,"New Castle County, Delaware",68336.0,,1106.0,,10,003
+24015,"Cecil County, Maryland",70516.0,,2476.0,,24,015
+16041,"Franklin County, Idaho",51583.0,,5632.0,,16,041
+27145,"Stearns County, Minnesota",59564.0,,1137.0,,27,145
+51149,"Prince George County, Virginia",68461.0,,3433.0,,51,149
+40075,"Kiowa County, Oklahoma",38191.0,,2812.0,,40,075
+48495,"Winkler County, Texas",55000.0,,12087.0,,48,495
+06099,"Stanislaus County, California",54260.0,,976.0,,06,099
+21105,"Hickman County, Kentucky",38036.0,,4415.0,,21,105
+56009,"Converse County, Wyoming",62776.0,,5189.0,,56,009
+06061,"Placer County, California",80488.0,,1431.0,,06,061
+42097,"Northumberland County, Pennsylvania",44534.0,,1601.0,,42,097
+48019,"Bandera County, Texas",56413.0,,5522.0,,48,019
+33013,"Merrimack County, New Hampshire",69856.0,,1417.0,,33,013
+48299,"Llano County, Texas",50524.0,,4101.0,,48,299
+08017,"Cheyenne County, Colorado",54907.0,,5772.0,,08,017
+53057,"Skagit County, Washington",59263.0,,1403.0,,53,057
+47151,"Scott County, Tennessee",31875.0,,3034.0,,47,151
+19151,"Pocahontas County, Iowa",45969.0,,2874.0,,19,151
+47055,"Giles County, Tennessee",43925.0,,3053.0,,47,055
+48133,"Eastland County, Texas",32135.0,,3314.0,,48,133
+55063,"La Crosse County, Wisconsin",54127.0,,1324.0,,55,063
+05065,"Izard County, Arkansas",39135.0,,2916.0,,05,065
+50009,"Essex County, Vermont",38767.0,,2389.0,,50,009
+17033,"Crawford County, Illinois",47468.0,,2393.0,,17,033
+37049,"Craven County, North Carolina",49391.0,,1367.0,,37,049
+08111,"San Juan County, Colorado",46397.0,,6858.0,,08,111
+29093,"Iron County, Missouri",36457.0,,1532.0,,29,093
+12027,"DeSoto County, Florida",35435.0,,1717.0,,12,027
+13089,"DeKalb County, Georgia",55876.0,,865.0,,13,089
+17123,"Marshall County, Illinois",55173.0,,2308.0,,17,123
+48357,"Ochiltree County, Texas",50120.0,,4332.0,,48,357
+50023,"Washington County, Vermont",60602.0,,2838.0,,50,023
+13315,"Wilcox County, Georgia",35457.0,,3364.0,,13,315
+13161,"Jeff Davis County, Georgia",37267.0,,3563.0,,13,161
+40133,"Seminole County, Oklahoma",37741.0,,1507.0,,40,133
+51017,"Bath County, Virginia",44483.0,,3178.0,,51,017
+72081,"Lares Municipio, Puerto Rico",12820.0,,1120.0,,72,081
+01117,"Shelby County, Alabama",74063.0,,1255.0,,01,117
+05115,"Pope County, Arkansas",40668.0,,2212.0,,05,115
+29221,"Washington County, Missouri",37810.0,,2171.0,,29,221
+24001,"Allegany County, Maryland",42771.0,,1485.0,,24,001
+37015,"Bertie County, North Carolina",31287.0,,1747.0,,37,015
+48377,"Presidio County, Texas",26486.0,,8419.0,,48,377
+23027,"Waldo County, Maine",50162.0,,2047.0,,23,027
+54077,"Preston County, West Virginia",46673.0,,1820.0,,54,077
+47141,"Putnam County, Tennessee",37802.0,,1877.0,,47,141
+47049,"Fentress County, Tennessee",32616.0,,2871.0,,47,049
+46095,"Mellette County, South Dakota",31165.0,,2323.0,,46,095
+31175,"Valley County, Nebraska",50270.0,,5277.0,,31,175
+45089,"Williamsburg County, South Carolina",30976.0,,1981.0,,45,089
+25027,"Worcester County, Massachusetts",69313.0,,924.0,,25,027
+51003,"Albemarle County, Virginia",72265.0,,2910.0,,51,003
+08043,"Fremont County, Colorado",44712.0,,1951.0,,08,043
+30017,"Custer County, Montana",53050.0,,8518.0,,30,017
+17061,"Greene County, Illinois",44502.0,,2341.0,,17,061
+46009,"Bon Homme County, South Dakota",52923.0,,4051.0,,46,009
+34009,"Cape May County, New Jersey",62332.0,,1965.0,,34,009
+31061,"Franklin County, Nebraska",49453.0,,2456.0,,31,061
+48223,"Hopkins County, Texas",47832.0,,1988.0,,48,223
+51061,"Fauquier County, Virginia",94775.0,,3957.0,,51,061
+02282,"Yakutat City and Borough, Alaska",64583.0,,11434.0,,02,282
+55061,"Kewaunee County, Wisconsin",60320.0,,2638.0,,55,061
+16043,"Fremont County, Idaho",51806.0,,2998.0,,16,043
+28161,"Yalobusha County, Mississippi",37647.0,,3944.0,,28,161
+51700,"Newport News city, Virginia",51082.0,,1419.0,,51,700
+18139,"Rush County, Indiana",47955.0,,3688.0,,18,139
+48233,"Hutchinson County, Texas",50035.0,,4099.0,,48,233
+31117,"McPherson County, Nebraska",60714.0,,10396.0,,31,117
+17149,"Pike County, Illinois",41387.0,,1354.0,,17,149
+72053,"Fajardo Municipio, Puerto Rico",18941.0,,1382.0,,72,053
+17099,"LaSalle County, Illinois",54693.0,,1378.0,,17,099
+40127,"Pushmataha County, Oklahoma",35414.0,,1897.0,,40,127
+40063,"Hughes County, Oklahoma",38425.0,,2994.0,,40,063
+21109,"Jackson County, Kentucky",32055.0,,2667.0,,21,109
+31135,"Perkins County, Nebraska",58125.0,,4387.0,,31,135
+17023,"Clark County, Illinois",52068.0,,3824.0,,17,023
+47095,"Lake County, Tennessee",31993.0,,5436.0,,47,095
+29167,"Polk County, Missouri",44805.0,,2581.0,,29,167
+37059,"Davie County, North Carolina",53493.0,,3372.0,,37,059
+51107,"Loudoun County, Virginia",129588.0,,2111.0,,51,107
+37073,"Gates County, North Carolina",52481.0,,2532.0,,37,073
+40125,"Pottawatomie County, Oklahoma",46159.0,,1521.0,,40,125
+04007,"Gila County, Arizona",41179.0,,1678.0,,04,007
+06009,"Calaveras County, California",54800.0,,3529.0,,06,009
+48267,"Kimble County, Texas",41095.0,,2463.0,,48,267
+29186,"Ste. Genevieve County, Missouri",50959.0,,3492.0,,29,186
+35061,"Valencia County, New Mexico",43428.0,,2047.0,,35,061
+21047,"Christian County, Kentucky",41849.0,,1312.0,,21,047
+42065,"Jefferson County, Pennsylvania",45342.0,,1246.0,,42,065
+18079,"Jennings County, Indiana",48362.0,,3477.0,,18,079
+37117,"Martin County, North Carolina",35969.0,,3249.0,,37,117
+29005,"Atchison County, Missouri",45259.0,,3028.0,,29,005
+29021,"Buchanan County, Missouri",48652.0,,1906.0,,29,021
+30103,"Treasure County, Montana",42454.0,,5000.0,,30,103
+18179,"Wells County, Indiana",53038.0,,2386.0,,18,179
+22021,"Caldwell Parish, Louisiana",31933.0,,3546.0,,22,021
+26157,"Tuscola County, Michigan",45495.0,,1120.0,,26,157
+04021,"Pinal County, Arizona",52628.0,,891.0,,04,021
+20053,"Ellsworth County, Kansas",48550.0,,4820.0,,20,053
+42091,"Montgomery County, Pennsylvania",84791.0,,781.0,,42,091
+47157,"Shelby County, Tennessee",48415.0,,621.0,,47,157
+27045,"Fillmore County, Minnesota",57093.0,,1913.0,,27,045
+24021,"Frederick County, Maryland",88502.0,,1557.0,,24,021
+08013,"Boulder County, Colorado",75669.0,,1234.0,,08,013
+55083,"Oconto County, Wisconsin",55762.0,,1720.0,,55,083
+48333,"Mills County, Texas",46318.0,,7679.0,,48,333
+18165,"Vermillion County, Indiana",45440.0,,2242.0,,18,165
+13063,"Clayton County, Georgia",44106.0,,1280.0,,13,063
+17093,"Kendall County, Illinois",89860.0,,4149.0,,17,093
+21101,"Henderson County, Kentucky",43458.0,,2412.0,,21,101
+54049,"Marion County, West Virginia",48158.0,,1899.0,,54,049
+37125,"Moore County, North Carolina",54468.0,,1850.0,,37,125
+18027,"Daviess County, Indiana",48355.0,,2821.0,,18,027
+46121,"Todd County, South Dakota",26285.0,,3433.0,,46,121
+26047,"Emmet County, Michigan",51475.0,,1871.0,,26,047
+49031,"Piute County, Utah",41750.0,,4885.0,,49,031
+17075,"Iroquois County, Illinois",48857.0,,2229.0,,17,075
+38057,"Mercer County, North Dakota",80337.0,,5043.0,,38,057
+26129,"Ogemaw County, Michigan",38149.0,,1450.0,,26,129
+20141,"Osborne County, Kansas",42173.0,,4304.0,,20,141
+46031,"Corson County, South Dakota",32260.0,,3268.0,,46,031
+25021,"Norfolk County, Massachusetts",95668.0,,1134.0,,25,021
+05129,"Searcy County, Arkansas",36716.0,,4199.0,,05,129
+53023,"Garfield County, Washington",51399.0,,4518.0,,53,023
+39143,"Sandusky County, Ohio",50370.0,,1439.0,,39,143
+46129,"Walworth County, South Dakota",46623.0,,7342.0,,46,129
+48273,"Kleberg County, Texas",41700.0,,3197.0,,48,273
+48097,"Cooke County, Texas",60027.0,,2476.0,,48,097
+13153,"Houston County, Georgia",55965.0,,2162.0,,13,153
+24013,"Carroll County, Maryland",90510.0,,1770.0,,24,013
+20025,"Clark County, Kansas",46094.0,,6602.0,,20,025
+39009,"Athens County, Ohio",37191.0,,2008.0,,39,009
+49013,"Duchesne County, Utah",63000.0,,1812.0,,49,013
+48413,"Schleicher County, Texas",63432.0,,8717.0,,48,413
+48507,"Zavala County, Texas",25988.0,,5009.0,,48,507
+36019,"Clinton County, New York",52759.0,,1739.0,,36,019
+29229,"Wright County, Missouri",31290.0,,2644.0,,29,229
+17141,"Ogle County, Illinois",57655.0,,1762.0,,17,141
+13233,"Polk County, Georgia",40652.0,,2098.0,,13,233
+13169,"Jones County, Georgia",55110.0,,5523.0,,13,169
+13215,"Muscogee County, Georgia",43239.0,,1433.0,,13,215
+72139,"Trujillo Alto Municipio, Puerto Rico",31202.0,,1312.0,,72,139
+40101,"Muskogee County, Oklahoma",41329.0,,1214.0,,40,101
+08067,"La Plata County, Colorado",62533.0,,2438.0,,08,067
+16047,"Gooding County, Idaho",42626.0,,4212.0,,16,047
+17163,"St. Clair County, Illinois",51103.0,,1054.0,,17,163
+19039,"Clarke County, Iowa",49718.0,,3191.0,,19,039
+20083,"Hodgeman County, Kansas",55345.0,,5977.0,,20,083
+22045,"Iberia Parish, Louisiana",44504.0,,2274.0,,22,045
+36095,"Schoharie County, New York",51842.0,,1978.0,,36,095
+48363,"Palo Pinto County, Texas",45067.0,,2933.0,,48,363
+12069,"Lake County, Florida",49734.0,,1173.0,,12,069
+30089,"Sanders County, Montana",36445.0,,4172.0,,30,089
+72151,"Yabucoa Municipio, Puerto Rico",15586.0,,1467.0,,72,151
+47173,"Union County, Tennessee",40132.0,,3726.0,,47,173
+38061,"Mountrail County, North Dakota",69622.0,,6012.0,,38,061
+06007,"Butte County, California",46516.0,,1130.0,,06,007
+39063,"Hancock County, Ohio",52831.0,,2001.0,,39,063
+20131,"Nemaha County, Kansas",53368.0,,2967.0,,20,131
+39139,"Richland County, Ohio",44138.0,,1267.0,,39,139
+05135,"Sharp County, Arkansas",31792.0,,1931.0,,05,135
+36033,"Franklin County, New York",50733.0,,1529.0,,36,033
+21023,"Bracken County, Kentucky",40458.0,,3488.0,,21,023
+30015,"Chouteau County, Montana",39577.0,,2805.0,,30,015
+18173,"Warrick County, Indiana",66080.0,,2162.0,,18,173
+17115,"Macon County, Illinois",49052.0,,1793.0,,17,115
+23015,"Lincoln County, Maine",54041.0,,2895.0,,23,015
+30023,"Deer Lodge County, Montana",41235.0,,2892.0,,30,023
+48227,"Howard County, Texas",50855.0,,2162.0,,48,227
+72079,"Lajas Municipio, Puerto Rico",13896.0,,1203.0,,72,079
+37001,"Alamance County, North Carolina",44281.0,,1192.0,,37,001
+13157,"Jackson County, Georgia",57999.0,,2894.0,,13,157
+13125,"Glascock County, Georgia",45273.0,,4977.0,,13,125
+46063,"Harding County, South Dakota",55972.0,,6862.0,,46,063
+37025,"Cabarrus County, North Carolina",60716.0,,1429.0,,37,025
+48041,"Brazos County, Texas",43907.0,,1389.0,,48,041
+48401,"Rusk County, Texas",49270.0,,2855.0,,48,401
+12067,"Lafayette County, Florida",41512.0,,9747.0,,12,067
+19009,"Audubon County, Iowa",48750.0,,2762.0,,19,009
+22075,"Plaquemines Parish, Louisiana",49635.0,,4704.0,,22,075
+29067,"Douglas County, Missouri",33003.0,,3396.0,,29,067
+51730,"Petersburg city, Virginia",33939.0,,1600.0,,51,730
+05001,"Arkansas County, Arkansas",38532.0,,2759.0,,05,001
+13243,"Randolph County, Georgia",30640.0,,3901.0,,13,243
+48145,"Falls County, Texas",38834.0,,4055.0,,48,145
+05075,"Lawrence County, Arkansas",37603.0,,2540.0,,05,075
+39093,"Lorain County, Ohio",54987.0,,963.0,,39,093
+48397,"Rockwall County, Texas",93269.0,,3672.0,,48,397
+48021,"Bastrop County, Texas",59185.0,,2756.0,,48,021
+32021,"Mineral County, Nevada",39375.0,,7830.0,,32,021
+48393,"Roberts County, Texas",79167.0,,8098.0,,48,393
+15007,"Kauai County, Hawaii",72330.0,,3242.0,,15,007
+31107,"Knox County, Nebraska",48072.0,,3296.0,,31,107
+72037,"Ceiba Municipio, Puerto Rico",18998.0,,2217.0,,72,037
+53019,"Ferry County, Washington",41081.0,,2040.0,,53,019
+13023,"Bleckley County, Georgia",40688.0,,3305.0,,13,023
+36063,"Niagara County, New York",51656.0,,1205.0,,36,063
+27093,"Meeker County, Minnesota",59611.0,,2064.0,,27,093
+16085,"Valley County, Idaho",54015.0,,4886.0,,16,085
+27033,"Cottonwood County, Minnesota",50524.0,,2661.0,,27,033
+01099,"Monroe County, Alabama",26036.0,,3726.0,,01,099
+51005,"Alleghany County, Virginia",46020.0,,4009.0,,51,005
+26089,"Leelanau County, Michigan",62646.0,,2665.0,,26,089
+47133,"Overton County, Tennessee",36052.0,,2056.0,,47,133
+48319,"Mason County, Texas",40949.0,,3689.0,,48,319
+33001,"Belknap County, New Hampshire",65834.0,,3253.0,,33,001
+38023,"Divide County, North Dakota",54223.0,,11500.0,,38,023
+26023,"Branch County, Michigan",48192.0,,1961.0,,26,023
+12041,"Gilchrist County, Florida",42934.0,,3874.0,,12,041
+48463,"Uvalde County, Texas",40781.0,,3100.0,,48,463
+29133,"Mississippi County, Missouri",32212.0,,2610.0,,29,133
+39039,"Defiance County, Ohio",55295.0,,2089.0,,39,039
+48243,"Jeff Davis County, Texas",46534.0,,10024.0,,48,243
+02220,"Sitka City and Borough, Alaska",70765.0,,6307.0,,02,220
+05051,"Garland County, Arkansas",41672.0,,1593.0,,05,051
+16029,"Caribou County, Idaho",58750.0,,5290.0,,16,029
+12029,"Dixie County, Florida",35910.0,,3084.0,,12,029
+21221,"Trigg County, Kentucky",47259.0,,5396.0,,21,221
+26029,"Charlevoix County, Michigan",51567.0,,2026.0,,26,029
+36013,"Chautauqua County, New York",44304.0,,1256.0,,36,013
+13149,"Heard County, Georgia",44897.0,,3468.0,,13,149
+30093,"Silver Bow County, Montana",40480.0,,2706.0,,30,093
+23029,"Washington County, Maine",40328.0,,1454.0,,23,029
+13121,"Fulton County, Georgia",61336.0,,792.0,,13,121
+12045,"Gulf County, Florida",44647.0,,3144.0,,12,045
+31109,"Lancaster County, Nebraska",55747.0,,936.0,,31,109
+20199,"Wallace County, Kansas",60000.0,,12814.0,,20,199
+42133,"York County, Pennsylvania",61707.0,,624.0,,42,133
+27063,"Jackson County, Minnesota",55122.0,,2864.0,,27,063
+01131,"Wilcox County, Alabama",27012.0,,3249.0,,01,131
+08001,"Adams County, Colorado",64087.0,,991.0,,08,001
+13091,"Dodge County, Georgia",35290.0,,2856.0,,13,091
+72129,"San Lorenzo Municipio, Puerto Rico",18589.0,,1151.0,,72,129
+48271,"Kinney County, Texas",34926.0,,7639.0,,48,271
+24043,"Washington County, Maryland",58260.0,,1909.0,,24,043
+39165,"Warren County, Ohio",79397.0,,2054.0,,39,165
+05033,"Crawford County, Arkansas",43504.0,,1870.0,,05,033
+39049,"Franklin County, Ohio",56319.0,,509.0,,39,049
+47117,"Marshall County, Tennessee",46837.0,,3183.0,,47,117
+39011,"Auglaize County, Ohio",59516.0,,1900.0,,39,011
+21063,"Elliott County, Kentucky",29043.0,,3764.0,,21,063
+33003,"Carroll County, New Hampshire",58139.0,,3515.0,,33,003
+48443,"Terrell County, Texas",26063.0,,5567.0,,48,443
+18105,"Monroe County, Indiana",45689.0,,1794.0,,18,105
+06081,"San Mateo County, California",105667.0,,1195.0,,06,081
+48121,"Denton County, Texas",80290.0,,1119.0,,48,121
+12127,"Volusia County, Florida",43838.0,,781.0,,12,127
+54039,"Kanawha County, West Virginia",46859.0,,1372.0,,54,039
+48173,"Glasscock County, Texas",64886.0,,26246.0,,48,173
+40091,"McIntosh County, Oklahoma",38163.0,,2682.0,,40,091
+24019,"Dorchester County, Maryland",50532.0,,3733.0,,24,019
+27043,"Faribault County, Minnesota",50847.0,,2087.0,,27,043
+30037,"Golden Valley County, Montana",43854.0,,4187.0,,30,037
+37091,"Hertford County, North Carolina",35806.0,,2350.0,,37,091
+20071,"Greeley County, Kansas",47045.0,,7304.0,,20,071
+38059,"Morton County, North Dakota",65385.0,,4760.0,,38,059
+26031,"Cheboygan County, Michigan",42876.0,,2289.0,,26,031
+48325,"Medina County, Texas",59305.0,,2261.0,,48,325
+01017,"Chambers County, Alabama",37342.0,,2011.0,,01,017
+36079,"Putnam County, New York",99608.0,,2584.0,,36,079
+17041,"Douglas County, Illinois",52261.0,,2466.0,,17,041
+22105,"Tangipahoa Parish, Louisiana",45901.0,,2690.0,,22,105
+01111,"Randolph County, Alabama",39485.0,,3413.0,,01,111
+01013,"Butler County, Alabama",36326.0,,2701.0,,01,013
+51099,"King George County, Virginia",84770.0,,6188.0,,51,099
+36089,"St. Lawrence County, New York",48330.0,,1867.0,,36,089
+21005,"Anderson County, Kentucky",51681.0,,3353.0,,21,005
+48165,"Gaines County, Texas",58167.0,,5868.0,,48,165
+05045,"Faulkner County, Arkansas",50316.0,,2016.0,,05,045
+55051,"Iron County, Wisconsin",39855.0,,3412.0,,55,051
+23003,"Aroostook County, Maine",39021.0,,1177.0,,23,003
+01035,"Conecuh County, Alabama",30434.0,,3446.0,,01,035
+27117,"Pipestone County, Minnesota",48909.0,,3113.0,,27,117
+20087,"Jefferson County, Kansas",58935.0,,2073.0,,20,087
+21003,"Allen County, Kentucky",40598.0,,2927.0,,21,003
+22033,"East Baton Rouge Parish, Louisiana",51436.0,,946.0,,22,033
+34005,"Burlington County, New Jersey",82839.0,,930.0,,34,005
+35019,"Guadalupe County, New Mexico",26060.0,,5152.0,,35,019
+36041,"Hamilton County, New York",55587.0,,3147.0,,36,041
+20103,"Leavenworth County, Kansas",70022.0,,2408.0,,20,103
+31179,"Wayne County, Nebraska",58093.0,,6827.0,,31,179
+39047,"Fayette County, Ohio",44289.0,,2298.0,,39,047
+40001,"Adair County, Oklahoma",33366.0,,1560.0,,40,001
+22047,"Iberville Parish, Louisiana",47128.0,,4922.0,,22,047
+19181,"Warren County, Iowa",71514.0,,2792.0,,19,181
+17195,"Whiteside County, Illinois",51969.0,,1904.0,,17,195
+51660,"Harrisonburg city, Virginia",43009.0,,2035.0,,51,660
+21081,"Grant County, Kentucky",43881.0,,2887.0,,21,081
+22003,"Allen Parish, Louisiana",42176.0,,3540.0,,22,003
+18115,"Ohio County, Indiana",58359.0,,3753.0,,18,115
+42085,"Mercer County, Pennsylvania",47340.0,,1186.0,,42,085
+26059,"Hillsdale County, Michigan",46160.0,,1444.0,,26,059
+36113,"Warren County, New York",60222.0,,1986.0,,36,113
+42067,"Juniata County, Pennsylvania",50571.0,,2171.0,,42,067
+36039,"Greene County, New York",53214.0,,2786.0,,36,039
+30007,"Broadwater County, Montana",55295.0,,4990.0,,30,007
+13071,"Colquitt County, Georgia",34503.0,,1794.0,,13,071
+08061,"Kiowa County, Colorado",39250.0,,3911.0,,08,061
+13223,"Paulding County, Georgia",63669.0,,2428.0,,13,223
+42077,"Lehigh County, Pennsylvania",60116.0,,820.0,,42,077
+48215,"Hidalgo County, Texas",37097.0,,803.0,,48,215
+12077,"Liberty County, Florida",36741.0,,3554.0,,12,077
+12115,"Sarasota County, Florida",55236.0,,1026.0,,12,115
+54065,"Morgan County, West Virginia",46346.0,,2818.0,,54,065
+53017,"Douglas County, Washington",55805.0,,2603.0,,53,017
+30067,"Park County, Montana",44920.0,,2700.0,,30,067
+13073,"Columbia County, Georgia",74162.0,,1661.0,,13,073
+38091,"Steele County, North Dakota",65437.0,,4592.0,,38,091
+55019,"Clark County, Wisconsin",49131.0,,1189.0,,55,019
+18167,"Vigo County, Indiana",42030.0,,1275.0,,18,167
+45071,"Newberry County, South Carolina",39600.0,,2704.0,,45,071
+30021,"Dawson County, Montana",59622.0,,4284.0,,30,021
+42069,"Lackawanna County, Pennsylvania",48380.0,,1117.0,,42,069
+53007,"Chelan County, Washington",54975.0,,2156.0,,53,007
+19061,"Dubuque County, Iowa",59150.0,,1287.0,,19,061
+40145,"Wagoner County, Oklahoma",59210.0,,1428.0,,40,145
+38105,"Williams County, North Dakota",89874.0,,5659.0,,38,105
+06015,"Del Norte County, California",41287.0,,4114.0,,06,015
+51047,"Culpeper County, Virginia",69693.0,,2672.0,,51,047
+31111,"Lincoln County, Nebraska",55875.0,,2359.0,,31,111
+55133,"Waukesha County, Wisconsin",81140.0,,900.0,,55,133
+55093,"Pierce County, Wisconsin",66772.0,,2287.0,,55,093
+41009,"Columbia County, Oregon",57449.0,,2724.0,,41,009
+05009,"Boone County, Arkansas",40727.0,,1497.0,,05,009
+38055,"McLean County, North Dakota",63926.0,,4841.0,,38,055
+29105,"Laclede County, Missouri",42646.0,,2489.0,,29,105
+47057,"Grainger County, Tennessee",40088.0,,3597.0,,47,057
+46051,"Grant County, South Dakota",56276.0,,3458.0,,46,051
+27127,"Redwood County, Minnesota",51871.0,,2249.0,,27,127
+22029,"Concordia Parish, Louisiana",30028.0,,4822.0,,22,029
+20185,"Stafford County, Kansas",47121.0,,4647.0,,20,185
+48157,"Fort Bend County, Texas",93645.0,,1349.0,,48,157
+21123,"Larue County, Kentucky",41720.0,,4427.0,,21,123
+27037,"Dakota County, Minnesota",79995.0,,1173.0,,27,037
+48477,"Washington County, Texas",55793.0,,4336.0,,48,477
+17065,"Hamilton County, Illinois",47293.0,,7758.0,,17,065
+54067,"Nicholas County, West Virginia",39037.0,,1949.0,,54,067
+33015,"Rockingham County, New Hampshire",85619.0,,1358.0,,33,015
+37131,"Northampton County, North Carolina",33508.0,,2581.0,,37,131
+04001,"Apache County, Arizona",32360.0,,1213.0,,04,001
+13205,"Mitchell County, Georgia",34122.0,,3218.0,,13,205
+31065,"Furnas County, Nebraska",43400.0,,3352.0,,31,065
+13217,"Newton County, Georgia",52784.0,,2372.0,,13,217
+35013,"Doña Ana County, New Mexico",39114.0,,1347.0,,35,013
+55113,"Sawyer County, Wisconsin",43565.0,,1746.0,,55,113
+36031,"Essex County, New York",55294.0,,2424.0,,36,031
+21057,"Cumberland County, Kentucky",35449.0,,3082.0,,21,057
+26149,"St. Joseph County, Michigan",47856.0,,1474.0,,26,149
+26097,"Mackinac County, Michigan",42559.0,,1988.0,,26,097
+48205,"Hartley County, Texas",64427.0,,4662.0,,48,205
+28005,"Amite County, Mississippi",30129.0,,3714.0,,28,005
+06039,"Madera County, California",48210.0,,2108.0,,06,039
+72093,"Maricao Municipio, Puerto Rico",13462.0,,2508.0,,72,093
+28009,"Benton County, Mississippi",40605.0,,5982.0,,28,009
+35007,"Colfax County, New Mexico",33042.0,,4075.0,,35,007
+47097,"Lauderdale County, Tennessee",35551.0,,1919.0,,47,097
+47019,"Carter County, Tennessee",34625.0,,1665.0,,47,019
+27021,"Cass County, Minnesota",50162.0,,1142.0,,27,021
+47171,"Unicoi County, Tennessee",36576.0,,3681.0,,47,171
+45087,"Union County, South Carolina",37493.0,,2181.0,,45,087
+20127,"Morris County, Kansas",50338.0,,3365.0,,20,127
+06067,"Sacramento County, California",60239.0,,475.0,,06,067
+53075,"Whitman County, Washington",41574.0,,2048.0,,53,075
+30031,"Gallatin County, Montana",59397.0,,1808.0,,30,031
+19131,"Mitchell County, Iowa",53675.0,,3004.0,,19,131
+18157,"Tippecanoe County, Indiana",50486.0,,996.0,,18,157
+12039,"Gadsden County, Florida",39830.0,,2043.0,,12,039
+18071,"Jackson County, Indiana",49080.0,,3445.0,,18,071
+51173,"Smyth County, Virginia",40544.0,,1556.0,,51,173
+08109,"Saguache County, Colorado",34765.0,,4061.0,,08,109
+45013,"Beaufort County, South Carolina",60603.0,,1522.0,,45,013
+31001,"Adams County, Nebraska",51721.0,,2585.0,,31,001
+34017,"Hudson County, New Jersey",62681.0,,990.0,,34,017
+47189,"Wilson County, Tennessee",66123.0,,2543.0,,47,189
+53029,"Island County, Washington",61516.0,,1663.0,,53,029
+48089,"Colorado County, Texas",50241.0,,3748.0,,48,089
+17013,"Calhoun County, Illinois",53641.0,,3602.0,,17,013
+06073,"San Diego County, California",70588.0,,617.0,,06,073
+54025,"Greenbrier County, West Virginia",40483.0,,2964.0,,54,025
+06055,"Napa County, California",79637.0,,1895.0,,06,055
+28085,"Lincoln County, Mississippi",37308.0,,4064.0,,28,085
+51113,"Madison County, Virginia",52287.0,,4596.0,,51,113
+26151,"Sanilac County, Michigan",44417.0,,1319.0,,26,151
+08033,"Dolores County, Colorado",40352.0,,7713.0,,08,033
+38083,"Sheridan County, North Dakota",49750.0,,3002.0,,38,083
+47101,"Lewis County, Tennessee",37092.0,,2910.0,,47,101
+42003,"Allegheny County, Pennsylvania",56333.0,,474.0,,42,003
+30107,"Wheatland County, Montana",37222.0,,4978.0,,30,107
+19103,"Johnson County, Iowa",59965.0,,1839.0,,19,103
+46005,"Beadle County, South Dakota",48995.0,,3809.0,,46,005
+01109,"Pike County, Alabama",35684.0,,2430.0,,01,109
+13151,"Henry County, Georgia",64752.0,,1733.0,,13,151
+13163,"Jefferson County, Georgia",29640.0,,1657.0,,13,163
+20035,"Cowley County, Kansas",46624.0,,2505.0,,20,035
+17131,"Mercer County, Illinois",55649.0,,2472.0,,17,131
+31003,"Antelope County, Nebraska",46949.0,,2107.0,,31,003
+17091,"Kankakee County, Illinois",56542.0,,1415.0,,17,091
+55115,"Shawano County, Wisconsin",51751.0,,1354.0,,55,115
+18117,"Orange County, Indiana",42803.0,,5080.0,,18,117
+18155,"Switzerland County, Indiana",43468.0,,5649.0,,18,155
+38097,"Traill County, North Dakota",60952.0,,2707.0,,38,097
+26027,"Cass County, Michigan",50699.0,,1402.0,,26,027
+12129,"Wakulla County, Florida",57866.0,,4026.0,,12,129
+26147,"St. Clair County, Michigan",53641.0,,1312.0,,26,147
+55119,"Taylor County, Wisconsin",49821.0,,1797.0,,55,119
+40071,"Kay County, Oklahoma",44067.0,,1504.0,,40,071
+51043,"Clarke County, Virginia",72129.0,,6699.0,,51,043
+13007,"Baker County, Georgia",43867.0,,6318.0,,13,007
+44009,"Washington County, Rhode Island",77862.0,,2350.0,,44,009
+26053,"Gogebic County, Michigan",36689.0,,1915.0,,26,053
+28031,"Covington County, Mississippi",36471.0,,3535.0,,28,031
+18133,"Putnam County, Indiana",55295.0,,2952.0,,18,133
+39113,"Montgomery County, Ohio",47045.0,,686.0,,39,113
+20081,"Haskell County, Kansas",53780.0,,3553.0,,20,081
+37133,"Onslow County, North Carolina",48162.0,,1509.0,,37,133
+31007,"Banner County, Nebraska",55000.0,,8235.0,,31,007
+16007,"Bear Lake County, Idaho",50603.0,,4499.0,,16,007
+17157,"Randolph County, Illinois",49717.0,,1994.0,,17,157
+31169,"Thayer County, Nebraska",48151.0,,2616.0,,31,169
+35037,"Quay County, New Mexico",26663.0,,1293.0,,35,037
+38075,"Renville County, North Dakota",66023.0,,2938.0,,38,075
+48313,"Madison County, Texas",44004.0,,4196.0,,48,313
+35028,"Los Alamos County, New Mexico",110190.0,,6543.0,,35,028
+17001,"Adams County, Illinois",48454.0,,1689.0,,17,001
+48127,"Dimmit County, Texas",31384.0,,5343.0,,48,127
+54053,"Mason County, West Virginia",38977.0,,3951.0,,54,053
+46025,"Clark County, South Dakota",47500.0,,4771.0,,46,025
+31165,"Sioux County, Nebraska",45375.0,,7960.0,,31,165
+01127,"Walker County, Alabama",38872.0,,1774.0,,01,127
+28067,"Jones County, Mississippi",38656.0,,2623.0,,28,067
+29215,"Texas County, Missouri",35571.0,,3091.0,,29,215
+49053,"Washington County, Utah",55175.0,,1757.0,,49,053
+20153,"Rawlins County, Kansas",50893.0,,4620.0,,20,153
+27069,"Kittson County, Minnesota",52304.0,,3158.0,,27,069
+13115,"Floyd County, Georgia",46096.0,,2012.0,,13,115
+18055,"Greene County, Indiana",49648.0,,1966.0,,18,055
+31125,"Nance County, Nebraska",45428.0,,4703.0,,31,125
+06027,"Inyo County, California",51500.0,,4578.0,,06,027
+40009,"Beckham County, Oklahoma",49625.0,,5818.0,,40,009
+45047,"Greenwood County, South Carolina",39196.0,,1730.0,,45,047
+21187,"Owen County, Kentucky",44031.0,,4293.0,,21,187
+22001,"Acadia Parish, Louisiana",40492.0,,2544.0,,22,001
+31095,"Jefferson County, Nebraska",46576.0,,3646.0,,31,095
+15009,"Maui County, Hawaii",72762.0,,1654.0,,15,009
+42117,"Tioga County, Pennsylvania",50017.0,,1332.0,,42,117
+39067,"Harrison County, Ohio",46223.0,,2725.0,,39,067
+29061,"Daviess County, Missouri",45707.0,,3689.0,,29,061
+20079,"Harvey County, Kansas",55687.0,,1822.0,,20,079
+47005,"Benton County, Tennessee",33702.0,,3317.0,,47,005
+54091,"Taylor County, West Virginia",45916.0,,4362.0,,54,091
+45059,"Laurens County, South Carolina",40580.0,,1381.0,,45,059
+28137,"Tate County, Mississippi",46233.0,,2463.0,,28,137
+31005,"Arthur County, Nebraska",41250.0,,6988.0,,31,005
+13047,"Catoosa County, Georgia",54537.0,,1845.0,,13,047
+28119,"Quitman County, Mississippi",25671.0,,2217.0,,28,119
+35033,"Mora County, New Mexico",26644.0,,8160.0,,35,033
+45065,"McCormick County, South Carolina",40622.0,,2704.0,,45,065
+26143,"Roscommon County, Michigan",37834.0,,1505.0,,26,143
+16025,"Camas County, Idaho",36667.0,,9449.0,,16,025
+17143,"Peoria County, Illinois",53063.0,,1092.0,,17,143
+18051,"Gibson County, Indiana",51149.0,,1981.0,,18,051
+12037,"Franklin County, Florida",41267.0,,3706.0,,12,037
+47183,"Weakley County, Tennessee",36550.0,,2299.0,,47,183
+29053,"Cooper County, Missouri",46547.0,,2006.0,,29,053
+46039,"Deuel County, South Dakota",57969.0,,4442.0,,46,039
+47077,"Henderson County, Tennessee",42711.0,,3237.0,,47,077
+18091,"LaPorte County, Indiana",49921.0,,1962.0,,18,091
+28061,"Jasper County, Mississippi",35271.0,,3003.0,,28,061
+08089,"Otero County, Colorado",35051.0,,2700.0,,08,089
+45051,"Horry County, South Carolina",46475.0,,947.0,,45,051
+46097,"Miner County, South Dakota",50658.0,,4509.0,,46,097
+20187,"Stanton County, Kansas",42222.0,,3345.0,,20,187
+37157,"Rockingham County, North Carolina",41700.0,,1157.0,,37,157
+39017,"Butler County, Ohio",62188.0,,1209.0,,39,017
+28123,"Scott County, Mississippi",33601.0,,2084.0,,28,123
+17027,"Clinton County, Illinois",64543.0,,2635.0,,17,027
+40135,"Sequoyah County, Oklahoma",37455.0,,1610.0,,40,135
+48399,"Runnels County, Texas",41226.0,,3957.0,,48,399
+29185,"St. Clair County, Missouri",35066.0,,2556.0,,29,185
+48493,"Wilson County, Texas",71942.0,,4350.0,,48,493
+46015,"Brule County, South Dakota",50870.0,,3978.0,,46,015
+47135,"Perry County, Tennessee",31503.0,,4703.0,,47,135
+29151,"Osage County, Missouri",54503.0,,2743.0,,29,151
+13143,"Haralson County, Georgia",43663.0,,3367.0,,13,143
+48431,"Sterling County, Texas",50000.0,,13092.0,,48,431
+20095,"Kingman County, Kansas",57593.0,,6462.0,,20,095
+21053,"Clinton County, Kentucky",31130.0,,2604.0,,21,053
+38051,"McIntosh County, North Dakota",46012.0,,4721.0,,38,051
+51025,"Brunswick County, Virginia",40871.0,,2708.0,,51,025
+12065,"Jefferson County, Florida",47599.0,,6872.0,,12,065
+45009,"Bamberg County, South Carolina",32330.0,,6355.0,,45,009
+27141,"Sherburne County, Minnesota",83895.0,,1998.0,,27,141
+55085,"Oneida County, Wisconsin",52945.0,,1618.0,,55,085
+48355,"Nueces County, Texas",53317.0,,981.0,,48,355
+19045,"Clinton County, Iowa",50295.0,,2832.0,,19,045
+30041,"Hill County, Montana",45269.0,,2174.0,,30,041
+13165,"Jenkins County, Georgia",27197.0,,4924.0,,13,165
+51147,"Prince Edward County, Virginia",44147.0,,3938.0,,51,147
+06019,"Fresno County, California",48730.0,,655.0,,06,019
+37109,"Lincoln County, North Carolina",50782.0,,1291.0,,37,109
+38029,"Emmons County, North Dakota",46581.0,,4189.0,,38,029
+51051,"Dickenson County, Virginia",29916.0,,3029.0,,51,051
+40103,"Noble County, Oklahoma",52372.0,,3847.0,,40,103
+18161,"Union County, Indiana",45531.0,,3293.0,,18,161
+01069,"Houston County, Alabama",42803.0,,919.0,,01,069
+47155,"Sevier County, Tennessee",44473.0,,1797.0,,47,155
+28093,"Marshall County, Mississippi",41134.0,,2932.0,,28,093
+38003,"Barnes County, North Dakota",56237.0,,5027.0,,38,003
+48039,"Brazoria County, Texas",76426.0,,2188.0,,48,039
+08095,"Phillips County, Colorado",50076.0,,8749.0,,08,095
+47063,"Hamblen County, Tennessee",42042.0,,2832.0,,47,063
+29207,"Stoddard County, Missouri",40076.0,,2013.0,,29,207
+12035,"Flagler County, Florida",51049.0,,1256.0,,12,035
+17059,"Gallatin County, Illinois",42450.0,,4638.0,,17,059
+05101,"Newton County, Arkansas",38134.0,,4984.0,,05,101
+47111,"Macon County, Tennessee",35533.0,,2673.0,,47,111
+33017,"Strafford County, New Hampshire",67805.0,,2346.0,,33,017
+48183,"Gregg County, Texas",47970.0,,1445.0,,48,183
+40037,"Creek County, Oklahoma",47147.0,,1518.0,,40,037
+40109,"Oklahoma County, Oklahoma",50762.0,,484.0,,40,109
+29179,"Reynolds County, Missouri",40265.0,,4918.0,,29,179
+55049,"Iowa County, Wisconsin",60017.0,,2142.0,,55,049
+48503,"Young County, Texas",46351.0,,3907.0,,48,503
+12111,"St. Lucie County, Florida",47132.0,,1477.0,,12,111
+53027,"Grays Harbor County, Washington",45483.0,,2355.0,,53,027
+39127,"Perry County, Ohio",46477.0,,2387.0,,39,127
+08115,"Sedgwick County, Colorado",49583.0,,4753.0,,08,115
+29125,"Maries County, Missouri",41715.0,,3999.0,,29,125
+16061,"Lewis County, Idaho",40313.0,,2276.0,,16,061
+16039,"Elmore County, Idaho",45154.0,,2005.0,,16,039
+19067,"Floyd County, Iowa",48607.0,,3763.0,,19,067
+39053,"Gallia County, Ohio",42002.0,,2864.0,,39,053
+42037,"Columbia County, Pennsylvania",48395.0,,1745.0,,42,037
+41031,"Jefferson County, Oregon",48464.0,,3467.0,,41,031
+06107,"Tulare County, California",44871.0,,1286.0,,06,107
+31045,"Dawes County, Nebraska",46146.0,,8364.0,,31,045
+01049,"DeKalb County, Alabama",38842.0,,2154.0,,01,049
+49017,"Garfield County, Utah",51700.0,,7983.0,,49,017
+13303,"Washington County, Georgia",38097.0,,3810.0,,13,303
+26071,"Iron County, Michigan",36773.0,,2522.0,,26,071
+28065,"Jefferson Davis County, Mississippi",26736.0,,4734.0,,28,065
+34039,"Union County, New Jersey",73376.0,,1330.0,,34,039
+47017,"Carroll County, Tennessee",38201.0,,2475.0,,47,017
+55003,"Ashland County, Wisconsin",41505.0,,2162.0,,55,003
+42119,"Union County, Pennsylvania",53768.0,,2069.0,,42,119
+29153,"Ozark County, Missouri",32021.0,,2319.0,,29,153
+13249,"Schley County, Georgia",41267.0,,4344.0,,13,249
+42019,"Butler County, Pennsylvania",66037.0,,1398.0,,42,019
+22103,"St. Tammany Parish, Louisiana",66539.0,,1488.0,,22,103
+51145,"Powhatan County, Virginia",80441.0,,4097.0,,51,145
+06085,"Santa Clara County, California",106761.0,,858.0,,06,085
+36017,"Chenango County, New York",48567.0,,1595.0,,36,017
+30083,"Richland County, Montana",66572.0,,3801.0,,30,083
+48337,"Montague County, Texas",46592.0,,4160.0,,48,337
+19185,"Wayne County, Iowa",42434.0,,3641.0,,19,185
+26007,"Alpena County, Michigan",40954.0,,1521.0,,26,007
+08005,"Arapahoe County, Colorado",69553.0,,846.0,,08,005
+13285,"Troup County, Georgia",43597.0,,2067.0,,13,285
+17129,"Menard County, Illinois",62368.0,,2953.0,,17,129
+18005,"Bartholomew County, Indiana",57331.0,,2560.0,,18,005
+18019,"Clark County, Indiana",52834.0,,1041.0,,18,019
+05145,"White County, Arkansas",44074.0,,3056.0,,05,145
+48109,"Culberson County, Texas",33125.0,,11492.0,,48,109
+54023,"Grant County, West Virginia",40093.0,,3382.0,,54,023
+42099,"Perry County, Pennsylvania",60847.0,,2069.0,,42,099
+45063,"Lexington County, South Carolina",57482.0,,1049.0,,45,063
+54057,"Mineral County, West Virginia",40749.0,,2290.0,,54,057
+46119,"Sully County, South Dakota",60694.0,,4956.0,,46,119
+39057,"Greene County, Ohio",65032.0,,1700.0,,39,057
+55029,"Door County, Wisconsin",56494.0,,1484.0,,55,029
+38015,"Burleigh County, North Dakota",67308.0,,1651.0,,38,015
+30081,"Ravalli County, Montana",44733.0,,3625.0,,30,081
+36057,"Montgomery County, New York",47449.0,,2192.0,,36,057
+45005,"Allendale County, South Carolina",23331.0,,2177.0,,45,005
+18175,"Washington County, Indiana",46861.0,,2738.0,,18,175
+20101,"Lane County, Kansas",51765.0,,10083.0,,20,101
+22049,"Jackson Parish, Louisiana",36394.0,,3607.0,,22,049
+31015,"Boyd County, Nebraska",48750.0,,7047.0,,31,015
+32007,"Elko County, Nevada",76178.0,,4026.0,,32,007
+72149,"Villalba Municipio, Puerto Rico",19893.0,,1935.0,,72,149
+19065,"Fayette County, Iowa",48412.0,,2550.0,,19,065
+45067,"Marion County, South Carolina",31129.0,,2196.0,,45,067
+46099,"Minnehaha County, South Dakota",57322.0,,1477.0,,46,099
+24025,"Harford County, Maryland",83445.0,,1295.0,,24,025
+37193,"Wilkes County, North Carolina",37173.0,,2218.0,,37,193
+20063,"Gove County, Kansas",50817.0,,3948.0,,20,063
+06005,"Amador County, California",60636.0,,2765.0,,06,005
+23011,"Kennebec County, Maine",50116.0,,1664.0,,23,011
+38069,"Pierce County, North Dakota",45996.0,,5775.0,,38,069
+12101,"Pasco County, Florida",48289.0,,813.0,,12,101
+32017,"Lincoln County, Nevada",52971.0,,6740.0,,32,017
+21199,"Pulaski County, Kentucky",35022.0,,2420.0,,21,199
+46067,"Hutchinson County, South Dakota",49583.0,,2661.0,,46,067
+26021,"Berrien County, Michigan",47132.0,,1298.0,,26,021
+29029,"Camden County, Missouri",50496.0,,2115.0,,29,029
+29111,"Lewis County, Missouri",47148.0,,3577.0,,29,111
+48263,"Kent County, Texas",52250.0,,12784.0,,48,263
+51510,"Alexandria city, Virginia",93370.0,,1553.0,,51,510
+51820,"Waynesboro city, Virginia",42112.0,,4730.0,,51,820
+13129,"Gordon County, Georgia",43452.0,,2229.0,,13,129
+19161,"Sac County, Iowa",53254.0,,2120.0,,19,161
+17193,"White County, Illinois",46279.0,,3062.0,,17,193
+30061,"Mineral County, Montana",40117.0,,4458.0,,30,061
+05071,"Johnson County, Arkansas",35758.0,,1574.0,,05,071
+13195,"Madison County, Georgia",47653.0,,3252.0,,13,195
+20149,"Pottawatomie County, Kansas",64410.0,,4496.0,,20,149
+28035,"Forrest County, Mississippi",39555.0,,2944.0,,28,035
+12005,"Bay County, Florida",50283.0,,1571.0,,12,005
+16077,"Power County, Idaho",47602.0,,3742.0,,16,077
+29117,"Livingston County, Missouri",45929.0,,2964.0,,29,117
+39145,"Scioto County, Ohio",38978.0,,1851.0,,39,145
+31079,"Hall County, Nebraska",53807.0,,1683.0,,31,079
+36119,"Westchester County, New York",89968.0,,1406.0,,36,119
+50021,"Rutland County, Vermont",52635.0,,1977.0,,50,021
+28135,"Tallahatchie County, Mississippi",30000.0,,2692.0,,28,135
+54055,"Mercer County, West Virginia",37763.0,,2087.0,,54,055
+16009,"Benewah County, Idaho",43472.0,,3699.0,,16,009
+27095,"Mille Lacs County, Minnesota",53737.0,,1711.0,,27,095
+41007,"Clatsop County, Oregon",49828.0,,1932.0,,41,007
+45023,"Chester County, South Carolina",37421.0,,3186.0,,45,023
+48327,"Menard County, Texas",37917.0,,11237.0,,48,327
+05141,"Van Buren County, Arkansas",34428.0,,2409.0,,05,141
+32013,"Humboldt County, Nevada",69324.0,,7633.0,,32,013
+45069,"Marlboro County, South Carolina",33921.0,,1434.0,,45,069
+16027,"Canyon County, Idaho",46426.0,,1548.0,,16,027
+19079,"Hamilton County, Iowa",55836.0,,3493.0,,19,079
+39117,"Morrow County, Ohio",52767.0,,3268.0,,39,117
+48323,"Maverick County, Texas",37734.0,,2701.0,,48,323
+12047,"Hamilton County, Florida",36209.0,,4821.0,,12,047
+30057,"Madison County, Montana",47900.0,,3493.0,,30,057
+21181,"Nicholas County, Kentucky",38900.0,,4795.0,,21,181
+36069,"Ontario County, New York",61710.0,,1781.0,,36,069
+48301,"Loving County, Texas",80938.0,,32455.0,,48,301
+29145,"Newton County, Missouri",46723.0,,1654.0,,29,145
+28047,"Harrison County, Mississippi",44684.0,,1105.0,,28,047
+56007,"Carbon County, Wyoming",57644.0,,3404.0,,56,007
+17029,"Coles County, Illinois",41907.0,,1985.0,,17,029
+48485,"Wichita County, Texas",45776.0,,1140.0,,48,485
+40003,"Alfalfa County, Oklahoma",57432.0,,4840.0,,40,003
+20183,"Smith County, Kansas",45357.0,,3512.0,,20,183
+51179,"Stafford County, Virginia",103005.0,,2824.0,,51,179
+37113,"Macon County, North Carolina",40659.0,,2141.0,,37,113
+46093,"Meade County, South Dakota",54286.0,,3943.0,,46,093
+51037,"Charlotte County, Virginia",38350.0,,2730.0,,51,037
+13235,"Pulaski County, Georgia",38750.0,,4970.0,,13,235
+29225,"Webster County, Missouri",45185.0,,2225.0,,29,225
+55107,"Rusk County, Wisconsin",41930.0,,1599.0,,55,107
+20049,"Elk County, Kansas",39405.0,,4007.0,,20,049
+28107,"Panola County, Mississippi",35891.0,,2371.0,,28,107
+27091,"Martin County, Minnesota",53627.0,,3587.0,,27,091
+28149,"Warren County, Mississippi",41635.0,,2441.0,,28,149
+18159,"Tipton County, Indiana",53931.0,,2184.0,,18,159
+22079,"Rapides Parish, Louisiana",42655.0,,1524.0,,22,079
+51630,"Fredericksburg city, Virginia",57258.0,,3631.0,,51,630
+09001,"Fairfield County, Connecticut",89773.0,,1202.0,,09,001
+72023,"Cabo Rojo Municipio, Puerto Rico",16461.0,,1092.0,,72,023
+19097,"Jackson County, Iowa",51806.0,,2812.0,,19,097
+05097,"Montgomery County, Arkansas",35252.0,,3596.0,,05,097
+48433,"Stonewall County, Texas",46786.0,,13949.0,,48,433
+13253,"Seminole County, Georgia",33999.0,,2155.0,,13,253
+45037,"Edgefield County, South Carolina",47500.0,,2412.0,,45,037
+46115,"Spink County, South Dakota",52000.0,,2842.0,,46,115
+36029,"Erie County, New York",54006.0,,578.0,,36,029
+40141,"Tillman County, Oklahoma",40728.0,,2544.0,,40,141
+41067,"Washington County, Oregon",74033.0,,851.0,,41,067
+41049,"Morrow County, Oregon",54386.0,,3538.0,,41,049
+47187,"Williamson County, Tennessee",103543.0,,1687.0,,47,187
+17071,"Henderson County, Illinois",47428.0,,3256.0,,17,071
+47103,"Lincoln County, Tennessee",42153.0,,1540.0,,47,103
+06115,"Yuba County, California",51776.0,,2375.0,,06,115
+28079,"Leake County, Mississippi",35578.0,,2525.0,,28,079
+29045,"Clark County, Missouri",45216.0,,2441.0,,29,045
+54033,"Harrison County, West Virginia",48315.0,,1862.0,,54,033
+47041,"DeKalb County, Tennessee",40690.0,,2425.0,,47,041
+51191,"Washington County, Virginia",44844.0,,2619.0,,51,191
+17191,"Wayne County, Illinois",46405.0,,3218.0,,17,191
+39123,"Ottawa County, Ohio",56193.0,,2122.0,,39,123
+12131,"Walton County, Florida",50619.0,,1771.0,,12,131
+22053,"Jefferson Davis Parish, Louisiana",40744.0,,3794.0,,22,053
+36049,"Lewis County, New York",51475.0,,1907.0,,36,049
+06017,"El Dorado County, California",74885.0,,2565.0,,06,017
+08113,"San Miguel County, Colorado",62243.0,,4055.0,,08,113
+29223,"Wayne County, Missouri",35135.0,,3160.0,,29,223
+55137,"Waushara County, Wisconsin",48412.0,,1728.0,,55,137
+47123,"Monroe County, Tennessee",36931.0,,1711.0,,47,123
+17137,"Morgan County, Illinois",49353.0,,2807.0,,17,137
+48277,"Lamar County, Texas",42198.0,,2190.0,,48,277
+21025,"Breathitt County, Kentucky",25861.0,,2129.0,,21,025
+48189,"Hale County, Texas",46012.0,,2409.0,,48,189
+29149,"Oregon County, Missouri",32070.0,,3264.0,,29,149
+55111,"Sauk County, Wisconsin",54447.0,,1543.0,,55,111
+41047,"Marion County, Oregon",53828.0,,1048.0,,41,047
+23013,"Knox County, Maine",53117.0,,2506.0,,23,013
+36107,"Tioga County, New York",57153.0,,2861.0,,36,107
+22007,"Assumption Parish, Louisiana",48656.0,,4294.0,,22,007
+46013,"Brown County, South Dakota",53807.0,,2779.0,,46,013
+29097,"Jasper County, Missouri",45328.0,,1810.0,,29,097
+30091,"Sheridan County, Montana",51940.0,,5667.0,,30,091
+13025,"Brantley County, Georgia",36812.0,,3685.0,,13,025
+56001,"Albany County, Wyoming",45816.0,,1840.0,,56,001
+26145,"Saginaw County, Michigan",45034.0,,1104.0,,26,145
+13245,"Richmond County, Georgia",39430.0,,1339.0,,13,245
+08091,"Ouray County, Colorado",61333.0,,5822.0,,08,091
+13131,"Grady County, Georgia",39462.0,,3389.0,,13,131
+25003,"Berkshire County, Massachusetts",55190.0,,1350.0,,25,003
+55005,"Barron County, Wisconsin",49257.0,,1664.0,,55,005
+18059,"Hancock County, Indiana",70973.0,,1682.0,,18,059
+06077,"San Joaquin County, California",57813.0,,863.0,,06,077
+31063,"Frontier County, Nebraska",52090.0,,2358.0,,31,063
+30099,"Teton County, Montana",51060.0,,4458.0,,30,099
+54037,"Jefferson County, West Virginia",72526.0,,2887.0,,54,037
+31091,"Hooker County, Nebraska",41607.0,,9989.0,,31,091
+37065,"Edgecombe County, North Carolina",32929.0,,1973.0,,37,065
+40153,"Woodward County, Oklahoma",57602.0,,4085.0,,40,153
+18135,"Randolph County, Indiana",44985.0,,2176.0,,18,135
+48475,"Ward County, Texas",63333.0,,5589.0,,48,475
+55135,"Waupaca County, Wisconsin",54071.0,,1621.0,,55,135
+08007,"Archuleta County, Colorado",48016.0,,5197.0,,08,007
+53071,"Walla Walla County, Washington",52630.0,,2025.0,,53,071
+29121,"Macon County, Missouri",38903.0,,2263.0,,29,121
+39033,"Crawford County, Ohio",41726.0,,1070.0,,39,033
+05017,"Chicot County, Arkansas",32412.0,,3098.0,,05,017
+05149,"Yell County, Arkansas",39696.0,,2480.0,,05,149
+48103,"Crane County, Texas",63935.0,,9605.0,,48,103
+38017,"Cass County, North Dakota",58026.0,,2291.0,,38,017
+72071,"Isabela Municipio, Puerto Rico",16333.0,,1552.0,,72,071
+22089,"St. Charles Parish, Louisiana",64707.0,,2777.0,,22,089
+26015,"Barry County, Michigan",57312.0,,1893.0,,26,015
+05121,"Randolph County, Arkansas",35930.0,,2002.0,,05,121
+12061,"Indian River County, Florida",49009.0,,1267.0,,12,061
+19119,"Lyon County, Iowa",62012.0,,2497.0,,19,119
+41019,"Douglas County, Oregon",44023.0,,1555.0,,41,019
+27099,"Mower County, Minnesota",53700.0,,2339.0,,27,099
+46021,"Campbell County, South Dakota",51548.0,,8345.0,,46,021
+06101,"Sutter County, California",54347.0,,2000.0,,06,101
+09013,"Tolland County, Connecticut",81312.0,,1632.0,,09,013
+18023,"Clinton County, Indiana",51659.0,,2997.0,,18,023
+37047,"Columbus County, North Carolina",36261.0,,1778.0,,37,047
+48217,"Hill County, Texas",45970.0,,2801.0,,48,217
+06079,"San Luis Obispo County, California",67175.0,,1720.0,,06,079
+56011,"Crook County, Wyoming",66944.0,,6637.0,,56,011
+19187,"Webster County, Iowa",42148.0,,2144.0,,19,187
+17045,"Edgar County, Illinois",47873.0,,3697.0,,17,045
+26165,"Wexford County, Michigan",42793.0,,1776.0,,26,165
+46087,"McCook County, South Dakota",60808.0,,2338.0,,46,087
+27119,"Polk County, Minnesota",55393.0,,1930.0,,27,119
+53077,"Yakima County, Washington",47470.0,,1167.0,,53,077
+24017,"Charles County, Maryland",93973.0,,2130.0,,24,017
+47169,"Trousdale County, Tennessee",41776.0,,9150.0,,47,169
+17017,"Cass County, Illinois",50156.0,,2767.0,,17,017
+72145,"Vega Baja Municipio, Puerto Rico",18900.0,,1219.0,,72,145
+18033,"DeKalb County, Indiana",51374.0,,2180.0,,18,033
+01041,"Crenshaw County, Alabama",38937.0,,3177.0,,01,041
+27039,"Dodge County, Minnesota",71078.0,,2490.0,,27,039
+54029,"Hancock County, West Virginia",43634.0,,3056.0,,54,029
+51077,"Grayson County, Virginia",32048.0,,2185.0,,51,077
+17113,"McLean County, Illinois",64573.0,,1837.0,,17,113
+48155,"Foard County, Texas",50000.0,,15300.0,,48,155
+47071,"Hardin County, Tennessee",39092.0,,2401.0,,47,071
+12103,"Pinellas County, Florida",48968.0,,679.0,,12,103
+21175,"Morgan County, Kentucky",33523.0,,2845.0,,21,175
+17047,"Edwards County, Illinois",49632.0,,3182.0,,17,047
+37045,"Cleveland County, North Carolina",40002.0,,1561.0,,37,045
+54021,"Gilmer County, West Virginia",37175.0,,6191.0,,54,021
+13231,"Pike County, Georgia",52377.0,,5466.0,,13,231
+55011,"Buffalo County, Wisconsin",54753.0,,1560.0,,55,011
+16035,"Clearwater County, Idaho",41122.0,,3174.0,,16,035
+36075,"Oswego County, New York",51755.0,,1388.0,,36,075
+55053,"Jackson County, Wisconsin",51108.0,,2147.0,,55,053
+13213,"Murray County, Georgia",41617.0,,2282.0,,13,213
+41011,"Coos County, Oregon",40848.0,,1581.0,,41,011
+21095,"Harlan County, Kentucky",24451.0,,1409.0,,21,095
+46055,"Haakon County, South Dakota",38873.0,,2266.0,,46,055
+51069,"Frederick County, Virginia",71037.0,,1954.0,,51,069
+54031,"Hardy County, West Virginia",42573.0,,2625.0,,54,031
+72153,"Yauco Municipio, Puerto Rico",14451.0,,1371.0,,72,153
+20039,"Decatur County, Kansas",41230.0,,3659.0,,20,039
+01031,"Coffee County, Alabama",49821.0,,1945.0,,01,031
+09003,"Hartford County, Connecticut",69936.0,,847.0,,09,003
+37195,"Wilson County, North Carolina",42095.0,,1540.0,,37,195
+21223,"Trimble County, Kentucky",50998.0,,5681.0,,21,223
+42017,"Bucks County, Pennsylvania",82031.0,,1010.0,,42,017
+51670,"Hopewell city, Virginia",40712.0,,2737.0,,51,670
+51015,"Augusta County, Virginia",59544.0,,2220.0,,51,015
+36067,"Onondaga County, New York",57271.0,,864.0,,36,067
+40057,"Harmon County, Oklahoma",38264.0,,5668.0,,40,057
+39013,"Belmont County, Ohio",46484.0,,1587.0,,39,013
+55087,"Outagamie County, Wisconsin",61523.0,,1090.0,,55,087
+29181,"Ripley County, Missouri",33849.0,,4044.0,,29,181
+47025,"Claiborne County, Tennessee",35428.0,,1980.0,,47,025
+37111,"McDowell County, North Carolina",38776.0,,1998.0,,37,111
+13305,"Wayne County, Georgia",41534.0,,2946.0,,13,305
+31089,"Holt County, Nebraska",52050.0,,2484.0,,31,089
+50005,"Caledonia County, Vermont",47371.0,,1846.0,,50,005
+45031,"Darlington County, South Carolina",36217.0,,1783.0,,45,031
+29007,"Audrain County, Missouri",44056.0,,2242.0,,29,007
+37161,"Rutherford County, North Carolina",38573.0,,2221.0,,37,161
+38095,"Towner County, North Dakota",54625.0,,4309.0,,38,095
+05069,"Jefferson County, Arkansas",37630.0,,1469.0,,05,069
+31083,"Harlan County, Nebraska",46750.0,,4400.0,,31,083
+22123,"West Carroll Parish, Louisiana",37304.0,,5818.0,,22,123
+22059,"LaSalle Parish, Louisiana",34712.0,,3487.0,,22,059
+37069,"Franklin County, North Carolina",48344.0,,1664.0,,37,069
+55101,"Racine County, Wisconsin",58334.0,,1215.0,,55,101
+13087,"Decatur County, Georgia",36934.0,,3234.0,,13,087
+18083,"Knox County, Indiana",44837.0,,1750.0,,18,083
+48445,"Terry County, Texas",42441.0,,5680.0,,48,445
+21069,"Fleming County, Kentucky",41095.0,,3661.0,,21,069
+12071,"Lee County, Florida",52052.0,,572.0,,12,071
+31021,"Burt County, Nebraska",50174.0,,2762.0,,31,021
+21059,"Daviess County, Kentucky",48371.0,,1723.0,,21,059
+46081,"Lawrence County, South Dakota",49275.0,,3202.0,,46,081
+25025,"Suffolk County, Massachusetts",61242.0,,825.0,,25,025
+48245,"Jefferson County, Texas",46315.0,,1252.0,,48,245
+28109,"Pearl River County, Mississippi",44734.0,,3994.0,,28,109
+42035,"Clinton County, Pennsylvania",47990.0,,1746.0,,42,035
+31075,"Grant County, Nebraska",45833.0,,8952.0,,31,075
+40019,"Carter County, Oklahoma",47754.0,,1702.0,,40,019
+39149,"Shelby County, Ohio",57673.0,,2610.0,,39,149
+01057,"Fayette County, Alabama",36541.0,,2175.0,,01,057
+49011,"Davis County, Utah",75961.0,,1280.0,,49,011
+29073,"Gasconade County, Missouri",50687.0,,2272.0,,29,073
+12015,"Charlotte County, Florida",46511.0,,1143.0,,12,015
+13017,"Ben Hill County, Georgia",32344.0,,2976.0,,13,017
+27059,"Isanti County, Minnesota",67565.0,,3246.0,,27,059
+48291,"Liberty County, Texas",48344.0,,3470.0,,48,291
+51840,"Winchester city, Virginia",49330.0,,3199.0,,51,840
+01081,"Lee County, Alabama",47564.0,,1712.0,,01,081
+04005,"Coconino County, Arizona",53523.0,,2500.0,,04,005
+40123,"Pontotoc County, Oklahoma",46689.0,,2453.0,,40,123
+51023,"Botetourt County, Virginia",64733.0,,3179.0,,51,023
+08063,"Kit Carson County, Colorado",45881.0,,4121.0,,08,063
+37095,"Hyde County, North Carolina",40532.0,,9884.0,,37,095
+05037,"Cross County, Arkansas",41081.0,,2555.0,,05,037
+21225,"Union County, Kentucky",42139.0,,4009.0,,21,225
+38079,"Rolette County, North Dakota",36170.0,,3571.0,,38,079
+23017,"Oxford County, Maine",44582.0,,1758.0,,23,017
+01095,"Marshall County, Alabama",41104.0,,1311.0,,01,095
+51009,"Amherst County, Virginia",49677.0,,3603.0,,51,009
+29143,"New Madrid County, Missouri",33846.0,,2434.0,,29,143
+48239,"Jackson County, Texas",58504.0,,5746.0,,48,239
+31093,"Howard County, Nebraska",53648.0,,2639.0,,31,093
+20155,"Reno County, Kansas",47897.0,,1385.0,,20,155
+46043,"Douglas County, South Dakota",52543.0,,3338.0,,46,043
+50015,"Lamoille County, Vermont",54899.0,,2802.0,,50,015
+16003,"Adams County, Idaho",42727.0,,4646.0,,16,003
+20115,"Marion County, Kansas",50212.0,,2917.0,,20,115
+40099,"Murray County, Oklahoma",51844.0,,3345.0,,40,099
+29035,"Carter County, Missouri",37875.0,,6982.0,,29,035
+22093,"St. James Parish, Louisiana",52055.0,,4958.0,,22,093
+48199,"Hardin County, Texas",56131.0,,3351.0,,48,199
+51171,"Shenandoah County, Virginia",53934.0,,2994.0,,51,171
+19083,"Hardin County, Iowa",52207.0,,1841.0,,19,083
+22035,"East Carroll Parish, Louisiana",20795.0,,3343.0,,22,035
+35057,"Torrance County, New Mexico",35543.0,,5007.0,,35,057
+51085,"Hanover County, Virginia",84955.0,,2275.0,,51,085
+13263,"Talbot County, Georgia",37226.0,,5150.0,,13,263
+21085,"Grayson County, Kentucky",35944.0,,2362.0,,21,085
+19005,"Allamakee County, Iowa",47895.0,,3365.0,,19,005
+26115,"Monroe County, Michigan",59479.0,,1498.0,,26,115
+47021,"Cheatham County, Tennessee",56150.0,,3116.0,,47,021
+28069,"Kemper County, Mississippi",27016.0,,3197.0,,28,069
+21103,"Henry County, Kentucky",50787.0,,3238.0,,21,103
+21015,"Boone County, Kentucky",72731.0,,2787.0,,21,015
+53003,"Asotin County, Washington",47483.0,,4845.0,,53,003
+18093,"Lawrence County, Indiana",49985.0,,2106.0,,18,093
+20193,"Thomas County, Kansas",52465.0,,7317.0,,20,193
+48253,"Jones County, Texas",48601.0,,5941.0,,48,253
+05043,"Drew County, Arkansas",36092.0,,2533.0,,05,043
+54089,"Summers County, West Virginia",35218.0,,2402.0,,54,089
+20073,"Greenwood County, Kansas",41648.0,,2587.0,,20,073
+40051,"Grady County, Oklahoma",55527.0,,1896.0,,40,051
+37181,"Vance County, North Carolina",35246.0,,2781.0,,37,181
+18131,"Pulaski County, Indiana",47633.0,,4015.0,,18,131
+40147,"Washington County, Oklahoma",50388.0,,1871.0,,40,147
+29217,"Vernon County, Missouri",41479.0,,2061.0,,29,217
+39083,"Knox County, Ohio",51211.0,,1892.0,,39,083
+39021,"Champaign County, Ohio",54495.0,,2126.0,,39,021
+20145,"Pawnee County, Kansas",46224.0,,6312.0,,20,145
+31123,"Morrill County, Nebraska",44201.0,,3343.0,,31,123
+38085,"Sioux County, North Dakota",40795.0,,4030.0,,38,085
+18111,"Newton County, Indiana",52193.0,,2907.0,,18,111
+21019,"Boyd County, Kentucky",45543.0,,2616.0,,21,019
+47001,"Anderson County, Tennessee",47206.0,,2109.0,,47,001
+47065,"Hamilton County, Tennessee",50273.0,,1051.0,,47,065
+36081,"Queens County, New York",62008.0,,471.0,,36,081
+18025,"Crawford County, Indiana",40067.0,,3534.0,,18,025
+51161,"Roanoke County, Virginia",62134.0,,1707.0,,51,161
+05047,"Franklin County, Arkansas",39472.0,,2697.0,,05,047
+48005,"Angelina County, Texas",46472.0,,1452.0,,48,005
+13019,"Berrien County, Georgia",38297.0,,3248.0,,13,019
+40023,"Choctaw County, Oklahoma",30298.0,,1722.0,,40,023
+21235,"Whitley County, Kentucky",34103.0,,3043.0,,21,235
+42095,"Northampton County, Pennsylvania",65390.0,,1003.0,,42,095
+19035,"Cherokee County, Iowa",53998.0,,3616.0,,19,035
+21139,"Livingston County, Kentucky",43472.0,,4463.0,,21,139
+47031,"Coffee County, Tennessee",46614.0,,1450.0,,47,031
+29205,"Shelby County, Missouri",42593.0,,3741.0,,29,205
+72091,"Manatí Municipio, Puerto Rico",18191.0,,2013.0,,72,091
+21161,"Mason County, Kentucky",43082.0,,4017.0,,21,161
+26103,"Marquette County, Michigan",48491.0,,1702.0,,26,103
+27077,"Lake of the Woods County, Minnesota",46943.0,,6962.0,,27,077
+55043,"Grant County, Wisconsin",50522.0,,1012.0,,55,043
+72127,"San Juan Municipio, Puerto Rico",21677.0,,572.0,,72,127
+47037,"Davidson County, Tennessee",53419.0,,741.0,,47,037
+27065,"Kanabec County, Minnesota",50509.0,,1817.0,,27,065
+51640,"Galax city, Virginia",31311.0,,2888.0,,51,640
+19011,"Benton County, Iowa",64061.0,,3365.0,,19,011
+18103,"Miami County, Indiana",46666.0,,2064.0,,18,103
+21229,"Washington County, Kentucky",47843.0,,3368.0,,21,229
+37175,"Transylvania County, North Carolina",44559.0,,3059.0,,37,175
+18081,"Johnson County, Indiana",65272.0,,2113.0,,18,081
+22125,"West Feliciana Parish, Louisiana",55647.0,,5274.0,,22,125
+27171,"Wright County, Minnesota",77953.0,,2430.0,,27,171
+01115,"St. Clair County, Alabama",53483.0,,2225.0,,01,115
+55059,"Kenosha County, Wisconsin",57269.0,,1659.0,,55,059
+55078,"Menominee County, Wisconsin",38080.0,,3612.0,,55,078
+72001,"Adjuntas Municipio, Puerto Rico",11680.0,,1168.0,,72,001
+27129,"Renville County, Minnesota",56721.0,,2287.0,,27,129
+47059,"Greene County, Tennessee",38266.0,,1638.0,,47,059
+48421,"Sherman County, Texas",54961.0,,4119.0,,48,421
+55097,"Portage County, Wisconsin",54620.0,,1028.0,,55,097
+34037,"Sussex County, New Jersey",89238.0,,2184.0,,34,037
+35025,"Lea County, New Mexico",59285.0,,2560.0,,35,025
+20075,"Hamilton County, Kansas",48160.0,,3910.0,,20,075
+26043,"Dickinson County, Michigan",45681.0,,2503.0,,26,043
+13133,"Greene County, Georgia",45069.0,,3751.0,,13,133
+30053,"Lincoln County, Montana",36934.0,,2050.0,,30,053
+18097,"Marion County, Indiana",44869.0,,575.0,,18,097
+39041,"Delaware County, Ohio",100229.0,,2514.0,,39,041
+41063,"Wallowa County, Oregon",44877.0,,3973.0,,41,063
+42109,"Snyder County, Pennsylvania",54182.0,,1422.0,,42,109
+51169,"Scott County, Virginia",38725.0,,2734.0,,51,169
+48331,"Milam County, Texas",41768.0,,2688.0,,48,331
+48375,"Potter County, Texas",41852.0,,1195.0,,48,375
+54109,"Wyoming County, West Virginia",37644.0,,3264.0,,54,109
+54069,"Ohio County, West Virginia",45777.0,,2213.0,,54,069
+01015,"Calhoun County, Alabama",43686.0,,1491.0,,01,015
+48197,"Hardeman County, Texas",37995.0,,4188.0,,48,197
+55009,"Brown County, Wisconsin",56775.0,,1211.0,,55,009
+49043,"Summit County, Utah",94952.0,,4770.0,,49,043
+51117,"Mecklenburg County, Virginia",41126.0,,2130.0,,51,117
+18137,"Ripley County, Indiana",53698.0,,1431.0,,18,137
+41051,"Multnomah County, Oregon",60369.0,,846.0,,41,051
+29075,"Gentry County, Missouri",43777.0,,3913.0,,29,075
+05005,"Baxter County, Arkansas",40072.0,,1602.0,,05,005
+53039,"Klickitat County, Washington",51258.0,,2597.0,,53,039
+72123,"Salinas Municipio, Puerto Rico",16246.0,,1471.0,,72,123
+20041,"Dickinson County, Kansas",49663.0,,3025.0,,20,041
+29163,"Pike County, Missouri",45112.0,,3523.0,,29,163
+19007,"Appanoose County, Iowa",40377.0,,2415.0,,19,007
+06065,"Riverside County, California",60807.0,,429.0,,06,065
+19141,"O'Brien County, Iowa",56314.0,,5663.0,,19,141
+39097,"Madison County, Ohio",62897.0,,1726.0,,39,097
+27115,"Pine County, Minnesota",47285.0,,1647.0,,27,115
+37083,"Halifax County, North Carolina",33573.0,,1321.0,,37,083
+45045,"Greenville County, South Carolina",53739.0,,834.0,,45,045
+19107,"Keokuk County, Iowa",48399.0,,3626.0,,19,107
+48119,"Delta County, Texas",42642.0,,5710.0,,48,119
+38039,"Griggs County, North Dakota",50272.0,,8862.0,,38,039
+20123,"Mitchell County, Kansas",44591.0,,3633.0,,20,123
+02060,"Bristol Bay Borough, Alaska",79500.0,,10833.0,,02,060
+48359,"Oldham County, Texas",62426.0,,7152.0,,48,359
+42021,"Cambria County, Pennsylvania",44943.0,,969.0,,42,021
+12011,"Broward County, Florida",54895.0,,644.0,,12,011
+37173,"Swain County, North Carolina",35271.0,,2472.0,,37,173
+39089,"Licking County, Ohio",59747.0,,1621.0,,39,089
+27029,"Clearwater County, Minnesota",45638.0,,2019.0,,27,029
+28043,"Grenada County, Mississippi",34876.0,,2457.0,,28,043
+28077,"Lawrence County, Mississippi",40432.0,,3627.0,,28,077
+51097,"King and Queen County, Virginia",51495.0,,9813.0,,51,097
+13065,"Clinch County, Georgia",21838.0,,6556.0,,13,065
+51600,"Fairfax city, Virginia",106870.0,,5914.0,,51,600
+29103,"Knox County, Missouri",39674.0,,3273.0,,29,103
+17081,"Jefferson County, Illinois",46109.0,,1918.0,,17,081
+45075,"Orangeburg County, South Carolina",34943.0,,1752.0,,45,075
+51830,"Williamsburg city, Virginia",54606.0,,4779.0,,51,830
+56033,"Sheridan County, Wyoming",56455.0,,2977.0,,56,033
+53061,"Snohomish County, Washington",78020.0,,836.0,,53,061
+13137,"Habersham County, Georgia",44474.0,,1781.0,,13,137
+48347,"Nacogdoches County, Texas",41482.0,,2289.0,,48,347
+13209,"Montgomery County, Georgia",40308.0,,2678.0,,13,209
+31029,"Chase County, Nebraska",54568.0,,3526.0,,31,029
+48075,"Childress County, Texas",40432.0,,6002.0,,48,075
+08079,"Mineral County, Colorado",50385.0,,6570.0,,08,079
+29123,"Madison County, Missouri",37484.0,,6275.0,,29,123
+54015,"Clay County, West Virginia",34242.0,,4957.0,,54,015
+56003,"Big Horn County, Wyoming",51716.0,,3372.0,,56,003
+18125,"Pike County, Indiana",50196.0,,3188.0,,18,125
+39091,"Logan County, Ohio",53051.0,,1732.0,,39,091
+22027,"Claiborne Parish, Louisiana",26877.0,,1827.0,,22,027
+48285,"Lavaca County, Texas",51708.0,,2822.0,,48,285
+06049,"Modoc County, California",39296.0,,4907.0,,06,049
+29027,"Callaway County, Missouri",53180.0,,2865.0,,29,027
+53053,"Pierce County, Washington",63881.0,,771.0,,53,053
+18145,"Shelby County, Indiana",57216.0,,2445.0,,18,145
+27137,"St. Louis County, Minnesota",50936.0,,923.0,,27,137
+05007,"Benton County, Arkansas",61271.0,,1146.0,,05,007
+42071,"Lancaster County, Pennsylvania",61492.0,,650.0,,42,071
+08023,"Costilla County, Colorado",29000.0,,4573.0,,08,023
+22057,"Lafourche Parish, Louisiana",52705.0,,1689.0,,22,057
+21051,"Clay County, Kentucky",24596.0,,2434.0,,21,051
+42083,"McKean County, Pennsylvania",45866.0,,1426.0,,42,083
+47015,"Cannon County, Tennessee",47457.0,,3713.0,,47,015
+13297,"Walton County, Georgia",55876.0,,1856.0,,13,297
+72049,"Culebra Municipio, Puerto Rico",23355.0,,3397.0,,72,049
+36099,"Seneca County, New York",51601.0,,1402.0,,36,099
+48049,"Brown County, Texas",43062.0,,1925.0,,48,049
+06097,"Sonoma County, California",71769.0,,1046.0,,06,097
+38071,"Ramsey County, North Dakota",55927.0,,3762.0,,38,071
+48177,"Gonzales County, Texas",47516.0,,3368.0,,48,177
+30095,"Stillwater County, Montana",61998.0,,4800.0,,30,095
+38031,"Foster County, North Dakota",59500.0,,6142.0,,38,031
+13049,"Charlton County, Georgia",43257.0,,6511.0,,13,049
+36023,"Cortland County, New York",52451.0,,2006.0,,36,023
+72097,"Mayagüez Municipio, Puerto Rico",14642.0,,726.0,,72,097
+05123,"St. Francis County, Arkansas",33102.0,,2378.0,,05,123
+12031,"Duval County, Florida",51296.0,,541.0,,12,031
+30049,"Lewis and Clark County, Montana",60789.0,,2019.0,,30,049
+21145,"McCracken County, Kentucky",42894.0,,2275.0,,21,145
+21039,"Carlisle County, Kentucky",38860.0,,3262.0,,21,039
+48229,"Hudspeth County, Texas",26346.0,,4472.0,,48,229
+02164,"Lake and Peninsula Borough, Alaska",45208.0,,3882.0,,02,164
+29039,"Cedar County, Missouri",35930.0,,3245.0,,29,039
+19021,"Buena Vista County, Iowa",52784.0,,1870.0,,19,021
+48029,"Bexar County, Texas",53999.0,,449.0,,48,029
+22083,"Richland Parish, Louisiana",34745.0,,4692.0,,22,083
+26045,"Eaton County, Michigan",59244.0,,1487.0,,26,045
+27173,"Yellow Medicine County, Minnesota",54645.0,,3255.0,,27,173
+42015,"Bradford County, Pennsylvania",50900.0,,1451.0,,42,015
+13317,"Wilkes County, Georgia",34234.0,,3547.0,,13,317
+35021,"Harding County, New Mexico",35096.0,,4082.0,,35,021
+19001,"Adair County, Iowa",49477.0,,2633.0,,19,001
+13187,"Lumpkin County, Georgia",43039.0,,2966.0,,13,187
+22121,"West Baton Rouge Parish, Louisiana",60902.0,,4614.0,,22,121
+51083,"Halifax County, Virginia",39233.0,,2600.0,,51,083
+40113,"Osage County, Oklahoma",47683.0,,2589.0,,40,113
+40055,"Greer County, Oklahoma",35898.0,,1800.0,,40,055
+36101,"Steuben County, New York",50157.0,,1301.0,,36,101
+36051,"Livingston County, New York",53654.0,,1681.0,,36,051
+48257,"Kaufman County, Texas",63926.0,,2146.0,,48,257
+26161,"Washtenaw County, Michigan",65618.0,,1092.0,,26,161
+28089,"Madison County, Mississippi",68600.0,,2636.0,,28,089
+39161,"Van Wert County, Ohio",50974.0,,1902.0,,39,161
+47011,"Bradley County, Tennessee",46381.0,,2205.0,,47,011
+20085,"Jackson County, Kansas",53592.0,,3434.0,,20,085
+21183,"Ohio County, Kentucky",41470.0,,3052.0,,21,183
+46073,"Jerauld County, South Dakota",49882.0,,2919.0,,46,073
+26073,"Isabella County, Michigan",42771.0,,1204.0,,26,073
+18107,"Montgomery County, Indiana",53075.0,,1710.0,,18,107
+54083,"Randolph County, West Virginia",40094.0,,3137.0,,54,083
+40047,"Garfield County, Oklahoma",50724.0,,1975.0,,40,047
+27041,"Douglas County, Minnesota",58667.0,,2623.0,,27,041
+50027,"Windsor County, Vermont",56828.0,,2027.0,,50,027
+29175,"Randolph County, Missouri",44754.0,,3583.0,,29,175
+13015,"Bartow County, Georgia",52393.0,,2222.0,,13,015
+05107,"Phillips County, Arkansas",26652.0,,1395.0,,05,107
+06013,"Contra Costa County, California",88456.0,,822.0,,06,013
+40067,"Jefferson County, Oklahoma",35933.0,,2197.0,,40,067
+12123,"Taylor County, Florida",37188.0,,4545.0,,12,123
+19095,"Iowa County, Iowa",58077.0,,5869.0,,19,095
+26125,"Oakland County, Michigan",73369.0,,548.0,,26,125
+28095,"Monroe County, Mississippi",39444.0,,3678.0,,28,095
+17147,"Piatt County, Illinois",67360.0,,4426.0,,17,147
+29065,"Dent County, Missouri",38829.0,,2526.0,,29,065
+06087,"Santa Cruz County, California",73663.0,,1682.0,,06,087
+27009,"Benton County, Minnesota",53574.0,,2425.0,,27,009
+31127,"Nemaha County, Nebraska",55536.0,,5149.0,,31,127
+37179,"Union County, North Carolina",70858.0,,1509.0,,37,179
+27155,"Traverse County, Minnesota",48889.0,,5241.0,,27,155
+48497,"Wise County, Texas",59081.0,,2722.0,,48,497
+18181,"White County, Indiana",51404.0,,3174.0,,18,181
+39125,"Paulding County, Ohio",49866.0,,2873.0,,39,125
+48211,"Hemphill County, Texas",68679.0,,8021.0,,48,211
+18017,"Cass County, Indiana",45558.0,,2327.0,,18,017
+23023,"Sagadahoc County, Maine",60457.0,,2953.0,,23,023
+39069,"Henry County, Ohio",58070.0,,3117.0,,39,069
+20179,"Sheridan County, Kansas",56607.0,,9624.0,,20,179
+20027,"Clay County, Kansas",55434.0,,5158.0,,20,027
+40005,"Atoka County, Oklahoma",37106.0,,1903.0,,40,005
+72115,"Quebradillas Municipio, Puerto Rico",16082.0,,1967.0,,72,115
+72113,"Ponce Municipio, Puerto Rico",16561.0,,594.0,,72,113
+34007,"Camden County, New Jersey",65037.0,,975.0,,34,007
+51093,"Isle of Wight County, Virginia",67767.0,,3199.0,,51,093
+72083,"Las Marías Municipio, Puerto Rico",14404.0,,2771.0,,72,083
+41041,"Lincoln County, Oregon",43291.0,,1854.0,,41,041
+48381,"Randall County, Texas",65564.0,,1884.0,,48,381
+72147,"Vieques Municipio, Puerto Rico",16261.0,,2414.0,,72,147
+72029,"Canóvanas Municipio, Puerto Rico",19986.0,,2164.0,,72,029
+22063,"Livingston Parish, Louisiana",60456.0,,2138.0,,22,063
+54051,"Marshall County, West Virginia",42473.0,,3682.0,,54,051
+48265,"Kerr County, Texas",48698.0,,2928.0,,48,265
+05117,"Prairie County, Arkansas",41244.0,,2365.0,,05,117
+54017,"Doddridge County, West Virginia",44437.0,,6711.0,,54,017
+39023,"Clark County, Ohio",46275.0,,1248.0,,39,023
+44001,"Bristol County, Rhode Island",74630.0,,3265.0,,44,001
+26095,"Luce County, Michigan",41221.0,,2374.0,,26,095
+12001,"Alachua County, Florida",45478.0,,1546.0,,12,001
+53001,"Adams County, Washington",48131.0,,5933.0,,53,001
+42081,"Lycoming County, Pennsylvania",50634.0,,1359.0,,42,081
+31073,"Gosper County, Nebraska",61769.0,,3409.0,,31,073
+21189,"Owsley County, Kentucky",22736.0,,5802.0,,21,189
+31049,"Deuel County, Nebraska",53438.0,,4122.0,,31,049
+39061,"Hamilton County, Ohio",52389.0,,581.0,,39,061
+51650,"Hampton city, Virginia",52021.0,,1382.0,,51,650
+72031,"Carolina Municipio, Puerto Rico",29082.0,,821.0,,72,031
+35009,"Curry County, New Mexico",41941.0,,1840.0,,35,009
+35011,"De Baca County, New Mexico",31439.0,,8487.0,,35,011
+48411,"San Saba County, Texas",40301.0,,4626.0,,48,411
+13109,"Evans County, Georgia",38736.0,,4754.0,,13,109
+22087,"St. Bernard Parish, Louisiana",45265.0,,2007.0,,22,087
+48473,"Waller County, Texas",53506.0,,4971.0,,48,473
+28053,"Humphreys County, Mississippi",26188.0,,2118.0,,28,053
+40039,"Custer County, Oklahoma",48520.0,,3845.0,,40,039
+55091,"Pepin County, Wisconsin",51470.0,,2722.0,,55,091
+37097,"Iredell County, North Carolina",55957.0,,1217.0,,37,097
+37021,"Buncombe County, North Carolina",48464.0,,1288.0,,37,021
+31151,"Saline County, Nebraska",50932.0,,3970.0,,31,151
+22111,"Union Parish, Louisiana",38916.0,,2593.0,,22,111
+20163,"Rooks County, Kansas",48352.0,,4607.0,,20,163
+40081,"Lincoln County, Oklahoma",47539.0,,1904.0,,40,081
+29063,"DeKalb County, Missouri",46517.0,,3311.0,,29,063
+56029,"Park County, Wyoming",60828.0,,3674.0,,56,029
+48427,"Starr County, Texas",27133.0,,1554.0,,48,427
+26061,"Houghton County, Michigan",41379.0,,1559.0,,26,061
+54107,"Wood County, West Virginia",45537.0,,1425.0,,54,107
+56025,"Natrona County, Wyoming",59400.0,,2542.0,,56,025
+30051,"Liberty County, Montana",46641.0,,7890.0,,30,051
+31159,"Seward County, Nebraska",63095.0,,3306.0,,31,159
+18069,"Huntington County, Indiana",50063.0,,2039.0,,18,069
+12085,"Martin County, Florida",55588.0,,1532.0,,12,085
+35003,"Catron County, New Mexico",42047.0,,6181.0,,35,003
+46105,"Perkins County, South Dakota",50450.0,,7549.0,,46,105
+50003,"Bennington County, Vermont",52251.0,,3311.0,,50,003
+16067,"Minidoka County, Idaho",48021.0,,2578.0,,16,067
+21201,"Robertson County, Kentucky",30694.0,,6901.0,,21,201
+46053,"Gregory County, South Dakota",42679.0,,4603.0,,46,053
+27131,"Rice County, Minnesota",63311.0,,1942.0,,27,131
+55121,"Trempealeau County, Wisconsin",54009.0,,1601.0,,55,121
+72019,"Barranquitas Municipio, Puerto Rico",15694.0,,1496.0,,72,019
+06083,"Santa Barbara County, California",68023.0,,1420.0,,06,083
+42041,"Cumberland County, Pennsylvania",65544.0,,1244.0,,42,041
+25007,"Dukes County, Massachusetts",67535.0,,8612.0,,25,007
+31131,"Otoe County, Nebraska",54605.0,,3804.0,,31,131
+41017,"Deschutes County, Oregon",59152.0,,2132.0,,41,017
+48489,"Willacy County, Texas",29104.0,,2657.0,,48,489
+18099,"Marshall County, Indiana",51869.0,,2198.0,,18,099
+38025,"Dunn County, North Dakota",68594.0,,10663.0,,38,025
+31161,"Sheridan County, Nebraska",41209.0,,2405.0,,31,161
+26085,"Lake County, Michigan",32309.0,,1650.0,,26,085
+08021,"Conejos County, Colorado",35657.0,,3150.0,,08,021
+16005,"Bannock County, Idaho",47390.0,,1605.0,,16,005
+48201,"Harris County, Texas",57791.0,,503.0,,48,201
+28139,"Tippah County, Mississippi",39351.0,,3522.0,,28,139
+12019,"Clay County, Florida",61971.0,,1829.0,,12,019
+08101,"Pueblo County, Colorado",42386.0,,1201.0,,08,101
+13031,"Bulloch County, Georgia",39305.0,,2425.0,,13,031
+18003,"Allen County, Indiana",51091.0,,655.0,,18,003
+01105,"Perry County, Alabama",22973.0,,3833.0,,01,105
+48311,"McMullen County, Texas",71389.0,,19963.0,,48,311
+35029,"Luna County, New Mexico",27602.0,,1859.0,,35,029
+48067,"Cass County, Texas",41432.0,,2577.0,,48,067
+54071,"Pendleton County, West Virginia",39554.0,,2700.0,,54,071
+72065,"Hatillo Municipio, Puerto Rico",17770.0,,1471.0,,72,065
+38045,"LaMoure County, North Dakota",57463.0,,3896.0,,38,045
+56017,"Hot Springs County, Wyoming",48403.0,,5666.0,,56,017
+36117,"Wayne County, New York",53693.0,,1648.0,,36,117
+21211,"Shelby County, Kentucky",63171.0,,2975.0,,21,211
+51101,"King William County, Virginia",67423.0,,3839.0,,51,101
+13145,"Harris County, Georgia",69539.0,,6381.0,,13,145
+39081,"Jefferson County, Ohio",43161.0,,1770.0,,39,081
+41071,"Yamhill County, Oregon",58392.0,,2118.0,,41,071
+39109,"Miami County, Ohio",54568.0,,1561.0,,39,109
+22109,"Terrebonne Parish, Louisiana",47650.0,,2206.0,,22,109
+29087,"Holt County, Missouri",43981.0,,2686.0,,29,087
+16037,"Custer County, Idaho",37976.0,,6917.0,,16,037
+18149,"Starke County, Indiana",45526.0,,2743.0,,18,149
+40093,"Major County, Oklahoma",52056.0,,2596.0,,40,093
+27113,"Pennington County, Minnesota",53893.0,,3312.0,,27,113
+05111,"Poinsett County, Arkansas",37487.0,,2704.0,,05,111
+72027,"Camuy Municipio, Puerto Rico",17579.0,,1275.0,,72,027
+02185,"North Slope Borough, Alaska",77266.0,,11624.0,,02,185
+20209,"Wyandotte County, Kansas",42783.0,,1077.0,,20,209
+34027,"Morris County, New Jersey",107034.0,,1215.0,,34,027
+13225,"Peach County, Georgia",43645.0,,3747.0,,13,225
+72107,"Orocovis Municipio, Puerto Rico",14296.0,,1394.0,,72,107
+21077,"Gallatin County, Kentucky",50250.0,,4645.0,,21,077
+41057,"Tillamook County, Oregon",45061.0,,2463.0,,41,057
+31041,"Custer County, Nebraska",48836.0,,3351.0,,31,041
+19145,"Page County, Iowa",46708.0,,3368.0,,19,145
+12099,"Palm Beach County, Florida",57256.0,,535.0,,12,099
+40097,"Mayes County, Oklahoma",45302.0,,1766.0,,40,097
+40049,"Garvin County, Oklahoma",42567.0,,1354.0,,40,049
+21001,"Adair County, Kentucky",36575.0,,3426.0,,21,001
+27057,"Hubbard County, Minnesota",52941.0,,1714.0,,27,057
+19155,"Pottawattamie County, Iowa",56291.0,,2064.0,,19,155
+20033,"Comanche County, Kansas",51563.0,,12113.0,,20,033
+39019,"Carroll County, Ohio",51748.0,,3535.0,,39,019
+45039,"Fairfield County, South Carolina",35551.0,,4292.0,,45,039
+72099,"Moca Municipio, Puerto Rico",13413.0,,1572.0,,72,099
+01019,"Cherokee County, Alabama",40041.0,,2316.0,,01,019
+28017,"Chickasaw County, Mississippi",33579.0,,2547.0,,28,017
+42127,"Wayne County, Pennsylvania",52161.0,,1518.0,,42,127
+19081,"Hancock County, Iowa",57840.0,,2889.0,,19,081
+20189,"Stevens County, Kansas",57500.0,,7344.0,,20,189
+48471,"Walker County, Texas",41456.0,,1745.0,,48,471
+05061,"Howard County, Arkansas",34851.0,,2771.0,,05,061
+36007,"Broome County, New York",49064.0,,1113.0,,36,007
+26063,"Huron County, Michigan",45191.0,,1031.0,,26,063
+28131,"Stone County, Mississippi",46283.0,,5271.0,,28,131
+21131,"Leslie County, Kentucky",27861.0,,7257.0,,21,131
+24005,"Baltimore County, Maryland",71810.0,,964.0,,24,005
+24031,"Montgomery County, Maryland",103178.0,,792.0,,24,031
+51678,"Lexington city, Virginia",37309.0,,8201.0,,51,678
+42063,"Indiana County, Pennsylvania",46306.0,,1207.0,,42,063
+37017,"Bladen County, North Carolina",32396.0,,2931.0,,37,017
+37155,"Robeson County, North Carolina",32407.0,,916.0,,37,155
+55067,"Langlade County, Wisconsin",44122.0,,2453.0,,55,067
+40021,"Cherokee County, Oklahoma",39187.0,,1462.0,,40,021
+13009,"Baldwin County, Georgia",37008.0,,2546.0,,13,009
+05113,"Polk County, Arkansas",33870.0,,2290.0,,05,113
+08077,"Mesa County, Colorado",51971.0,,1350.0,,08,077
+42103,"Pike County, Pennsylvania",63417.0,,3058.0,,42,103
+05057,"Hempstead County, Arkansas",38701.0,,3965.0,,05,057
+41035,"Klamath County, Oregon",42531.0,,1905.0,,41,035
+21055,"Crittenden County, Kentucky",41114.0,,2805.0,,21,055
+72017,"Barceloneta Municipio, Puerto Rico",17113.0,,2116.0,,72,017
+51620,"Franklin city, Virginia",38760.0,,4679.0,,51,620
+21049,"Clark County, Kentucky",51547.0,,2891.0,,21,049
+26065,"Ingham County, Michigan",49109.0,,922.0,,26,065
+01053,"Escambia County, Alabama",35026.0,,2265.0,,01,053
+19177,"Van Buren County, Iowa",47197.0,,3094.0,,19,177
+26107,"Mecosta County, Michigan",43470.0,,1558.0,,26,107
+48419,"Shelby County, Texas",38121.0,,2400.0,,48,419
+48203,"Harrison County, Texas",48644.0,,2576.0,,48,203
+24009,"Calvert County, Maryland",100350.0,,4007.0,,24,009
+35049,"Santa Fe County, New Mexico",57945.0,,1544.0,,35,049
+01103,"Morgan County, Alabama",47529.0,,1678.0,,01,103
+47185,"White County, Tennessee",37654.0,,2414.0,,47,185
+09005,"Litchfield County, Connecticut",76438.0,,1577.0,,09,005
+40027,"Cleveland County, Oklahoma",60632.0,,915.0,,40,027
+53045,"Mason County, Washington",53087.0,,2046.0,,53,045
+17139,"Moultrie County, Illinois",53979.0,,3591.0,,17,139
+18009,"Blackford County, Indiana",40622.0,,2254.0,,18,009
+27133,"Rock County, Minnesota",56753.0,,3817.0,,27,133
+16059,"Lemhi County, Idaho",36031.0,,1713.0,,16,059
+48161,"Freestone County, Texas",45890.0,,4462.0,,48,161
+18077,"Jefferson County, Indiana",50722.0,,2808.0,,18,077
+47045,"Dyer County, Tennessee",44386.0,,2404.0,,47,045
+48341,"Moore County, Texas",52469.0,,3568.0,,48,341
+49003,"Box Elder County, Utah",58835.0,,2580.0,,49,003
+29043,"Christian County, Missouri",55761.0,,1804.0,,29,043
+36061,"New York County, New York",79781.0,,1158.0,,36,061
+48371,"Pecos County, Texas",50543.0,,6324.0,,48,371
+17135,"Montgomery County, Illinois",47807.0,,1721.0,,17,135
+37189,"Watauga County, North Carolina",41541.0,,1476.0,,37,189
+20045,"Douglas County, Kansas",54370.0,,1728.0,,20,045
+22011,"Beauregard Parish, Louisiana",47350.0,,3568.0,,22,011
+21207,"Russell County, Kentucky",34660.0,,2755.0,,21,207
+51680,"Lynchburg city, Virginia",41971.0,,1414.0,,51,680
+22055,"Lafayette Parish, Louisiana",53950.0,,1431.0,,22,055
+28129,"Smith County, Mississippi",37697.0,,4413.0,,28,129
+49037,"San Juan County, Utah",42581.0,,4124.0,,49,037
+17073,"Henry County, Illinois",55755.0,,2104.0,,17,073
+49035,"Salt Lake County, Utah",67922.0,,923.0,,49,035
+42113,"Sullivan County, Pennsylvania",45519.0,,2789.0,,42,113
+08107,"Routt County, Colorado",67472.0,,4036.0,,08,107
+48309,"McLennan County, Texas",46262.0,,1239.0,,48,309
+50007,"Chittenden County, Vermont",66906.0,,2119.0,,50,007
+17043,"DuPage County, Illinois",84442.0,,675.0,,17,043
+31057,"Dundy County, Nebraska",44653.0,,7447.0,,31,057
+16081,"Teton County, Idaho",55986.0,,8225.0,,16,081
+25009,"Essex County, Massachusetts",73533.0,,773.0,,25,009
+48315,"Marion County, Texas",36938.0,,3112.0,,48,315
+48073,"Cherokee County, Texas",44294.0,,2017.0,,48,073
+01065,"Hale County, Alabama",34679.0,,2808.0,,01,065
+02180,"Nome Census Area, Alaska",53821.0,,1734.0,,02,180
+47125,"Montgomery County, Tennessee",53737.0,,1433.0,,47,125
+28151,"Washington County, Mississippi",29387.0,,1351.0,,28,151
+28057,"Itawamba County, Mississippi",38358.0,,2777.0,,28,057
+13283,"Treutlen County, Georgia",39375.0,,5317.0,,13,283
+17037,"DeKalb County, Illinois",58343.0,,1544.0,,17,037
+38001,"Adams County, North Dakota",54700.0,,10365.0,,38,001
+21075,"Fulton County, Kentucky",28274.0,,4692.0,,21,075
+46065,"Hughes County, South Dakota",59741.0,,3337.0,,46,065
+30105,"Valley County, Montana",55267.0,,6889.0,,30,105
+46029,"Codington County, South Dakota",52025.0,,2248.0,,46,029
+31183,"Wheeler County, Nebraska",49706.0,,4304.0,,31,183
+37139,"Pasquotank County, North Carolina",47264.0,,1826.0,,37,139
+19013,"Black Hawk County, Iowa",50916.0,,994.0,,19,013
+72135,"Toa Alta Municipio, Puerto Rico",29672.0,,1584.0,,72,135
+38027,"Eddy County, North Dakota",55294.0,,8615.0,,38,027
+45057,"Lancaster County, South Carolina",50557.0,,2667.0,,45,057
+29011,"Barton County, Missouri",41184.0,,2834.0,,29,011
+12133,"Washington County, Florida",36989.0,,3048.0,,12,133
+56015,"Goshen County, Wyoming",48422.0,,4319.0,,56,015
+72043,"Coamo Municipio, Puerto Rico",19110.0,,2063.0,,72,043
+27109,"Olmsted County, Minnesota",72337.0,,1659.0,,27,109
+27011,"Big Stone County, Minnesota",48299.0,,3265.0,,27,011
+55089,"Ozaukee County, Wisconsin",80526.0,,1989.0,,55,089
+35017,"Grant County, New Mexico",40470.0,,2626.0,,35,017
+47175,"Van Buren County, Tennessee",43631.0,,5063.0,,47,175
+13001,"Appling County, Georgia",37089.0,,3056.0,,13,001
+05133,"Sevier County, Arkansas",43675.0,,2792.0,,05,133
+48057,"Calhoun County, Texas",58788.0,,3841.0,,48,057
+06063,"Plumas County, California",50266.0,,3476.0,,06,063
+23005,"Cumberland County, Maine",65702.0,,1115.0,,23,005
+48115,"Dawson County, Texas",43201.0,,4374.0,,48,115
+12003,"Baker County, Florida",59506.0,,4489.0,,12,003
+28081,"Lee County, Mississippi",45985.0,,2140.0,,28,081
+29510,"St. Louis city, Missouri",38664.0,,799.0,,29,510
+17107,"Logan County, Illinois",58271.0,,2629.0,,17,107
+45033,"Dillon County, South Carolina",30866.0,,2021.0,,45,033
+36027,"Dutchess County, New York",75585.0,,1986.0,,36,027
+17053,"Ford County, Illinois",50851.0,,3131.0,,17,053
+19069,"Franklin County, Iowa",48172.0,,3111.0,,19,069
+13005,"Bacon County, Georgia",38824.0,,3793.0,,13,005
+18085,"Kosciusko County, Indiana",57190.0,,1972.0,,18,085
+09015,"Windham County, Connecticut",62553.0,,1889.0,,09,015
+26099,"Macomb County, Michigan",58175.0,,616.0,,26,099
+05055,"Greene County, Arkansas",45566.0,,3644.0,,05,055
+19047,"Crawford County, Iowa",51091.0,,3288.0,,19,047
+21191,"Pendleton County, Kentucky",49706.0,,5202.0,,21,191
+20069,"Gray County, Kansas",61220.0,,2178.0,,20,069
+17187,"Warren County, Illinois",47278.0,,2781.0,,17,187
+37027,"Caldwell County, North Carolina",40735.0,,1356.0,,37,027
+13271,"Telfair County, Georgia",28044.0,,2261.0,,13,271
+18171,"Warren County, Indiana",58950.0,,2984.0,,18,171
+50017,"Orange County, Vermont",56584.0,,2696.0,,50,017
+55037,"Florence County, Wisconsin",47827.0,,4848.0,,55,037
+16069,"Nez Perce County, Idaho",51804.0,,2362.0,,16,069
+36103,"Suffolk County, New York",92838.0,,928.0,,36,103
+39147,"Seneca County, Ohio",49153.0,,1729.0,,39,147
+46083,"Lincoln County, South Dakota",81849.0,,2971.0,,46,083
+13043,"Candler County, Georgia",33125.0,,4183.0,,13,043
+42057,"Fulton County, Pennsylvania",50007.0,,1925.0,,42,057
+51031,"Campbell County, Virginia",48823.0,,2634.0,,51,031
+53005,"Benton County, Washington",63001.0,,1568.0,,53,005
+29219,"Warren County, Missouri",56193.0,,3733.0,,29,219
+31069,"Garden County, Nebraska",48125.0,,6728.0,,31,069
+25023,"Plymouth County, Massachusetts",82081.0,,1195.0,,25,023
+55027,"Dodge County, Wisconsin",56038.0,,1504.0,,55,027
+35015,"Eddy County, New Mexico",60703.0,,3524.0,,35,015
+17049,"Effingham County, Illinois",54655.0,,2216.0,,17,049
+19037,"Chickasaw County, Iowa",50688.0,,3491.0,,19,037
+46069,"Hyde County, South Dakota",53696.0,,6642.0,,46,069
+13299,"Ware County, Georgia",36962.0,,3361.0,,13,299
+51143,"Pittsylvania County, Virginia",44356.0,,1580.0,,51,143
+31147,"Richardson County, Nebraska",46839.0,,4134.0,,31,147
+37119,"Mecklenburg County, North Carolina",61695.0,,596.0,,37,119
+51095,"James City County, Virginia",80772.0,,3757.0,,51,095
+20207,"Woodson County, Kansas",36493.0,,4637.0,,20,207
+05067,"Jackson County, Arkansas",32783.0,,2974.0,,05,067
+13289,"Twiggs County, Georgia",30629.0,,3667.0,,13,289
+17183,"Vermilion County, Illinois",44930.0,,1688.0,,17,183
+47143,"Rhea County, Tennessee",39368.0,,2581.0,,47,143
+30027,"Fergus County, Montana",47110.0,,4545.0,,30,027
+48225,"Houston County, Texas",33552.0,,2167.0,,48,225
+46007,"Bennett County, South Dakota",45725.0,,3810.0,,46,007
+21087,"Green County, Kentucky",37388.0,,3715.0,,21,087
+37077,"Granville County, North Carolina",52089.0,,1982.0,,37,077
+19091,"Humboldt County, Iowa",48847.0,,4222.0,,19,091
+48425,"Somervell County, Texas",52346.0,,8689.0,,48,425
+54027,"Hampshire County, West Virginia",36575.0,,2852.0,,54,027
+55033,"Dunn County, Wisconsin",54605.0,,2455.0,,55,033
+40105,"Nowata County, Oklahoma",41282.0,,1806.0,,40,105
+21013,"Bell County, Kentucky",23558.0,,2343.0,,21,013
+27107,"Norman County, Minnesota",53034.0,,2057.0,,27,107
+05013,"Calhoun County, Arkansas",37225.0,,5419.0,,05,013
+51683,"Manassas city, Virginia",77551.0,,3453.0,,51,683
+26001,"Alcona County, Michigan",39424.0,,1705.0,,26,001
+13199,"Meriwether County, Georgia",36368.0,,4391.0,,13,199
+19129,"Mills County, Iowa",67949.0,,4799.0,,19,129
+22041,"Franklin Parish, Louisiana",34722.0,,2998.0,,22,041
+51133,"Northumberland County, Virginia",56677.0,,2308.0,,51,133
+21127,"Lawrence County, Kentucky",32703.0,,4697.0,,21,127
+37071,"Gaston County, North Carolina",46626.0,,1212.0,,37,071
+13211,"Morgan County, Georgia",59572.0,,5141.0,,13,211
+17155,"Putnam County, Illinois",64741.0,,5458.0,,17,155
+48429,"Stephens County, Texas",45862.0,,3667.0,,48,429
+28141,"Tishomingo County, Mississippi",36672.0,,2553.0,,28,141
+51049,"Cumberland County, Virginia",43020.0,,3238.0,,51,049
+18151,"Steuben County, Indiana",52749.0,,2174.0,,18,151
+02020,"Anchorage Municipality, Alaska",82271.0,,1398.0,,02,020
+35039,"Rio Arriba County, New Mexico",33422.0,,2549.0,,35,039
+26075,"Jackson County, Michigan",49715.0,,1516.0,,26,075
+26119,"Montmorency County, Michigan",39152.0,,2044.0,,26,119
+42087,"Mifflin County, Pennsylvania",46286.0,,1795.0,,42,087
+29195,"Saline County, Missouri",41567.0,,2050.0,,29,195
+18073,"Jasper County, Indiana",56574.0,,2035.0,,18,073
+51199,"York County, Virginia",86781.0,,3475.0,,51,199
+31071,"Garfield County, Nebraska",46509.0,,3659.0,,31,071
+08083,"Montezuma County, Colorado",45645.0,,3355.0,,08,083
+30035,"Glacier County, Montana",29201.0,,3223.0,,30,035
+17185,"Wabash County, Illinois",49716.0,,3423.0,,17,185
+24029,"Kent County, Maryland",56638.0,,5150.0,,24,029
+13119,"Franklin County, Georgia",39246.0,,4427.0,,13,119
+18177,"Wayne County, Indiana",41813.0,,1479.0,,18,177
+48259,"Kendall County, Texas",81023.0,,5739.0,,48,259
+28105,"Oktibbeha County, Mississippi",37348.0,,2573.0,,28,105
+30075,"Powder River County, Montana",51136.0,,7216.0,,30,075
+49025,"Kane County, Utah",50266.0,,10045.0,,49,025
+12117,"Seminole County, Florida",60739.0,,1116.0,,12,117
+31129,"Nuckolls County, Nebraska",42055.0,,3430.0,,31,129
+55099,"Price County, Wisconsin",45680.0,,1454.0,,55,099
+16075,"Payette County, Idaho",48447.0,,2426.0,,16,075
+21135,"Lewis County, Kentucky",32054.0,,3790.0,,21,135
+42049,"Erie County, Pennsylvania",48192.0,,1037.0,,42,049
+34001,"Atlantic County, New Jersey",57514.0,,1710.0,,34,001
+38041,"Hettinger County, North Dakota",56118.0,,5052.0,,38,041
+19105,"Jones County, Iowa",58391.0,,5596.0,,19,105
+28011,"Bolivar County, Mississippi",28468.0,,2121.0,,28,011
+15005,"Kalawao County, Hawaii",61750.0,,11280.0,,15,005
+18037,"Dubois County, Indiana",57307.0,,3230.0,,18,037
+41025,"Harney County, Oregon",39504.0,,4691.0,,41,025
+48451,"Tom Green County, Texas",49662.0,,2089.0,,48,451
+54081,"Raleigh County, West Virginia",42386.0,,1910.0,,54,081
+35005,"Chaves County, New Mexico",42177.0,,2361.0,,35,005
+17189,"Washington County, Illinois",54520.0,,2760.0,,17,189
+39107,"Mercer County, Ohio",57052.0,,2526.0,,39,107
+31031,"Cherry County, Nebraska",53226.0,,5676.0,,31,031
+45083,"Spartanburg County, South Carolina",47575.0,,1191.0,,45,083
+29147,"Nodaway County, Missouri",41370.0,,1806.0,,29,147
+12051,"Hendry County, Florida",37966.0,,2224.0,,12,051
+39007,"Ashtabula County, Ohio",43017.0,,1597.0,,39,007
+22097,"St. Landry Parish, Louisiana",32163.0,,1363.0,,22,097
+40031,"Comanche County, Oklahoma",49569.0,,1661.0,,40,031
+31035,"Clay County, Nebraska",54167.0,,3031.0,,31,035
+21107,"Hopkins County, Kentucky",44048.0,,2031.0,,21,107
+42009,"Bedford County, Pennsylvania",48703.0,,1665.0,,42,009
+21119,"Knott County, Kentucky",30503.0,,3546.0,,21,119
+21031,"Butler County, Kentucky",39362.0,,2505.0,,21,031
+18127,"Porter County, Indiana",65979.0,,1797.0,,18,127
+27049,"Goodhue County, Minnesota",62431.0,,3013.0,,27,049
+12125,"Union County, Florida",37460.0,,6004.0,,12,125
+13185,"Lowndes County, Georgia",39911.0,,1705.0,,13,185
+33019,"Sullivan County, New Hampshire",59419.0,,3601.0,,33,019
+19137,"Montgomery County, Iowa",43674.0,,4866.0,,19,137
+48297,"Live Oak County, Texas",51480.0,,4529.0,,48,297
+53055,"San Juan County, Washington",60271.0,,1726.0,,53,055
+28097,"Montgomery County, Mississippi",34983.0,,5834.0,,28,097
+19073,"Greene County, Iowa",52529.0,,3835.0,,19,073
+20195,"Trego County, Kansas",55197.0,,7814.0,,20,195
+42129,"Westmoreland County, Pennsylvania",56702.0,,902.0,,42,129
+36087,"Rockland County, New York",88571.0,,1624.0,,36,087
+18119,"Owen County, Indiana",48315.0,,3186.0,,18,119
+06093,"Siskiyou County, California",40884.0,,1957.0,,06,093
+37031,"Carteret County, North Carolina",51584.0,,1561.0,,37,031
+45001,"Abbeville County, South Carolina",35254.0,,2259.0,,45,001
+51105,"Lee County, Virginia",32590.0,,2972.0,,51,105
+54079,"Putnam County, West Virginia",59113.0,,3327.0,,54,079
+37089,"Henderson County, North Carolina",50454.0,,1087.0,,37,089
+20129,"Morton County, Kansas",43813.0,,9676.0,,20,129
+36091,"Saratoga County, New York",77548.0,,1961.0,,36,091
+28041,"Greene County, Mississippi",48029.0,,7215.0,,28,041
+29115,"Linn County, Missouri",41652.0,,2416.0,,29,115
+54103,"Wetzel County, West Virginia",40694.0,,2867.0,,54,103
+20117,"Marshall County, Kansas",50420.0,,2613.0,,20,117
+55047,"Green Lake County, Wisconsin",50276.0,,2530.0,,55,047
+54043,"Lincoln County, West Virginia",37075.0,,4934.0,,54,043
+01021,"Chilton County, Alabama",43501.0,,2877.0,,01,021
+05109,"Pike County, Arkansas",36893.0,,2512.0,,05,109
+37147,"Pitt County, North Carolina",43526.0,,1420.0,,37,147
+48013,"Atascosa County, Texas",55194.0,,4735.0,,48,013
+54009,"Brooke County, West Virginia",48835.0,,2697.0,,54,009
+72007,"Aguas Buenas Municipio, Puerto Rico",16733.0,,1797.0,,72,007
+31143,"Polk County, Nebraska",63667.0,,5507.0,,31,143
+31097,"Johnson County, Nebraska",49564.0,,4629.0,,31,097
+18087,"LaGrange County, Indiana",58336.0,,2617.0,,18,087
+19109,"Kossuth County, Iowa",54868.0,,2977.0,,19,109
+01075,"Lamar County, Alabama",36016.0,,2778.0,,01,075
+18101,"Martin County, Indiana",49372.0,,2903.0,,18,101
+45019,"Charleston County, South Carolina",57882.0,,1257.0,,45,019
+48031,"Blanco County, Texas",58500.0,,4789.0,,48,031
+51760,"Richmond city, Virginia",42356.0,,832.0,,51,760
+20203,"Wichita County, Kansas",55109.0,,14474.0,,20,203
+08059,"Jefferson County, Colorado",75170.0,,854.0,,08,059
+44003,"Kent County, Rhode Island",69047.0,,2197.0,,44,003
+41037,"Lake County, Oregon",32769.0,,3649.0,,41,037
+40033,"Cotton County, Oklahoma",49962.0,,3189.0,,40,033
+46079,"Lake County, South Dakota",58467.0,,3832.0,,46,079
+20019,"Chautauqua County, Kansas",39531.0,,4615.0,,20,019
+48081,"Coke County, Texas",42500.0,,6360.0,,48,081
+12055,"Highlands County, Florida",36374.0,,1135.0,,12,055
+48101,"Cottle County, Texas",33534.0,,5773.0,,48,101
+48107,"Crosby County, Texas",38674.0,,2969.0,,48,107
+19093,"Ida County, Iowa",51978.0,,2633.0,,19,093
+32001,"Churchill County, Nevada",46914.0,,3854.0,,32,001
+23021,"Piscataquis County, Maine",38797.0,,2314.0,,23,021
+12049,"Hardee County, Florida",39063.0,,3047.0,,12,049
+20009,"Barton County, Kansas",46070.0,,3301.0,,20,009
+48111,"Dallam County, Texas",45580.0,,8818.0,,48,111
+20205,"Wilson County, Kansas",44468.0,,4477.0,,20,205
+22107,"Tensas Parish, Louisiana",21906.0,,2773.0,,22,107
+01059,"Franklin County, Alabama",39501.0,,2912.0,,01,059
+37035,"Catawba County, North Carolina",48649.0,,1480.0,,37,035
+48123,"DeWitt County, Texas",50960.0,,5037.0,,48,123
+35035,"Otero County, New Mexico",43533.0,,1693.0,,35,035
+22073,"Ouachita Parish, Louisiana",40081.0,,1071.0,,22,073
+39085,"Lake County, Ohio",61137.0,,1160.0,,39,085
+06053,"Monterey County, California",63249.0,,1209.0,,06,053
+29059,"Dallas County, Missouri",41441.0,,3680.0,,29,059
+12057,"Hillsborough County, Florida",53742.0,,533.0,,12,057
+12033,"Escambia County, Florida",47361.0,,949.0,,12,033
+20093,"Kearny County, Kansas",51439.0,,4239.0,,20,093
+18065,"Henry County, Indiana",46131.0,,1368.0,,18,065
+40137,"Stephens County, Oklahoma",44805.0,,2077.0,,40,137
+21045,"Casey County, Kentucky",33031.0,,2686.0,,21,045
+26087,"Lapeer County, Michigan",56186.0,,1822.0,,26,087
+04012,"La Paz County, Arizona",36479.0,,4789.0,,04,012
+28007,"Attala County, Mississippi",33815.0,,1867.0,,28,007
+17083,"Jersey County, Illinois",56320.0,,2678.0,,17,083
+53041,"Lewis County, Washington",46387.0,,1943.0,,53,041
+55015,"Calumet County, Wisconsin",70662.0,,2590.0,,55,015
+29071,"Franklin County, Missouri",53849.0,,1753.0,,29,071
+48499,"Wood County, Texas",48038.0,,3129.0,,48,499
+08075,"Logan County, Colorado",44876.0,,5064.0,,08,075
+28073,"Lamar County, Mississippi",56129.0,,2878.0,,28,073
+39035,"Cuyahoga County, Ohio",46720.0,,430.0,,39,035
+01001,"Autauga County, Alabama",55317.0,,2838.0,,01,001
+23019,"Penobscot County, Maine",47886.0,,1189.0,,23,019
+06035,"Lassen County, California",54083.0,,2927.0,,06,035
+05137,"Stone County, Arkansas",33091.0,,4191.0,,05,137
+51193,"Westmoreland County, Virginia",55688.0,,7635.0,,51,193
+27121,"Pope County, Minnesota",58198.0,,2921.0,,27,121
+37191,"Wayne County, North Carolina",41766.0,,1480.0,,37,191
+39003,"Allen County, Ohio",47905.0,,1708.0,,39,003
+41069,"Wheeler County, Oregon",33563.0,,3911.0,,41,069
+42011,"Berks County, Pennsylvania",59580.0,,931.0,,42,011
+46109,"Roberts County, South Dakota",51228.0,,2029.0,,46,109
+01025,"Clarke County, Alabama",33827.0,,2336.0,,01,025
+29211,"Sullivan County, Missouri",42034.0,,5319.0,,29,211
+39105,"Meigs County, Ohio",42105.0,,2658.0,,39,105
+20143,"Ottawa County, Kansas",51797.0,,4151.0,,20,143
+48093,"Comanche County, Texas",42419.0,,2872.0,,48,093
+29177,"Ray County, Missouri",57270.0,,3475.0,,29,177
+19147,"Palo Alto County, Iowa",50470.0,,2584.0,,19,147
+40139,"Texas County, Oklahoma",49469.0,,5998.0,,40,139
+41061,"Union County, Oregon",46228.0,,1934.0,,41,061
+30069,"Petroleum County, Montana",46429.0,,12226.0,,30,069
+20147,"Phillips County, Kansas",46806.0,,1293.0,,20,147
+48461,"Upton County, Texas",52750.0,,5566.0,,48,461
+06089,"Shasta County, California",47258.0,,1104.0,,06,089
+41065,"Wasco County, Oregon",48510.0,,2079.0,,41,065
+05011,"Bradley County, Arkansas",36310.0,,3985.0,,05,011
+22023,"Cameron Parish, Louisiana",60194.0,,8102.0,,22,023
+12093,"Okeechobee County, Florida",39059.0,,1686.0,,12,093
+26093,"Livingston County, Michigan",78430.0,,1082.0,,26,093
+30111,"Yellowstone County, Montana",57955.0,,1142.0,,30,111
+21021,"Boyle County, Kentucky",43076.0,,3260.0,,21,021
+06023,"Humboldt County, California",43718.0,,1579.0,,06,023
+40029,"Coal County, Oklahoma",39931.0,,5376.0,,40,029
+28159,"Winston County, Mississippi",33313.0,,2589.0,,28,159
+32003,"Clark County, Nevada",54882.0,,434.0,,32,003
+29107,"Lafayette County, Missouri",52557.0,,2378.0,,29,107
+05073,"Lafayette County, Arkansas",32500.0,,3065.0,,05,073
+55023,"Crawford County, Wisconsin",47331.0,,2123.0,,55,023
+38049,"McHenry County, North Dakota",61788.0,,3074.0,,38,049
+37153,"Richmond County, North Carolina",33607.0,,2248.0,,37,153
+39115,"Morgan County, Ohio",40276.0,,2601.0,,39,115
+48151,"Fisher County, Texas",45294.0,,3897.0,,48,151
+13011,"Banks County, Georgia",42182.0,,3151.0,,13,011
+06113,"Yolo County, California",61621.0,,1733.0,,06,113
+17127,"Massac County, Illinois",42168.0,,3400.0,,17,127
+22009,"Avoyelles Parish, Louisiana",36763.0,,2183.0,,22,009
+47153,"Sequatchie County, Tennessee",51312.0,,6120.0,,47,153
+39075,"Holmes County, Ohio",58728.0,,2576.0,,39,075
+30045,"Judith Basin County, Montana",43281.0,,9382.0,,30,045
+36093,"Schenectady County, New York",61315.0,,1710.0,,36,093
+47035,"Cumberland County, Tennessee",40994.0,,1588.0,,47,035
+27089,"Marshall County, Minnesota",57289.0,,2745.0,,27,089
+40077,"Latimer County, Oklahoma",40539.0,,2636.0,,40,077
+20133,"Neosho County, Kansas",44402.0,,2389.0,,20,133
+13321,"Worth County, Georgia",40369.0,,3651.0,,13,321
+37081,"Guilford County, North Carolina",49253.0,,816.0,,37,081
+05093,"Mississippi County, Arkansas",36417.0,,1718.0,,05,093
+13037,"Calhoun County, Georgia",29617.0,,2794.0,,13,037
+37037,"Chatham County, North Carolina",59684.0,,1914.0,,37,037
+28049,"Hinds County, Mississippi",41011.0,,1112.0,,28,049
+22037,"East Feliciana Parish, Louisiana",46964.0,,4848.0,,22,037
+48069,"Castro County, Texas",44643.0,,3842.0,,48,069
+51091,"Highland County, Virginia",45094.0,,4452.0,,51,091
+21219,"Todd County, Kentucky",38248.0,,3788.0,,21,219
+27061,"Itasca County, Minnesota",52050.0,,1877.0,,27,061
+05041,"Desha County, Arkansas",27036.0,,2882.0,,05,041
+13261,"Sumter County, Georgia",34219.0,,2587.0,,13,261
+05029,"Conway County, Arkansas",39638.0,,3317.0,,05,029
+42055,"Franklin County, Pennsylvania",58267.0,,1638.0,,42,055
+28133,"Sunflower County, Mississippi",28556.0,,2587.0,,28,133
+72059,"Guayanilla Municipio, Puerto Rico",14988.0,,1354.0,,72,059
+25019,"Nantucket County, Massachusetts",91942.0,,11350.0,,25,019
+28143,"Tunica County, Mississippi",32052.0,,3757.0,,28,143
+37159,"Rowan County, North Carolina",46978.0,,1605.0,,37,159
+46017,"Buffalo County, South Dakota",30500.0,,6450.0,,46,017
+48417,"Shackelford County, Texas",46685.0,,7316.0,,48,417
+29141,"Morgan County, Missouri",34776.0,,2773.0,,29,141
+37197,"Yadkin County, North Carolina",41126.0,,2069.0,,37,197
+12121,"Suwannee County, Florida",40600.0,,3543.0,,12,121
+48483,"Wheeler County, Texas",50910.0,,3512.0,,48,483
+41033,"Josephine County, Oregon",40705.0,,2203.0,,41,033
+48403,"Sabine County, Texas",33561.0,,2735.0,,48,403
+48143,"Erath County, Texas",47013.0,,2530.0,,48,143
+06001,"Alameda County, California",85743.0,,940.0,,06,001
+17087,"Johnson County, Illinois",45743.0,,3322.0,,17,087
+38005,"Benson County, North Dakota",44500.0,,3237.0,,38,005
+54073,"Pleasants County, West Virginia",45152.0,,8559.0,,54,073
+17167,"Sangamon County, Illinois",58687.0,,1256.0,,17,167
+35059,"Union County, New Mexico",38240.0,,2505.0,,35,059
+72051,"Dorado Municipio, Puerto Rico",29354.0,,3033.0,,72,051
+17175,"Stark County, Illinois",52284.0,,2543.0,,17,175
+47003,"Bedford County, Tennessee",47117.0,,2721.0,,47,003
+28051,"Holmes County, Mississippi",20330.0,,1291.0,,28,051
+20099,"Labette County, Kansas",45706.0,,2966.0,,20,099
+22085,"Sabine Parish, Louisiana",40695.0,,2615.0,,22,085
+22013,"Bienville Parish, Louisiana",34077.0,,3437.0,,22,013
+31133,"Pawnee County, Nebraska",42176.0,,3981.0,,31,133
+48459,"Upshur County, Texas",48796.0,,2647.0,,48,459
+48365,"Panola County, Texas",49704.0,,2693.0,,48,365
+48209,"Hays County, Texas",62815.0,,1681.0,,48,209
+28033,"DeSoto County, Mississippi",62595.0,,1212.0,,28,033
+29091,"Howell County, Missouri",34984.0,,1567.0,,29,091
+48083,"Coleman County, Texas",40804.0,,3227.0,,48,083
+51119,"Middlesex County, Virginia",50483.0,,5320.0,,51,119
+51610,"Falls Church city, Virginia",114795.0,,7917.0,,51,610
+37149,"Polk County, North Carolina",48412.0,,2365.0,,37,149
+12119,"Sumter County, Florida",54771.0,,2856.0,,12,119
+72143,"Vega Alta Municipio, Puerto Rico",18053.0,,1218.0,,72,143
+02170,"Matanuska-Susitna Borough, Alaska",74887.0,,1813.0,,02,170
+17177,"Stephenson County, Illinois",46427.0,,1906.0,,17,177
+18035,"Delaware County, Indiana",41208.0,,1503.0,,18,035
+17063,"Grundy County, Illinois",71598.0,,4283.0,,17,063
+39051,"Fulton County, Ohio",57774.0,,2425.0,,39,051
+42107,"Schuylkill County, Pennsylvania",47642.0,,1383.0,,42,107
+42093,"Montour County, Pennsylvania",56250.0,,3159.0,,42,093
+51165,"Rockingham County, Virginia",57651.0,,1698.0,,51,165
+02150,"Kodiak Island Borough, Alaska",74167.0,,11354.0,,02,150
+20061,"Geary County, Kansas",46096.0,,1555.0,,20,061
+21041,"Carroll County, Kentucky",43345.0,,3306.0,,21,041
+08105,"Rio Grande County, Colorado",38534.0,,3781.0,,08,105
+21185,"Oldham County, Kentucky",92237.0,,2747.0,,21,185
+51007,"Amelia County, Virginia",58535.0,,5713.0,,51,007
+20003,"Anderson County, Kansas",40986.0,,4317.0,,20,003
+47099,"Lawrence County, Tennessee",41522.0,,1476.0,,47,099
+31153,"Sarpy County, Nebraska",75752.0,,1666.0,,31,153
+13319,"Wilkinson County, Georgia",38711.0,,4236.0,,13,319
+72057,"Guayama Municipio, Puerto Rico",15296.0,,1158.0,,72,057
+51181,"Surry County, Virginia",54656.0,,5518.0,,51,181
+42029,"Chester County, Pennsylvania",92417.0,,1401.0,,42,029
+12043,"Glades County, Florida",37385.0,,4329.0,,12,043
+08125,"Yuma County, Colorado",44668.0,,2373.0,,08,125
+29095,"Jackson County, Missouri",50652.0,,526.0,,29,095
+26163,"Wayne County, Michigan",43702.0,,405.0,,26,163
+48467,"Van Zandt County, Texas",50061.0,,2093.0,,48,467
+55103,"Richland County, Wisconsin",48234.0,,2146.0,,55,103
+37075,"Graham County, North Carolina",36030.0,,5733.0,,37,075
+38011,"Bowman County, North Dakota",65435.0,,6252.0,,38,011
+19077,"Guthrie County, Iowa",56306.0,,1850.0,,19,077
+08123,"Weld County, Colorado",66489.0,,1582.0,,08,123
+08029,"Delta County, Colorado",42487.0,,4104.0,,08,029
+35053,"Socorro County, New Mexico",34008.0,,3304.0,,35,053
+40121,"Pittsburg County, Oklahoma",44941.0,,1883.0,,40,121
+19157,"Poweshiek County, Iowa",51456.0,,2383.0,,19,157
+29015,"Benton County, Missouri",35097.0,,2364.0,,29,015
+48373,"Polk County, Texas",43267.0,,2722.0,,48,373
+18029,"Dearborn County, Indiana",62905.0,,2418.0,,18,029
+48435,"Sutton County, Texas",60996.0,,5615.0,,48,435
+01091,"Marengo County, Alabama",32255.0,,3045.0,,01,091
+29213,"Taney County, Missouri",39661.0,,1576.0,,29,213
+13193,"Macon County, Georgia",30851.0,,3027.0,,13,193
+56023,"Lincoln County, Wyoming",63756.0,,4307.0,,56,023
+40115,"Ottawa County, Oklahoma",38472.0,,987.0,,40,115
+27003,"Anoka County, Minnesota",76796.0,,917.0,,27,003
+37051,"Cumberland County, North Carolina",44737.0,,795.0,,37,051
+13095,"Dougherty County, Georgia",34541.0,,1950.0,,13,095
+37199,"Yancey County, North Carolina",37610.0,,2962.0,,37,199
+18095,"Madison County, Indiana",45432.0,,1143.0,,18,095
+37143,"Perquimans County, North Carolina",44039.0,,2588.0,,37,143
+27051,"Grant County, Minnesota",53727.0,,2922.0,,27,051
+05143,"Washington County, Arkansas",47452.0,,1026.0,,05,143
+51735,"Poquoson city, Virginia",88328.0,,8414.0,,51,735
+27163,"Washington County, Minnesota",89598.0,,1707.0,,27,163
+46089,"McPherson County, South Dakota",41674.0,,5079.0,,46,089
+20011,"Bourbon County, Kansas",39379.0,,3355.0,,20,011
+49039,"Sanpete County, Utah",50928.0,,2718.0,,49,039
+28147,"Walthall County, Mississippi",31077.0,,4182.0,,28,147
+45021,"Cherokee County, South Carolina",35286.0,,2263.0,,45,021
+48345,"Motley County, Texas",40598.0,,7989.0,,48,345
+29069,"Dunklin County, Missouri",32348.0,,1601.0,,29,069
+41059,"Umatilla County, Oregon",50071.0,,1555.0,,41,059
+21217,"Taylor County, Kentucky",36455.0,,2861.0,,21,217
+28071,"Lafayette County, Mississippi",45019.0,,3118.0,,28,071
+53033,"King County, Washington",83571.0,,617.0,,53,033
+13295,"Walker County, Georgia",43581.0,,2245.0,,13,295
+37061,"Duplin County, North Carolina",36679.0,,1679.0,,37,061
+22017,"Caddo Parish, Louisiana",40391.0,,1046.0,,22,017
+46123,"Tripp County, South Dakota",48409.0,,5198.0,,46,123
+48415,"Scurry County, Texas",54565.0,,5212.0,,48,415
+27031,"Cook County, Minnesota",51903.0,,3714.0,,27,031
+13027,"Brooks County, Georgia",34890.0,,5889.0,,13,027
+19075,"Grundy County, Iowa",65170.0,,2260.0,,19,075
+20105,"Lincoln County, Kansas",48693.0,,6396.0,,20,105
+21091,"Hancock County, Kentucky",49135.0,,3514.0,,21,091
+01113,"Russell County, Alabama",38988.0,,2253.0,,01,113
+18089,"Lake County, Indiana",52559.0,,814.0,,18,089
+29037,"Cass County, Missouri",65352.0,,1520.0,,29,037
+13171,"Lamar County, Georgia",41157.0,,4775.0,,13,171
+21147,"McCreary County, Kentucky",19264.0,,1762.0,,21,147
+26055,"Grand Traverse County, Michigan",58229.0,,1878.0,,26,055
+27027,"Clay County, Minnesota",61409.0,,1749.0,,27,027
+31037,"Colfax County, Nebraska",54876.0,,3806.0,,31,037
+40119,"Payne County, Oklahoma",39149.0,,2201.0,,40,119
+24003,"Anne Arundel County, Maryland",94502.0,,1251.0,,24,003
+29077,"Greene County, Missouri",43175.0,,867.0,,29,077
+05089,"Marion County, Arkansas",36113.0,,2636.0,,05,089
+56005,"Campbell County, Wyoming",80178.0,,3568.0,,56,005
+51033,"Caroline County, Virginia",60925.0,,2456.0,,51,033
+08031,"Denver County, Colorado",60098.0,,950.0,,08,031
+16079,"Shoshone County, Idaho",39835.0,,3011.0,,16,079
+46023,"Charles Mix County, South Dakota",44104.0,,2242.0,,46,023
+31059,"Fillmore County, Nebraska",56750.0,,2717.0,,31,059
+27005,"Becker County, Minnesota",55884.0,,2108.0,,27,005
+47177,"Warren County, Tennessee",36765.0,,1207.0,,47,177
+28003,"Alcorn County, Mississippi",38919.0,,1799.0,,28,003
+47127,"Moore County, Tennessee",51671.0,,3623.0,,47,127
+44005,"Newport County, Rhode Island",75463.0,,1780.0,,44,005
+08049,"Grand County, Colorado",66489.0,,6712.0,,08,049
+31137,"Phelps County, Nebraska",56408.0,,3628.0,,31,137
+72117,"Rincón Municipio, Puerto Rico",18292.0,,1698.0,,72,117
+48465,"Val Verde County, Texas",44609.0,,2594.0,,48,465
+19121,"Madison County, Iowa",60077.0,,4365.0,,19,121
+47081,"Hickman County, Tennessee",39333.0,,2513.0,,47,081
+72061,"Guaynabo Municipio, Puerto Rico",34060.0,,1791.0,,72,061
+37033,"Caswell County, North Carolina",39428.0,,2039.0,,37,033
+39045,"Fairfield County, Ohio",63424.0,,1617.0,,39,045
+48011,"Armstrong County, Texas",68750.0,,10647.0,,48,011
+39137,"Putnam County, Ohio",61161.0,,2028.0,,39,137
+48221,"Hood County, Texas",60275.0,,2698.0,,48,221
+28099,"Neshoba County, Mississippi",36755.0,,1999.0,,28,099
+13123,"Gilmer County, Georgia",46211.0,,3104.0,,13,123
+06051,"Mono County, California",60595.0,,6356.0,,06,051
+12059,"Holmes County, Florida",37474.0,,4051.0,,12,059
+28153,"Wayne County, Mississippi",35215.0,,4541.0,,28,153
+34031,"Passaic County, New Jersey",63339.0,,1461.0,,34,031
+23031,"York County, Maine",62618.0,,1559.0,,23,031
+02110,"Juneau City and Borough, Alaska",90749.0,,3559.0,,02,110
+21215,"Spencer County, Kentucky",68916.0,,4576.0,,21,215
+27055,"Houston County, Minnesota",56837.0,,2565.0,,27,055
+19167,"Sioux County, Iowa",66022.0,,1721.0,,19,167
+41013,"Crook County, Oregon",41777.0,,3308.0,,41,013
+46091,"Marshall County, South Dakota",60948.0,,4258.0,,46,091
+53013,"Columbia County, Washington",46250.0,,5936.0,,53,013
+20151,"Pratt County, Kansas",53415.0,,4992.0,,20,151
+32510,"Carson City, Nevada",49341.0,,2023.0,,32,510
+37185,"Warren County, North Carolina",35443.0,,1882.0,,37,185
+42073,"Lawrence County, Pennsylvania",47188.0,,1429.0,,42,073
+30005,"Blaine County, Montana",35506.0,,2516.0,,30,005
+37003,"Alexander County, North Carolina",44523.0,,2886.0,,37,003
+19063,"Emmet County, Iowa",47419.0,,5869.0,,19,063
+27053,"Hennepin County, Minnesota",71154.0,,620.0,,27,053
+36037,"Genesee County, New York",54033.0,,1511.0,,36,037
+25015,"Hampshire County, Massachusetts",64974.0,,1932.0,,25,015
+23001,"Androscoggin County, Maine",49538.0,,1293.0,,23,001
+27071,"Koochiching County, Minnesota",47131.0,,5312.0,,27,071
+12053,"Hernando County, Florida",44324.0,,1044.0,,12,053
+48055,"Caldwell County, Texas",51346.0,,2389.0,,48,055
+38043,"Kidder County, North Dakota",60225.0,,5938.0,,38,043
+22039,"Evangeline Parish, Louisiana",31745.0,,1823.0,,22,039
+46047,"Fall River County, South Dakota",48862.0,,4485.0,,46,047
+19017,"Bremer County, Iowa",65440.0,,2649.0,,19,017
+01011,"Bullock County, Alabama",29655.0,,5376.0,,01,011
+05125,"Saline County, Arkansas",58985.0,,2015.0,,05,125
+46059,"Hand County, South Dakota",50720.0,,3525.0,,46,059
+04003,"Cochise County, Arizona",47847.0,,1539.0,,04,003
+17011,"Bureau County, Illinois",54271.0,,1910.0,,17,011
+29157,"Perry County, Missouri",54935.0,,2993.0,,29,157
+42001,"Adams County, Pennsylvania",62661.0,,1660.0,,42,001
+21089,"Greenup County, Kentucky",47517.0,,2009.0,,21,089
+27151,"Swift County, Minnesota",49556.0,,3397.0,,27,151
+17021,"Christian County, Illinois",50668.0,,1800.0,,17,021
+12013,"Calhoun County, Florida",36237.0,,2312.0,,12,013
+19051,"Davis County, Iowa",52390.0,,4489.0,,19,051
+13189,"McDuffie County, Georgia",40469.0,,4618.0,,13,189
+31149,"Rock County, Nebraska",52361.0,,6729.0,,31,149
+55131,"Washington County, Wisconsin",73021.0,,1757.0,,55,131
+47067,"Hancock County, Tennessee",29619.0,,3323.0,,47,067
+18129,"Posey County, Indiana",60992.0,,2225.0,,18,129
+40095,"Marshall County, Oklahoma",45671.0,,2781.0,,40,095
+42031,"Clarion County, Pennsylvania",44373.0,,1871.0,,42,031
+39135,"Preble County, Ohio",52661.0,,1632.0,,39,135
+46117,"Stanley County, South Dakota",63233.0,,9643.0,,46,117
+26019,"Benzie County, Michigan",53185.0,,3219.0,,26,019
+48105,"Crockett County, Texas",52310.0,,7773.0,,48,105
+46137,"Ziebach County, South Dakota",35000.0,,4262.0,,46,137
+48369,"Parmer County, Texas",50410.0,,4309.0,,48,369
+48237,"Jack County, Texas",52829.0,,5647.0,,48,237
+05131,"Sebastian County, Arkansas",40932.0,,1755.0,,05,131
+55031,"Douglas County, Wisconsin",50730.0,,1644.0,,55,031
+19127,"Marshall County, Iowa",52752.0,,1749.0,,19,127
+48409,"San Patricio County, Texas",53332.0,,2067.0,,48,409
+29025,"Caldwell County, Missouri",44975.0,,2493.0,,29,025
+55071,"Manitowoc County, Wisconsin",51053.0,,1209.0,,55,071
+40035,"Craig County, Oklahoma",40465.0,,1809.0,,40,035
+45011,"Barnwell County, South Carolina",34035.0,,3260.0,,45,011
+27153,"Todd County, Minnesota",49213.0,,2088.0,,27,153
+40107,"Okfuskee County, Oklahoma",38346.0,,2708.0,,40,107
+37135,"Orange County, North Carolina",65522.0,,2492.0,,37,135
+19163,"Scott County, Iowa",57681.0,,1423.0,,19,163
+20029,"Cloud County, Kansas",44199.0,,3417.0,,20,029
+36111,"Ulster County, New York",61652.0,,1401.0,,36,111
+22117,"Washington Parish, Louisiana",32962.0,,3070.0,,22,117
+01039,"Covington County, Alabama",39467.0,,2392.0,,01,039
+29113,"Lincoln County, Missouri",58603.0,,3325.0,,29,113
+39103,"Medina County, Ohio",71595.0,,1509.0,,39,103
+51001,"Accomack County, Virginia",42260.0,,2253.0,,51,001
+46061,"Hanson County, South Dakota",62448.0,,4254.0,,46,061
+19191,"Winneshiek County, Iowa",60788.0,,2808.0,,19,191
+41021,"Gilliam County, Oregon",39831.0,,8471.0,,41,021
+08037,"Eagle County, Colorado",83803.0,,4624.0,,08,037
+72125,"San Germán Municipio, Puerto Rico",15036.0,,1446.0,,72,125
+31141,"Platte County, Nebraska",58679.0,,2906.0,,31,141
+46035,"Davison County, South Dakota",48665.0,,4584.0,,46,035
+31043,"Dakota County, Nebraska",52401.0,,3434.0,,31,043
+40129,"Roger Mills County, Oklahoma",51286.0,,5992.0,,40,129
+46111,"Sanborn County, South Dakota",54677.0,,3814.0,,46,111
+48367,"Parker County, Texas",70608.0,,2107.0,,48,367
+01067,"Henry County, Alabama",45569.0,,3006.0,,01,067
+49041,"Sevier County, Utah",50850.0,,2452.0,,49,041
+39155,"Trumbull County, Ohio",45380.0,,778.0,,39,155
+01129,"Washington County, Alabama",42185.0,,3300.0,,01,129
+36085,"Richmond County, New York",76244.0,,1481.0,,36,085
+18043,"Floyd County, Indiana",59451.0,,1921.0,,18,043
+45049,"Hampton County, South Carolina",32147.0,,1866.0,,45,049
+53069,"Wahkiakum County, Washington",49508.0,,7468.0,,53,069
+31033,"Cheyenne County, Nebraska",58770.0,,4189.0,,31,033
+13045,"Carroll County, Georgia",46844.0,,1697.0,,13,045
+13079,"Crawford County, Georgia",41032.0,,5046.0,,13,079
+34025,"Monmouth County, New Jersey",91807.0,,1342.0,,34,025
+26117,"Montcalm County, Michigan",44651.0,,1606.0,,26,117
+17031,"Cook County, Illinois",59426.0,,380.0,,17,031
+47043,"Dickson County, Tennessee",47398.0,,1843.0,,47,043
+53037,"Kittitas County, Washington",53163.0,,1678.0,,53,037
+17173,"Shelby County, Illinois",49807.0,,2404.0,,17,173
+36073,"Orleans County, New York",49223.0,,2670.0,,36,073
+26091,"Lenawee County, Michigan",51339.0,,1406.0,,26,091
+21143,"Lyon County, Kentucky",50268.0,,4267.0,,21,143
+47039,"Decatur County, Tennessee",36427.0,,4527.0,,47,039
+30011,"Carter County, Montana",45347.0,,7344.0,,30,011
+21169,"Metcalfe County, Kentucky",35594.0,,4852.0,,21,169
+48071,"Chambers County, Texas",74368.0,,8078.0,,48,071
+72095,"Maunabo Municipio, Puerto Rico",17636.0,,3292.0,,72,095
+09011,"New London County, Connecticut",69411.0,,1516.0,,09,011
+55095,"Polk County, Wisconsin",53551.0,,1215.0,,55,095
+13177,"Lee County, Georgia",65018.0,,3516.0,,13,177
+01071,"Jackson County, Alabama",39281.0,,1994.0,,01,071
+48149,"Fayette County, Texas",56941.0,,5047.0,,48,149
+48447,"Throckmorton County, Texas",37279.0,,7356.0,,48,447
+46075,"Jones County, South Dakota",39432.0,,8759.0,,46,075
+21177,"Muhlenberg County, Kentucky",40037.0,,2245.0,,21,177
+17057,"Fulton County, Illinois",48599.0,,1862.0,,17,057
+19133,"Monona County, Iowa",41598.0,,3139.0,,19,133
+47109,"McNairy County, Tennessee",34353.0,,2880.0,,47,109
+50001,"Addison County, Vermont",61875.0,,2338.0,,50,001
+18031,"Decatur County, Indiana",52270.0,,1808.0,,18,031
+06003,"Alpine County, California",63438.0,,4535.0,,06,003
+72111,"Peñuelas Municipio, Puerto Rico",16868.0,,1444.0,,72,111
+36055,"Monroe County, New York",55272.0,,680.0,,36,055
+18061,"Harrison County, Indiana",53897.0,,2441.0,,18,061
+48391,"Refugio County, Texas",50338.0,,6218.0,,48,391
+48491,"Williamson County, Texas",79123.0,,1440.0,,48,491
+48175,"Goliad County, Texas",56737.0,,6539.0,,48,175
+29155,"Pemiscot County, Missouri",32468.0,,2812.0,,29,155
+38087,"Slope County, North Dakota",61250.0,,13510.0,,38,087
+39043,"Erie County, Ohio",51033.0,,1456.0,,39,043
+51775,"Salem city, Virginia",53990.0,,2528.0,,51,775
+48191,"Hall County, Texas",31324.0,,4587.0,,48,191
+48007,"Aransas County, Texas",44601.0,,3698.0,,48,007
+17035,"Cumberland County, Illinois",50680.0,,3553.0,,17,035
+54095,"Tyler County, West Virginia",40902.0,,3370.0,,54,095
+37187,"Washington County, North Carolina",34557.0,,3147.0,,37,187
+51073,"Gloucester County, Virginia",63881.0,,2572.0,,51,073
+54035,"Jackson County, West Virginia",41731.0,,3107.0,,54,035
+31155,"Saunders County, Nebraska",65015.0,,2621.0,,31,155
+34023,"Middlesex County, New Jersey",83133.0,,856.0,,34,023
+17153,"Pulaski County, Illinois",34655.0,,3429.0,,17,153
+47087,"Jackson County, Tennessee",33933.0,,2842.0,,47,087
+51540,"Charlottesville city, Virginia",54739.0,,3418.0,,51,540
+51530,"Buena Vista city, Virginia",33672.0,,2993.0,,51,530
+54059,"Mingo County, West Virginia",31227.0,,2388.0,,54,059
+48181,"Grayson County, Texas",52683.0,,2034.0,,48,181
+10001,"Kent County, Delaware",57647.0,,1456.0,,10,001
+18141,"St. Joseph County, Indiana",48121.0,,1178.0,,18,141
+16065,"Madison County, Idaho",33620.0,,2136.0,,16,065
+45073,"Oconee County, South Carolina",43978.0,,2030.0,,45,073
+19043,"Clayton County, Iowa",51114.0,,2880.0,,19,043
+47009,"Blount County, Tennessee",51172.0,,1719.0,,47,009
+08027,"Custer County, Colorado",41330.0,,3601.0,,08,027
+28101,"Newton County, Mississippi",37643.0,,4038.0,,28,101
+31013,"Box Butte County, Nebraska",56328.0,,5202.0,,31,013
+55079,"Milwaukee County, Wisconsin",46784.0,,479.0,,55,079
+31027,"Cedar County, Nebraska",57208.0,,2946.0,,31,027
+17145,"Perry County, Illinois",45864.0,,3207.0,,17,145
+51125,"Nelson County, Virginia",53834.0,,4010.0,,51,125
+40065,"Jackson County, Oklahoma",45189.0,,2555.0,,40,065
+48349,"Navarro County, Texas",45103.0,,2407.0,,48,349
+39073,"Hocking County, Ohio",48073.0,,3504.0,,39,073
+40117,"Pawnee County, Oklahoma",46460.0,,2028.0,,40,117
+48307,"McCulloch County, Texas",42367.0,,7500.0,,48,307
+08103,"Rio Blanco County, Colorado",57991.0,,8135.0,,08,103
+51057,"Essex County, Virginia",50629.0,,3173.0,,51,057
+37121,"Mitchell County, North Carolina",42534.0,,2873.0,,37,121
+22113,"Vermilion Parish, Louisiana",49266.0,,2780.0,,22,113
+38009,"Bottineau County, North Dakota",58767.0,,4354.0,,38,009
+72005,"Aguadilla Municipio, Puerto Rico",16821.0,,939.0,,72,005
+36035,"Fulton County, New York",48033.0,,2240.0,,36,035
+40089,"McCurtain County, Oklahoma",34250.0,,1429.0,,40,089
+46127,"Union County, South Dakota",65434.0,,3315.0,,46,127
+22067,"Morehouse Parish, Louisiana",31672.0,,1947.0,,22,067
+19183,"Washington County, Iowa",59157.0,,2412.0,,19,183
+02290,"Yukon-Koyukuk Census Area, Alaska",37819.0,,2854.0,,02,290
+48079,"Cochran County, Texas",37500.0,,3978.0,,48,079
+05025,"Cleveland County, Arkansas",44840.0,,3699.0,,05,025
+51153,"Prince William County, Virginia",101059.0,,1440.0,,51,153
+48137,"Edwards County, Texas",48462.0,,24610.0,,48,137
+44007,"Providence County, Rhode Island",52530.0,,812.0,,44,007
+37167,"Stanly County, North Carolina",46017.0,,2247.0,,37,167
+48035,"Bosque County, Texas",48677.0,,3108.0,,48,035
+24011,"Caroline County, Maryland",52469.0,,2494.0,,24,011
+01029,"Cleburne County, Alabama",37396.0,,5390.0,,01,029
+36045,"Jefferson County, New York",50322.0,,1205.0,,36,045
+29137,"Monroe County, Missouri",42011.0,,2100.0,,29,137
+22081,"Red River Parish, Louisiana",41510.0,,6776.0,,22,081
+48247,"Jim Hogg County, Texas",31403.0,,4984.0,,48,247
+04015,"Mohave County, Arizona",41567.0,,796.0,,04,015
+51045,"Craig County, Virginia",53526.0,,15331.0,,51,045
+13191,"McIntosh County, Georgia",43285.0,,4280.0,,13,191
+46102,"Oglala Lakota County, South Dakota",27804.0,,2880.0,,46,102
+17103,"Lee County, Illinois",58319.0,,3414.0,,17,103
+06033,"Lake County, California",40446.0,,2857.0,,06,033
+18121,"Parke County, Indiana",44643.0,,4328.0,,18,121
+19197,"Wright County, Iowa",48935.0,,2600.0,,19,197
+21007,"Ballard County, Kentucky",42988.0,,2753.0,,21,007
+29183,"St. Charles County, Missouri",78380.0,,1216.0,,29,183
+01093,"Marion County, Alabama",35719.0,,2063.0,,01,093
+06057,"Nevada County, California",60610.0,,2262.0,,06,057
+12087,"Monroe County, Florida",63030.0,,1692.0,,12,087
+05003,"Ashley County, Arkansas",36407.0,,2317.0,,05,003
+54041,"Lewis County, West Virginia",39793.0,,2441.0,,54,041
+17169,"Schuyler County, Illinois",47321.0,,4462.0,,17,169
+16045,"Gem County, Idaho",42888.0,,3380.0,,16,045
+19139,"Muscatine County, Iowa",56398.0,,2540.0,,19,139
+02070,"Dillingham Census Area, Alaska",58708.0,,5073.0,,02,070
+28125,"Sharkey County, Mississippi",30033.0,,3512.0,,28,125
+42131,"Wyoming County, Pennsylvania",55965.0,,2345.0,,42,131
+48207,"Haskell County, Texas",43529.0,,6157.0,,48,207
+16023,"Butte County, Idaho",43207.0,,7907.0,,16,023
+38073,"Ransom County, North Dakota",62524.0,,4175.0,,38,073
+30003,"Big Horn County, Montana",47276.0,,4170.0,,30,003
+54007,"Braxton County, West Virginia",41266.0,,3577.0,,54,007
+55129,"Washburn County, Wisconsin",46592.0,,1835.0,,55,129
+51790,"Staunton city, Virginia",46435.0,,3006.0,,51,790
+12089,"Nassau County, Florida",64294.0,,2019.0,,12,089
+12083,"Marion County, Florida",41964.0,,878.0,,12,083
+20077,"Harper County, Kansas",48059.0,,5201.0,,20,077
+48339,"Montgomery County, Texas",74323.0,,1461.0,,48,339
+12063,"Jackson County, Florida",36944.0,,1427.0,,12,063
+34033,"Salem County, New Jersey",63934.0,,3042.0,,34,033
+27125,"Red Lake County, Minnesota",52500.0,,4838.0,,27,125
+51035,"Carroll County, Virginia",41145.0,,2793.0,,51,035
+08087,"Morgan County, Colorado",51456.0,,1911.0,,08,087
+28025,"Clay County, Mississippi",34118.0,,4893.0,,28,025
+18049,"Fulton County, Indiana",47108.0,,3650.0,,18,049
+47075,"Haywood County, Tennessee",36118.0,,1856.0,,47,075
+51109,"Louisa County, Virginia",56946.0,,4745.0,,51,109
+32023,"Nye County, Nevada",44225.0,,3588.0,,32,023
+18113,"Noble County, Indiana",52393.0,,2082.0,,18,113
+22015,"Bossier Parish, Louisiana",52145.0,,2315.0,,22,015
+27123,"Ramsey County, Minnesota",60301.0,,638.0,,27,123
+08081,"Moffat County, Colorado",53010.0,,4266.0,,08,081
+33007,"Coos County, New Hampshire",45386.0,,1718.0,,33,007
+47033,"Crockett County, Tennessee",39692.0,,4450.0,,47,033
+48505,"Zapata County, Texas",34550.0,,6700.0,,48,505
+06011,"Colusa County, California",56481.0,,4858.0,,06,011
+22077,"Pointe Coupee Parish, Louisiana",43964.0,,3897.0,,22,077
+20043,"Doniphan County, Kansas",50300.0,,3554.0,,20,043
+21227,"Warren County, Kentucky",49508.0,,2374.0,,21,227
+05139,"Union County, Arkansas",41106.0,,2148.0,,05,139
+28021,"Claiborne County, Mississippi",24601.0,,2695.0,,28,021
+13147,"Hart County, Georgia",41216.0,,2612.0,,13,147
+72121,"Sabana Grande Municipio, Puerto Rico",15736.0,,2051.0,,72,121
+41039,"Lane County, Oregon",47710.0,,857.0,,41,039
+48231,"Hunt County, Texas",49319.0,,2246.0,,48,231
+51063,"Floyd County, Virginia",48396.0,,4500.0,,51,063
+18007,"Benton County, Indiana",49183.0,,4226.0,,18,007
+39095,"Lucas County, Ohio",44820.0,,790.0,,39,095
+20173,"Sedgwick County, Kansas",52841.0,,879.0,,20,173
+48287,"Lee County, Texas",55741.0,,4948.0,,48,287
+39133,"Portage County, Ohio",53816.0,,1220.0,,39,133
+12086,"Miami-Dade County, Florida",46338.0,,365.0,,12,086
+13059,"Clarke County, Georgia",34557.0,,1564.0,,13,059
+51011,"Appomattox County, Virginia",54875.0,,5421.0,,51,011
+06041,"Marin County, California",104703.0,,1763.0,,06,041
+16033,"Clark County, Idaho",31927.0,,4864.0,,16,033
+38077,"Richland County, North Dakota",60551.0,,3224.0,,38,077
+34021,"Mercer County, New Jersey",77027.0,,1571.0,,34,021
+41055,"Sherman County, Oregon",42074.0,,7268.0,,41,055
+48193,"Hamilton County, Texas",46611.0,,6707.0,,48,193
+26037,"Clinton County, Michigan",64903.0,,1810.0,,26,037
+17085,"Jo Daviess County, Illinois",55532.0,,1868.0,,17,085
+19153,"Polk County, Iowa",63530.0,,972.0,,19,153
+47113,"Madison County, Tennessee",44496.0,,2056.0,,47,113
+42121,"Venango County, Pennsylvania",46487.0,,1389.0,,42,121
+13183,"Long County, Georgia",53083.0,,4971.0,,13,183
+55001,"Adams County, Wisconsin",44003.0,,1500.0,,55,001
+01043,"Cullman County, Alabama",40997.0,,1715.0,,01,043
+19123,"Mahaska County, Iowa",50568.0,,1801.0,,19,123
+40131,"Rogers County, Oklahoma",61320.0,,1290.0,,40,131
+48283,"La Salle County, Texas",44601.0,,8414.0,,48,283
+17159,"Richland County, Illinois",46454.0,,3015.0,,17,159
+08009,"Baca County, Colorado",35898.0,,2615.0,,08,009
+20197,"Wabaunsee County, Kansas",58947.0,,3439.0,,20,197
+47013,"Campbell County, Tennessee",35377.0,,1746.0,,47,013
+13173,"Lanier County, Georgia",31109.0,,5468.0,,13,173
+26009,"Antrim County, Michigan",50988.0,,1365.0,,26,009
+29033,"Carroll County, Missouri",43583.0,,7824.0,,29,033
+56043,"Washakie County, Wyoming",51362.0,,2570.0,,56,043
+17201,"Winnebago County, Illinois",51110.0,,701.0,,17,201
+46057,"Hamlin County, South Dakota",61784.0,,1902.0,,46,057
+29055,"Crawford County, Missouri",37171.0,,3624.0,,29,055
+30085,"Roosevelt County, Montana",39219.0,,3802.0,,30,085
+48351,"Newton County, Texas",40180.0,,5490.0,,48,351
+02105,"Hoonah-Angoon Census Area, Alaska",57900.0,,6783.0,,02,105
+13227,"Pickens County, Georgia",61542.0,,3961.0,,13,227
+36025,"Delaware County, New York",47921.0,,2077.0,,36,025
+26109,"Menominee County, Michigan",44480.0,,1955.0,,26,109
+35001,"Bernalillo County, New Mexico",50386.0,,670.0,,35,001
+48395,"Robertson County, Texas",52189.0,,5130.0,,48,395
+29047,"Clay County, Missouri",65675.0,,1019.0,,29,047
+01051,"Elmore County, Alabama",54981.0,,2614.0,,01,051
+01009,"Blount County, Alabama",47412.0,,2630.0,,01,009
+18183,"Whitley County, Indiana",57041.0,,2694.0,,18,183
+47093,"Knox County, Tennessee",52458.0,,751.0,,47,093
+46101,"Moody County, South Dakota",56233.0,,3006.0,,46,101
+39131,"Pike County, Ohio",43562.0,,3478.0,,39,131
+27169,"Winona County, Minnesota",53975.0,,3093.0,,27,169
+08071,"Las Animas County, Colorado",40586.0,,4510.0,,08,071
+18013,"Brown County, Indiana",59292.0,,5009.0,,18,013
+45003,"Aiken County, South Carolina",47713.0,,1780.0,,45,003
+45043,"Georgetown County, South Carolina",46967.0,,2473.0,,45,043
+25013,"Hampden County, Massachusetts",52205.0,,1036.0,,25,013
+42027,"Centre County, Pennsylvania",56466.0,,1612.0,,42,027
+26123,"Newaygo County, Michigan",45645.0,,1342.0,,26,123
+51053,"Dinwiddie County, Virginia",54640.0,,3190.0,,51,053
+31113,"Logan County, Nebraska",50278.0,,12533.0,,31,113
+40069,"Johnston County, Oklahoma",38636.0,,4667.0,,40,069
+27023,"Chippewa County, Minnesota",57601.0,,5017.0,,27,023
+31171,"Thomas County, Nebraska",53173.0,,5046.0,,31,171
+50025,"Windham County, Vermont",50831.0,,1962.0,,50,025
+31011,"Boone County, Nebraska",53854.0,,2563.0,,31,011
+21231,"Wayne County, Kentucky",33715.0,,2908.0,,21,231
+18147,"Spencer County, Indiana",55280.0,,2922.0,,18,147
+20059,"Franklin County, Kansas",53167.0,,2539.0,,20,059
+37009,"Ashe County, North Carolina",40293.0,,2235.0,,37,009
+51135,"Nottoway County, Virginia",38410.0,,2987.0,,51,135
+33009,"Grafton County, New Hampshire",61036.0,,2543.0,,33,009
+19149,"Plymouth County, Iowa",61316.0,,2664.0,,19,149
+37129,"New Hanover County, North Carolina",51457.0,,941.0,,37,129
+48187,"Guadalupe County, Texas",66187.0,,1709.0,,48,187
+31081,"Hamilton County, Nebraska",61944.0,,4773.0,,31,081
+37007,"Anson County, North Carolina",38123.0,,3690.0,,37,007
+08035,"Douglas County, Colorado",111154.0,,1484.0,,08,035
+51071,"Giles County, Virginia",49734.0,,2997.0,,51,071
+30033,"Garfield County, Montana",47188.0,,9425.0,,30,033
+42125,"Washington County, Pennsylvania",59309.0,,1109.0,,42,125
+31173,"Thurston County, Nebraska",44701.0,,2337.0,,31,173
+37101,"Johnston County, North Carolina",54610.0,,1737.0,,37,101
+47029,"Cocke County, Tennessee",32027.0,,2163.0,,47,029
+72041,"Cidra Municipio, Puerto Rico",20389.0,,1458.0,,72,041
+34013,"Essex County, New Jersey",57365.0,,959.0,,34,013
+36097,"Schuyler County, New York",47810.0,,3060.0,,36,097
+21137,"Lincoln County, Kentucky",37930.0,,2667.0,,21,137
+27161,"Waseca County, Minnesota",55189.0,,2840.0,,27,161
+08055,"Huerfano County, Colorado",35801.0,,2554.0,,08,055
+10005,"Sussex County, Delaware",57901.0,,1291.0,,10,005
+41023,"Grant County, Oregon",44826.0,,5576.0,,41,023
+47181,"Wayne County, Tennessee",34299.0,,4710.0,,47,181
+08069,"Larimer County, Colorado",64980.0,,1414.0,,08,069
+32015,"Lander County, Nevada",79865.0,,9671.0,,32,015
+38019,"Cavalier County, North Dakota",65505.0,,7241.0,,38,019
+01007,"Bibb County, Alabama",43404.0,,3431.0,,01,007
+05019,"Clark County, Arkansas",37144.0,,2739.0,,05,019
+29203,"Shannon County, Missouri",31202.0,,2664.0,,29,203
+37013,"Beaufort County, North Carolina",41101.0,,2273.0,,37,013
+21157,"Marshall County, Kentucky",49126.0,,2746.0,,21,157
+48087,"Collingsworth County, Texas",46348.0,,6241.0,,48,087
+02240,"Southeast Fairbanks Census Area, Alaska",63866.0,,6607.0,,02,240
+51690,"Martinsville city, Virginia",33545.0,,4045.0,,51,690
+12113,"Santa Rosa County, Florida",62731.0,,1578.0,,12,113
+31039,"Cuming County, Nebraska",50734.0,,3718.0,,31,039
+39029,"Columbiana County, Ohio",45498.0,,1393.0,,39,029
+29173,"Ralls County, Missouri",50161.0,,4015.0,,29,173
+48439,"Tarrant County, Texas",62532.0,,457.0,,48,439
+48053,"Burnet County, Texas",57173.0,,3823.0,,48,053
+16001,"Ada County, Idaho",60151.0,,1294.0,,16,001
+47147,"Robertson County, Tennessee",57424.0,,2330.0,,47,147
+27105,"Nobles County, Minnesota",53267.0,,2305.0,,27,105
+19143,"Osceola County, Iowa",53604.0,,4056.0,,19,143
+48335,"Mitchell County, Texas",52194.0,,3002.0,,48,335
+42045,"Delaware County, Pennsylvania",69839.0,,1025.0,,42,045
+08025,"Crowley County, Colorado",35292.0,,6589.0,,08,025
+37067,"Forsyth County, North Carolina",48369.0,,954.0,,37,067
+29013,"Bates County, Missouri",45605.0,,2524.0,,29,013
+18143,"Scott County, Indiana",49243.0,,3702.0,,18,143
+20065,"Graham County, Kansas",43427.0,,4600.0,,20,065
+04025,"Yavapai County, Arizona",48259.0,,1287.0,,04,025
+12075,"Levy County, Florida",36554.0,,1796.0,,12,075
+72133,"Santa Isabel Municipio, Puerto Rico",16816.0,,2183.0,,72,133
+17199,"Williamson County, Illinois",48600.0,,1911.0,,17,199
+39031,"Coshocton County, Ohio",43251.0,,2607.0,,39,031
+13067,"Cobb County, Georgia",72004.0,,1128.0,,13,067
+32033,"White Pine County, Nevada",60358.0,,4355.0,,32,033
+17105,"Livingston County, Illinois",54339.0,,2539.0,,17,105
+30087,"Rosebud County, Montana",54709.0,,4136.0,,30,087
+13117,"Forsyth County, Georgia",96445.0,,2452.0,,13,117
+55021,"Columbia County, Wisconsin",63293.0,,1519.0,,55,021
+42075,"Lebanon County, Pennsylvania",57698.0,,1688.0,,42,075
+28087,"Lowndes County, Mississippi",43198.0,,2630.0,,28,087
+04019,"Pima County, Arizona",48676.0,,534.0,,04,019
+19089,"Howard County, Iowa",51422.0,,2591.0,,19,089
+01101,"Montgomery County, Alabama",46545.0,,1309.0,,01,101
+29079,"Grundy County, Missouri",41092.0,,3115.0,,29,079
+38093,"Stutsman County, North Dakota",56088.0,,2738.0,,38,093
+17203,"Woodford County, Illinois",69507.0,,2304.0,,17,203
+17079,"Jasper County, Illinois",56523.0,,4478.0,,17,079
+18039,"Elkhart County, Indiana",52449.0,,1232.0,,18,039
+40085,"Love County, Oklahoma",49409.0,,5797.0,,40,085
+72013,"Arecibo Municipio, Puerto Rico",17289.0,,802.0,,72,013
+21133,"Letcher County, Kentucky",30293.0,,2697.0,,21,133
+48213,"Henderson County, Texas",44888.0,,1447.0,,48,213
+56041,"Uinta County, Wyoming",54672.0,,7803.0,,56,041
+19085,"Harrison County, Iowa",57558.0,,2479.0,,19,085
+27085,"McLeod County, Minnesota",59869.0,,2044.0,,27,085
+20031,"Coffey County, Kansas",58662.0,,3480.0,,20,031
+27165,"Watonwan County, Minnesota",50044.0,,5610.0,,27,165
+56013,"Fremont County, Wyoming",55013.0,,2341.0,,56,013
+19023,"Butler County, Iowa",53937.0,,1971.0,,19,023
+01125,"Tuscaloosa County, Alabama",50513.0,,1043.0,,01,125
+13097,"Douglas County, Georgia",59333.0,,2092.0,,13,097
+38065,"Oliver County, North Dakota",71500.0,,6293.0,,38,065
+12081,"Manatee County, Florida",53408.0,,1088.0,,12,081
+13181,"Lincoln County, Georgia",37711.0,,6081.0,,13,181
